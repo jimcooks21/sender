@@ -1,0 +1,41 @@
+{
+  "name": "mass-sender",
+  "version": "1.0.0",
+  "description": "MASS_SENDER email campaign manager",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-builder --win portable"
+  },
+  "devDependencies": {
+    "electron": "^30.5.1",
+    "electron-builder": "^24.13.3"
+  },
+  "build": {
+    "appId": "com.emailsender.mass_sender",
+    "productName": "MASS_SENDER",
+    "win": {
+      "target": [
+        {
+          "target": "nsis",
+          "arch": [
+            "x64"
+          ]
+        }
+      ],
+      "signAndEditExecutable": false,
+      "sign": null
+    },
+    "files": [
+      "**/*",
+      "!node_modules/.cache"
+    ],
+    "nsis": {
+      "oneClick": true,
+      "perMachine": false,
+      "createDesktopShortcut": true,
+      "createStartMenuShortcut": false,
+      "artifactName": "${productName}.exe"
+    }
+  }
+}

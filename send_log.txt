@@ -1,0 +1,1608 @@
+[2026-05-09T15:51:53.282Z] →  Loaded 1 email(s) from emails.txt
+[2026-05-09T15:51:53.283Z] →  Initialising OAuth2 client...
+[2026-05-09T15:51:54.806Z] ✓  [1/1] Sent → jimcooks211@outlook.com
+[2026-05-09T16:00:59.368Z] →  Loaded 1 email(s) from emails.txt
+[2026-05-09T16:00:59.369Z] →  Initialising OAuth2 client...
+[2026-05-09T16:01:01.365Z] ✓  [1/1] Sent → jimcooks211@outlook.com
+[2026-05-09T16:30:43.333Z] →  Loaded 1 email(s) from emails.txt
+[2026-05-09T16:30:43.345Z] →  Initialising OAuth2 client...
+[2026-05-09T16:30:45.412Z] ✓  [1/1] Sent → jimcooks211@outlook.com
+[2026-05-10T10:46:44.799Z] →  Loaded 1 email(s) from emails.txt
+[2026-05-10T10:46:44.800Z] →  Initialising OAuth2 client...
+[2026-05-10T10:46:44.802Z] →  Starting local cert server...
+[2026-05-10T10:46:44.818Z] →  Server on port 53363, opening cloudflared tunnel...
+[2026-05-10T10:46:50.450Z] ✓  Cert live at: https://daily-reads-velvet-stored.trycloudflare.com
+[2026-05-10T10:46:51.728Z] ✓  [1/1] Sent → jimcooks211@outlook.com
+[2026-05-10T11:39:52.408Z] →  Loaded 1 email(s) from emails.txt
+[2026-05-10T11:39:52.409Z] →  Initialising OAuth2 client...
+[2026-05-10T11:39:52.411Z] →  Starting local cert server...
+[2026-05-10T11:39:52.428Z] →  Server on port 64063, opening cloudflared tunnel...
+[2026-05-10T11:39:57.897Z] ✓  Cert live at: https://charming-favor-livestock-subsidiaries.trycloudflare.com
+[2026-05-10T11:39:59.257Z] ✓  [1/1] Sent → jimcooks211@outlook.com
+[2026-05-10T11:45:51.361Z] →  Loaded 1 email(s) from emails.txt
+[2026-05-10T11:45:51.362Z] →  Initialising OAuth2 client...
+[2026-05-10T11:45:51.363Z] →  Starting local cert server...
+[2026-05-10T11:45:51.378Z] →  Server on port 59154, opening cloudflared tunnel...
+[2026-05-10T11:45:56.349Z] ✓  Cert live at: https://stolen-coordination-towns-pst.trycloudflare.com
+[2026-05-10T11:45:57.710Z] ✓  [1/1] Sent → jimcooks211@outlook.com
+[2026-05-10T11:56:16.584Z] →  Loaded 1 email(s) from emails.txt
+[2026-05-10T11:56:16.586Z] →  Initialising OAuth2 client...
+[2026-05-10T11:56:16.587Z] →  Starting local cert server...
+[2026-05-10T11:56:16.603Z] →  Server on port 54892, opening cloudflared tunnel...
+[2026-05-10T11:56:22.501Z] ✓  Cert live at: https://burst-tall-gather-but.trycloudflare.com
+[2026-05-10T11:56:23.961Z] ✓  [1/1] Sent → jimcooks211@outlook.com
+[2026-05-10T11:57:33.674Z] →  Loaded 1 email(s) from emails.txt
+[2026-05-10T11:57:33.675Z] →  Initialising OAuth2 client...
+[2026-05-10T11:57:33.677Z] →  Starting local cert server...
+[2026-05-10T11:57:33.691Z] →  Server on port 54544, opening cloudflared tunnel...
+[2026-05-10T11:57:39.824Z] ✓  Cert live at: https://chemical-developmental-interpreted-toronto.trycloudflare.com
+[2026-05-10T11:57:40.914Z] ✓  [1/1] Sent → jimcooks211@outlook.com
+[2026-05-10T12:05:19.944Z] →  Loaded 1 email(s) from emails.txt
+[2026-05-10T12:05:19.944Z] →  Initialising OAuth2 client...
+[2026-05-10T12:05:19.946Z] →  Starting local cert server...
+[2026-05-10T12:05:19.961Z] →  Server on port 51413, opening cloudflared tunnel...
+[2026-05-10T12:05:25.198Z] ✓  Cert live at: https://technique-narrative-pitch-protection.trycloudflare.com
+[2026-05-10T12:05:26.630Z] ✓  [1/1] Sent → jimcooks211@outlook.com
+[2026-05-10T12:42:38.768Z] →  Loaded 1 email(s) from emails.txt
+[2026-05-10T12:42:38.769Z] →  Initialising OAuth2 client...
+[2026-05-10T12:42:38.770Z] →  Starting local cert server...
+[2026-05-10T12:42:38.785Z] →  Server on port 50669, opening cloudflared tunnel...
+[2026-05-10T12:42:44.851Z] ✓  Cert live at: https://dialogue-milwaukee-viking-diamond.trycloudflare.com
+[2026-05-10T12:42:46.335Z] ✓  [1/1] Sent → jimcooks211@outlook.com
+[2026-05-10T12:50:41.488Z] →  Loaded 1 email(s) from emails.txt
+[2026-05-10T12:50:41.489Z] →  Initialising OAuth2 client...
+[2026-05-10T12:50:41.490Z] →  Starting local cert server...
+[2026-05-10T12:50:41.505Z] →  Server on port 62676, opening cloudflared tunnel...
+[2026-05-10T12:50:46.765Z] ✓  Cert live at: https://path-adapted-food-which.trycloudflare.com
+[2026-05-10T12:50:48.105Z] ✓  [1/1] Sent → jimcooks211@outlook.com
+[2026-05-10T12:51:34.979Z] →  Loaded 1 email(s) from emails.txt
+[2026-05-10T12:51:34.980Z] →  Initialising OAuth2 client...
+[2026-05-10T12:51:34.982Z] →  Starting local cert server...
+[2026-05-10T12:51:34.996Z] →  Server on port 56765, opening cloudflared tunnel...
+[2026-05-10T12:51:40.974Z] ✓  Cert live at: https://old-legitimate-bikini-models.trycloudflare.com
+[2026-05-10T12:51:42.029Z] ✓  [1/1] Sent → jimcooks211@outlook.com
+[2026-05-10T12:57:20.340Z] →  Loaded 1 email(s) from emails.txt
+[2026-05-10T12:57:20.341Z] →  Initialising OAuth2 client...
+[2026-05-10T12:57:20.342Z] →  Starting local cert server...
+[2026-05-10T12:57:20.356Z] →  Server on port 57631, opening cloudflared tunnel...
+[2026-05-10T12:57:25.233Z] ✓  Cert live at: https://academy-floppy-sphere-tan.trycloudflare.com
+[2026-05-10T12:57:26.596Z] ✓  [1/1] Sent → jimcooks211@outlook.com
+[2026-05-10T13:00:15.239Z] →  Loaded 3 email(s) from emails.txt
+[2026-05-10T13:00:15.241Z] →  Initialising OAuth2 client...
+[2026-05-10T13:00:15.242Z] →  Starting local cert server...
+[2026-05-10T13:00:15.256Z] →  Server on port 55603, opening cloudflared tunnel...
+[2026-05-10T13:00:22.373Z] ✓  Cert live at: https://coat-looksmart-hence-seven.trycloudflare.com
+[2026-05-10T13:00:23.472Z] ✓  [1/3] Sent → jimcooks211@outlook.com
+[2026-05-10T13:00:24.257Z] ✓  [2/3] Sent → zuleykasbakery0225@outlook.com
+[2026-05-10T13:00:25.029Z] ✓  [3/3] Sent → Keene6143@outlook.com
+[2026-05-10T13:03:33.614Z] →  Loaded 1 email(s) from emails.txt
+[2026-05-10T13:03:33.615Z] →  Initialising OAuth2 client...
+[2026-05-10T13:03:33.616Z] →  Starting local cert server...
+[2026-05-10T13:03:33.630Z] →  Server on port 63832, opening cloudflared tunnel...
+[2026-05-10T13:03:39.339Z] ✓  Cert live at: https://but-must-talking-such.trycloudflare.com
+[2026-05-10T13:03:40.675Z] ✓  [1/1] Sent → jimcooks211@outlook.com
+[2026-05-10T13:12:30.690Z] →  Loaded 1 email(s) from emails.txt
+[2026-05-10T13:12:30.691Z] →  Initialising OAuth2 client...
+[2026-05-10T13:12:30.693Z] →  Starting local cert server...
+[2026-05-10T13:12:30.709Z] →  Server on port 62231, opening cloudflared tunnel...
+[2026-05-10T13:12:35.890Z] ✓  Cert live at: https://proportion-exception-cloudy-hits.trycloudflare.com
+[2026-05-10T13:12:37.241Z] ✓  [1/1] Sent → jimcooks211@outlook.com
+[2026-05-10T13:19:20.759Z] →  Loaded 1 email(s) from emails.txt
+[2026-05-10T13:19:20.760Z] →  Initialising OAuth2 client...
+[2026-05-10T13:19:20.761Z] →  Starting local cert server...
+[2026-05-10T13:19:20.778Z] →  Server on port 55967, opening cloudflared tunnel...
+[2026-05-10T13:19:25.675Z] ✓  Cert live at: https://forth-employer-calculations-unions.trycloudflare.com
+[2026-05-10T13:19:27.092Z] ✓  [1/1] Sent → jimcooks211@outlook.com
+[2026-05-10T13:20:22.006Z] →  Loaded 1 email(s) from emails.txt
+[2026-05-10T13:20:22.007Z] →  Initialising OAuth2 client...
+[2026-05-10T13:20:22.008Z] →  Starting local cert server...
+[2026-05-10T13:20:22.023Z] →  Server on port 61601, opening cloudflared tunnel...
+[2026-05-10T13:20:27.391Z] ✓  Cert live at: https://whenever-position-dentists-til.trycloudflare.com
+[2026-05-10T13:20:28.451Z] ✓  [1/1] Sent → jimcooks211@outlook.com
+[2026-05-10T13:25:07.560Z] →  Loaded 1 email(s) from emails.txt
+[2026-05-10T13:25:07.561Z] →  Initialising OAuth2 client...
+[2026-05-10T13:25:07.563Z] →  Starting local cert server...
+[2026-05-10T13:25:07.581Z] →  Server on port 62538, opening cloudflared tunnel...
+[2026-05-10T13:25:13.488Z] ✓  Cert live at: https://divine-unavailable-nelson-shift.trycloudflare.com
+[2026-05-10T13:25:14.983Z] ✓  [1/1] Sent → jimcooks211@outlook.com
+[2026-05-10T13:25:39.360Z] →  Loaded 1 email(s) from emails.txt
+[2026-05-10T13:25:39.361Z] →  Initialising OAuth2 client...
+[2026-05-10T13:25:39.363Z] →  Starting local cert server...
+[2026-05-10T13:25:39.378Z] →  Server on port 58831, opening cloudflared tunnel...
+[2026-05-10T13:25:44.835Z] ✓  Cert live at: https://happen-blogs-detection-unlock.trycloudflare.com
+[2026-05-10T13:25:45.926Z] ✓  [1/1] Sent → jimcooks211@outlook.com
+[2026-05-10T13:29:52.360Z] →  Loaded 1 email(s) from emails.txt
+[2026-05-10T13:29:52.361Z] →  Initialising OAuth2 client...
+[2026-05-10T13:29:52.362Z] →  Starting local cert server...
+[2026-05-10T13:29:52.378Z] →  Server on port 55096, opening cloudflared tunnel...
+[2026-05-10T13:29:57.968Z] ✓  Cert live at: https://yet-depth-guidance-lanka.trycloudflare.com
+[2026-05-10T13:29:59.156Z] ✓  [1/1] Sent → jimcooks211@outlook.com
+[2026-05-10T13:31:49.222Z] →  Loaded 3 email(s) from emails.txt
+[2026-05-10T13:31:49.223Z] →  Initialising OAuth2 client...
+[2026-05-10T13:31:49.224Z] →  Starting local cert server...
+[2026-05-10T13:31:49.238Z] →  Server on port 52493, opening cloudflared tunnel...
+[2026-05-10T13:31:54.266Z] ✓  Cert live at: https://edited-graphics-tuition-between.trycloudflare.com
+[2026-05-10T13:31:55.756Z] ✓  [1/3] Sent → jimcooks211@outlook.com
+[2026-05-10T13:31:56.573Z] ✓  [2/3] Sent → Keene6143@outlook.com
+[2026-05-10T13:31:57.376Z] ✓  [3/3] Sent → zuleykasbakery0225@outlook.com
+[2026-05-10T13:43:17.980Z] →  Loaded 3 email(s) from emails.txt
+[2026-05-10T13:43:17.982Z] →  Initialising OAuth2 client...
+[2026-05-10T13:43:17.983Z] →  Starting local cert server...
+[2026-05-10T13:43:17.997Z] →  Server on port 61182, opening cloudflared tunnel...
+[2026-05-10T13:43:23.255Z] ✓  Cert live at: https://tours-holiday-willing-colin.trycloudflare.com
+[2026-05-10T13:43:24.718Z] ✓  [1/3] Sent → jimcooks211@outlook.com
+[2026-05-10T13:43:25.480Z] ✓  [2/3] Sent → Keene6143@outlook.com
+[2026-05-10T13:43:26.249Z] ✓  [3/3] Sent → zuleykasbakery0225@outlook.com
+[2026-05-10T13:48:10.606Z] →  Loaded 3 email(s) from emails.txt
+[2026-05-10T13:48:10.607Z] →  Initialising OAuth2 client...
+[2026-05-10T13:48:10.608Z] →  Starting local cert server...
+[2026-05-10T13:48:10.622Z] →  Server on port 63264, opening cloudflared tunnel...
+[2026-05-10T13:48:16.556Z] ✓  Cert live at: https://questionnaire-personalized-fix-basket.trycloudflare.com
+[2026-05-10T13:48:17.818Z] ✓  [1/3] Sent → jimcooks211@outlook.com
+[2026-05-10T13:48:18.613Z] ✓  [2/3] Sent → Keene6143@outlook.com
+[2026-05-10T13:48:19.401Z] ✓  [3/3] Sent → zuleykasbakery0225@outlook.com
+[2026-05-10T13:52:01.856Z] →  Loaded 3 email(s) from emails.txt
+[2026-05-10T13:52:01.857Z] →  Initialising OAuth2 client...
+[2026-05-10T13:52:01.858Z] →  Starting local cert server...
+[2026-05-10T13:52:01.875Z] →  Server on port 59994, opening cloudflared tunnel...
+[2026-05-10T13:52:07.022Z] ✓  Cert live at: https://average-wilderness-dimension-founder.trycloudflare.com
+[2026-05-10T13:52:08.601Z] ✓  [1/3] Sent → jimcooks211@outlook.com
+[2026-05-10T13:52:09.418Z] ✓  [2/3] Sent → Keene6143@outlook.com
+[2026-05-10T13:52:10.308Z] ✓  [3/3] Sent → zuleykasbakery0225@outlook.com
+[2026-05-10T13:57:46.963Z] →  Loaded 3 email(s) from emails.txt
+[2026-05-10T13:57:46.964Z] →  Initialising OAuth2 client...
+[2026-05-10T13:57:46.965Z] →  Starting local cert server...
+[2026-05-10T13:57:46.979Z] →  Server on port 51996, opening cloudflared tunnel...
+[2026-05-10T13:57:51.922Z] ✓  Cert live at: https://best-printing-rating-microwave.trycloudflare.com
+[2026-05-10T13:57:53.526Z] ✓  [1/3] Sent → jimcooks211@outlook.com
+[2026-05-10T13:57:54.354Z] ✓  [2/3] Sent → Keene6143@outlook.com
+[2026-05-10T13:57:55.123Z] ✓  [3/3] Sent → zuleykasbakery0225@outlook.com
+[2026-05-10T14:03:58.177Z] →  Loaded 3 email(s) from emails.txt
+[2026-05-10T14:03:58.178Z] →  Initialising OAuth2 client...
+[2026-05-10T14:03:58.179Z] →  Starting local cert server...
+[2026-05-10T14:03:58.193Z] →  Server on port 51731, opening cloudflared tunnel...
+[2026-05-10T14:04:02.938Z] ✓  Cert live at: https://wings-quantity-age-margaret.trycloudflare.com
+[2026-05-10T14:04:04.429Z] ✓  [1/3] Sent → jimcooks211@outlook.com
+[2026-05-10T14:04:05.103Z] ✓  [2/3] Sent → Keene6143@outlook.com
+[2026-05-10T14:04:05.912Z] ✓  [3/3] Sent → zuleykasbakery0225@outlook.com
+[2026-05-10T14:07:39.907Z] →  Loaded 3 email(s) from emails.txt
+[2026-05-10T14:07:39.907Z] →  Initialising OAuth2 client...
+[2026-05-10T14:07:39.909Z] →  Starting local cert server...
+[2026-05-10T14:07:39.923Z] →  Server on port 60355, opening cloudflared tunnel...
+[2026-05-10T14:07:45.093Z] ✓  Cert live at: https://mls-candy-systems-full.trycloudflare.com
+[2026-05-10T14:07:46.343Z] ✓  [1/3] Sent → jimcooks211@outlook.com
+[2026-05-10T14:07:47.119Z] ✓  [2/3] Sent → Keene6143@outlook.com
+[2026-05-10T14:07:47.896Z] ✓  [3/3] Sent → zuleykasbakery0225@outlook.com
+[2026-05-10T14:08:50.547Z] →  Loaded 3 email(s) from emails.txt
+[2026-05-10T14:08:50.548Z] →  Initialising OAuth2 client...
+[2026-05-10T14:08:50.549Z] →  Starting local cert server...
+[2026-05-10T14:08:50.564Z] →  Server on port 58433, opening cloudflared tunnel...
+[2026-05-10T14:08:57.141Z] ✓  Cert live at: https://website-bookmarks-affordable-donated.trycloudflare.com
+[2026-05-10T14:08:58.558Z] ✓  [1/3] Sent → jimcooks211@outlook.com
+[2026-05-10T14:08:59.357Z] ✓  [2/3] Sent → Keene6143@outlook.com
+[2026-05-10T14:09:00.180Z] ✓  [3/3] Sent → zuleykasbakery0225@outlook.com
+[2026-05-10T14:17:50.164Z] →  Loaded 3 email(s) from emails.txt
+[2026-05-10T14:17:50.165Z] →  Initialising OAuth2 client...
+[2026-05-10T14:17:50.166Z] →  Starting local cert server...
+[2026-05-10T14:17:50.181Z] →  Server on port 53203, opening cloudflared tunnel...
+[2026-05-10T14:17:55.618Z] ✓  Cert live at: https://away-prozac-encountered-enterprises.trycloudflare.com
+[2026-05-10T14:17:57.153Z] ✓  [1/3] Sent → jimcooks211@outlook.com
+[2026-05-10T14:17:57.934Z] ✓  [2/3] Sent → Keene6143@outlook.com
+[2026-05-10T14:17:58.723Z] ✓  [3/3] Sent → zuleykasbakery0225@outlook.com
+[2026-05-10T14:25:48.764Z] →  Loaded 3 email(s) from emails.txt
+[2026-05-10T14:25:48.765Z] →  Initialising OAuth2 client...
+[2026-05-10T14:25:48.766Z] →  Starting local cert server...
+[2026-05-10T14:25:48.780Z] →  Server on port 50560, opening cloudflared tunnel...
+[2026-05-10T14:25:54.418Z] ✓  Cert live at: https://vat-bags-alternate-valuable.trycloudflare.com
+[2026-05-10T14:25:56.052Z] ✓  [1/3] Sent → jimcooks211@outlook.com
+[2026-05-10T14:25:56.858Z] ✓  [2/3] Sent → Keene6143@outlook.com
+[2026-05-10T14:25:57.759Z] ✓  [3/3] Sent → zuleykasbakery0225@outlook.com
+[2026-05-10T14:30:07.440Z] →  Loaded 3 email(s) from emails.txt
+[2026-05-10T14:30:07.441Z] →  Initialising OAuth2 client...
+[2026-05-10T14:30:07.442Z] →  Starting local cert server...
+[2026-05-10T14:30:07.457Z] →  Server on port 58794, opening cloudflared tunnel...
+[2026-05-10T14:30:12.659Z] ✓  Cert live at: https://costume-construction-strip-that.trycloudflare.com
+[2026-05-10T14:30:14.151Z] ✓  [1/3] Sent → jimcooks211@outlook.com
+[2026-05-10T14:30:15.011Z] ✓  [2/3] Sent → Keene6143@outlook.com
+[2026-05-10T14:30:15.809Z] ✓  [3/3] Sent → zuleykasbakery0225@outlook.com
+[2026-05-10T20:32:13.863Z] →  Loaded 3 email(s) from emails.txt
+[2026-05-10T20:32:13.864Z] →  Initialising OAuth2 client...
+[2026-05-10T20:32:13.865Z] →  Starting local cert server...
+[2026-05-10T20:32:13.880Z] →  Server on port 57338, opening cloudflared tunnel...
+[2026-05-10T20:32:19.702Z] ✓  Cert live at: https://jelsoft-conversations-researcher-generators.trycloudflare.com
+[2026-05-10T20:32:21.230Z] ✓  [1/3] Sent → jimcooks211@outlook.com
+[2026-05-10T20:32:22.017Z] ✓  [2/3] Sent → Keene6143@outlook.com
+[2026-05-10T20:32:22.775Z] ✓  [3/3] Sent → zuleykasbakery0225@outlook.com
+[2026-05-10T21:32:18.716Z] →  Loaded 3 email(s) from emails.txt
+[2026-05-10T21:32:18.718Z] →  Connecting to SMTP...
+[2026-05-10T21:34:42.465Z] →  Loaded 3 email(s) from emails.txt
+[2026-05-10T21:34:42.467Z] →  Connecting to SMTP...
+[2026-05-10T21:34:46.341Z] ✗  SMTP connection failed: Invalid login: 535 5.7.8 Error: authentication failed: (reason unavailable)
+[2026-05-10T21:35:08.866Z] →  Loaded 3 email(s) from emails.txt
+[2026-05-10T21:35:08.870Z] →  Connecting to SMTP...
+[2026-05-10T21:35:11.044Z] ✓  SMTP connected as docs@mscertify.live
+[2026-05-10T21:35:11.047Z] →  Starting local cert server...
+[2026-05-10T21:35:11.057Z] →  Server on port 50529, opening cloudflared tunnel...
+[2026-05-10T21:35:16.815Z] ✓  Cert live at: https://timing-widescreen-lou-internal.trycloudflare.com
+[2026-05-10T21:35:20.261Z] ✓  [1/3] Sent → jimcooks211@outlook.com
+[2026-05-10T21:35:24.355Z] ✓  [2/3] Sent → Keene6143@outlook.com
+[2026-05-10T21:35:28.248Z] ✓  [3/3] Sent → zuleykasbakery0225@outlook.com
+[2026-05-10T21:50:05.750Z] →  Loaded 3 email(s) from emails.txt
+[2026-05-10T21:50:05.752Z] →  Connecting to SMTP...
+[2026-05-10T21:50:07.667Z] ✓  SMTP connected as docs@mscertify.live
+[2026-05-10T21:50:07.670Z] →  Starting local cert server...
+[2026-05-10T21:50:07.681Z] →  Server on port 51379, opening cloudflared tunnel...
+[2026-05-10T21:50:12.655Z] ✓  Cert live at: https://jason-vinyl-spectacular-graphic.trycloudflare.com
+[2026-05-10T21:50:16.316Z] ✓  [1/3] Sent → jimcooks211@outlook.com
+[2026-05-10T21:50:21.717Z] ✓  [2/3] Sent → Keene6143@outlook.com
+[2026-05-10T21:50:25.669Z] ✓  [3/3] Sent → zuleykasbakery0225@outlook.com
+[2026-05-10T21:52:21.986Z] →  Loaded 3 email(s) from emails.txt
+[2026-05-10T21:52:21.987Z] →  Connecting to SMTP...
+[2026-05-10T21:52:23.901Z] ✓  SMTP connected as docs@mscertify.live
+[2026-05-10T21:52:23.904Z] →  Starting local cert server...
+[2026-05-10T21:52:23.915Z] →  Server on port 58875, opening cloudflared tunnel...
+[2026-05-10T21:52:29.511Z] ✓  Cert live at: https://duplicate-partner-organ-carried.trycloudflare.com
+[2026-05-10T21:52:33.041Z] ✓  [1/3] Sent → jimcooks211@outlook.com
+[2026-05-10T21:52:36.838Z] ✓  [2/3] Sent → Keene6143@outlook.com
+[2026-05-10T21:52:40.708Z] ✓  [3/3] Sent → zuleykasbakery0225@outlook.com
+[2026-05-10T22:47:34.538Z] →  Loaded 3 email(s) from emails.txt
+[2026-05-10T22:47:34.539Z] →  Connecting to SMTP...
+[2026-05-10T22:47:38.252Z] ✗  SMTP connection failed: Invalid login: 535 5.7.8 Error: authentication failed: (reason unavailable)
+[2026-05-10T22:48:06.482Z] →  Loaded 3 email(s) from emails.txt
+[2026-05-10T22:48:06.482Z] →  Connecting to SMTP...
+[2026-05-10T22:48:08.360Z] ✓  SMTP connected as docs@mscertify.live
+[2026-05-10T22:48:08.361Z] →  Starting local cert server on port 3000...
+[2026-05-10T22:48:08.364Z] →  Starting named tunnel docs-cert...
+[2026-05-10T22:48:08.779Z] ✓  Tunnel live at: https://docs.smcertify.live
+[2026-05-10T22:48:12.041Z] ✓  [1/3] Sent → jimcooks211@outlook.com
+[2026-05-10T22:48:15.958Z] ✓  [2/3] Sent → Keene6143@outlook.com
+[2026-05-10T22:48:19.653Z] ✓  [3/3] Sent → zuleykasbakery0225@outlook.com
+[2026-05-10T22:49:19.601Z] →  Loaded 3 email(s) from emails.txt
+[2026-05-10T22:49:19.602Z] →  Connecting to SMTP...
+[2026-05-10T22:49:21.572Z] ✓  SMTP connected as docs@mscertify.live
+[2026-05-10T22:49:21.575Z] →  Starting local cert server on port 3000...
+[2026-05-10T22:49:21.587Z] →  Starting named tunnel docs-cert...
+[2026-05-10T22:49:21.955Z] ✓  Tunnel live at: https://docs.mscertify.live
+[2026-05-10T22:49:25.197Z] ✓  [1/3] Sent → jimcooks211@outlook.com
+[2026-05-10T22:49:28.875Z] ✓  [2/3] Sent → Keene6143@outlook.com
+[2026-05-10T22:49:32.544Z] ✓  [3/3] Sent → zuleykasbakery0225@outlook.com
+[2026-05-10T22:51:01.536Z] →  Loaded 3 email(s) from emails.txt
+[2026-05-10T22:51:01.537Z] →  Connecting to SMTP...
+[2026-05-10T22:51:03.463Z] ✓  SMTP connected as docs@mscertify.live
+[2026-05-10T22:51:03.466Z] →  Starting local cert server on port 3000...
+[2026-05-10T22:51:03.477Z] →  Starting named tunnel docs-cert...
+[2026-05-10T22:51:03.745Z] ✓  Tunnel live at: https://docs.mscertify.live
+[2026-05-10T22:51:07.048Z] ✓  [1/3] Sent → jimcooks211@outlook.com
+[2026-05-10T22:51:10.832Z] ✓  [2/3] Sent → Keene6143@outlook.com
+[2026-05-10T22:51:14.737Z] ✓  [3/3] Sent → zuleykasbakery0225@outlook.com
+[2026-05-10T23:17:19.668Z] →  Loaded 4 email(s) from emails.txt
+[2026-05-10T23:17:19.669Z] →  Connecting to SMTP...
+[2026-05-10T23:17:21.646Z] ✓  SMTP connected as docs@mscertify.live
+[2026-05-10T23:17:21.648Z] →  Starting local cert server on port 3000...
+[2026-05-10T23:17:21.652Z] →  Starting named tunnel docs-cert...
+[2026-05-10T23:17:22.185Z] ✓  Tunnel live at: https://docs.smcertify.live
+[2026-05-10T23:17:25.483Z] ✓  [1/4] Sent → jimcooks211@outlook.com
+[2026-05-10T23:17:29.057Z] ✓  [2/4] Sent → Keene6143@outlook.com
+[2026-05-10T23:17:32.823Z] ✓  [3/4] Sent → zuleykasbakery0225@outlook.com
+[2026-05-10T23:17:36.874Z] ✓  [4/4] Sent → youfollowbychoice@outlook.com
+[2026-05-10T23:19:25.992Z] →  Loaded 4 email(s) from emails.txt
+[2026-05-10T23:19:25.993Z] →  Connecting to SMTP...
+[2026-05-10T23:19:51.026Z] ✓  SMTP connected as docs@mscertify.live
+[2026-05-10T23:19:51.027Z] →  Starting local cert server on port 3000...
+[2026-05-10T23:19:51.033Z] →  Starting named tunnel docs-cert...
+[2026-05-10T23:19:51.286Z] ✓  Tunnel live at: https://docs.mscertify.live
+[2026-05-10T23:19:54.656Z] ✓  [1/4] Sent → jimcooks211@outlook.com
+[2026-05-10T23:19:58.343Z] ✓  [2/4] Sent → Keene6143@outlook.com
+[2026-05-10T23:20:02.111Z] ✓  [3/4] Sent → zuleykasbakery0225@outlook.com
+[2026-05-10T23:20:05.668Z] ✓  [4/4] Sent → youfollowbychoice@outlook.com
+[2026-05-11T00:33:52.327Z] →  Loaded 4 email(s) from emails.txt
+[2026-05-11T00:33:52.328Z] →  Connecting to SMTP...
+[2026-05-11T00:33:54.165Z] ✓  SMTP connected as docs@mscertify.live
+[2026-05-11T00:33:54.167Z] →  Starting local cert server on port 3000...
+[2026-05-11T00:33:54.174Z] →  Starting named tunnel docs-cert...
+[2026-05-11T00:33:54.683Z] ✓  Tunnel live at: https://docs.mscertify.live
+[2026-05-11T00:33:57.976Z] ✓  [1/4] Sent → jimcooks211@outlook.com
+[2026-05-11T00:34:01.755Z] ✓  [2/4] Sent → Keene6143@outlook.com
+[2026-05-11T00:34:05.638Z] ✓  [3/4] Sent → zuleykasbakery0225@outlook.com
+[2026-05-11T00:34:09.191Z] ✓  [4/4] Sent → youfollowbychoice@outlook.com
+[2026-05-11T00:34:12.160Z] 📬  OPENED  by jimcooks211@outlook.com  (total opens: 1)
+[2026-05-11T00:34:15.122Z] 🔗  CLICKED by jimcooks211@outlook.com  (total clicks: 1)
+[2026-05-11T00:40:05.579Z] 📬  OPENED  by youfollowbychoice@outlook.com  (total opens: 2)
+[2026-05-11T00:40:18.726Z] 🔗  CLICKED by youfollowbychoice@outlook.com  (total clicks: 2)
+[2026-05-11T00:40:44.348Z] →  Loaded 1 email(s) from emails.txt
+[2026-05-11T00:40:44.349Z] →  Connecting to SMTP...
+[2026-05-11T00:40:46.326Z] ✓  SMTP connected as docs@mscertify.live
+[2026-05-11T00:40:46.327Z] →  Starting local cert server on port 3000...
+[2026-05-11T00:40:46.330Z] →  Starting named tunnel docs-cert...
+[2026-05-11T00:40:46.830Z] ✓  Tunnel live at: https://docs.mscertify.live
+[2026-05-11T00:40:50.459Z] ✓  [1/1] Sent → jimcooks211@outlook.com
+[2026-05-11T00:41:06.867Z] 📬  OPENED  by jimcooks211@outlook.com  (total opens: 1)
+[2026-05-11T00:41:09.499Z] 🔗  CLICKED by jimcooks211@outlook.com  (total clicks: 1)
+[2026-05-11T00:41:30.554Z] 🔗  CLICKED by youfollowbychoice@outlook.com  (total clicks: 2)
+[2026-05-11T01:21:17.466Z] →  Loaded 1 email(s) from emails.txt
+[2026-05-11T01:21:17.467Z] →  Connecting to SMTP...
+[2026-05-11T01:21:25.243Z] ✓  SMTP connected as files@mscertify.live
+[2026-05-11T01:21:25.246Z] →  Starting local cert server on port 3000...
+[2026-05-11T01:26:44.506Z] →  Loaded 1 email(s) from emails.txt
+[2026-05-11T01:26:44.507Z] →  Connecting to SMTP...
+[2026-05-11T01:26:46.412Z] ✓  SMTP connected as files@mscertify.live
+[2026-05-11T01:26:46.413Z] →  Starting local cert server on port 3000...
+[2026-05-11T01:29:59.768Z] →  Loaded 1 email(s) from emails.txt
+[2026-05-11T01:29:59.769Z] →  Connecting to SMTP...
+[2026-05-11T01:30:01.686Z] ✓  SMTP connected as files@mscertify.live
+[2026-05-11T01:30:01.689Z] →  Starting local cert server on port 3001...
+[2026-05-11T01:31:36.108Z] →  Loaded 1 email(s) from emails.txt
+[2026-05-11T01:31:36.109Z] →  Connecting to SMTP...
+[2026-05-11T01:31:38.116Z] ✓  SMTP connected as files@mscertify.live
+[2026-05-11T01:31:38.119Z] →  Starting local cert server on port 3001...
+[2026-05-11T01:32:18.366Z] →  Loaded 1 email(s) from emails.txt
+[2026-05-11T01:32:18.367Z] →  Connecting to SMTP...
+[2026-05-11T01:32:20.197Z] ✓  SMTP connected as files@mscertify.live
+[2026-05-11T01:32:20.198Z] →  Starting local cert server on port 3001...
+[2026-05-11T01:32:20.203Z] →  Starting named tunnel docs-cert...
+[2026-05-11T01:32:20.706Z] ✓  Tunnel live at: https://files.mscertify.live
+[2026-05-11T01:32:24.175Z] ✓  [1/1] Sent → jimcooks211@outlook.com
+[2026-05-11T01:34:20.967Z] →  Loaded 1 email(s) from emails.txt
+[2026-05-11T01:34:20.968Z] →  Connecting to SMTP...
+[2026-05-11T01:34:22.853Z] ✓  SMTP connected as files@mscertify.live
+[2026-05-11T01:34:22.855Z] →  Starting local cert server on port 3001...
+[2026-05-11T01:34:22.861Z] →  Starting named tunnel docs-cert...
+[2026-05-11T01:34:23.106Z] ✓  Tunnel live at: https://files.mscertify.live
+[2026-05-11T01:34:26.472Z] ✓  [1/1] Sent → jimcooks211@outlook.com
+[2026-05-11T01:37:27.318Z] →  Loaded 1 email(s) from emails.txt
+[2026-05-11T01:37:27.319Z] →  Connecting to SMTP...
+[2026-05-11T01:37:29.327Z] ✓  SMTP connected as files@mscertify.live
+[2026-05-11T01:37:29.328Z] →  Starting local cert server on port 3001...
+[2026-05-11T01:37:29.331Z] →  Starting named tunnel docs-cert...
+[2026-05-11T01:37:29.831Z] ✓  Tunnel live at: https://files.mscertify.live
+[2026-05-11T01:37:33.292Z] ✓  [1/1] Sent → jimcooks211@outlook.com
+[2026-05-11T01:47:34.120Z] →  Loaded 1 email(s) from emails.txt
+[2026-05-11T01:47:34.121Z] →  Connecting to SMTP...
+[2026-05-11T01:47:36.319Z] ✓  SMTP connected as files@mscertify.live
+[2026-05-11T01:47:36.320Z] →  Starting local cert server on port 3001...
+[2026-05-11T01:51:04.700Z] →  Loaded 1 email(s) from emails.txt
+[2026-05-11T01:51:04.701Z] →  Connecting to SMTP...
+[2026-05-11T01:51:06.518Z] ✓  SMTP connected as portal@mscertify.live
+[2026-05-11T01:51:06.520Z] →  Starting local cert server on port 3002...
+[2026-05-11T01:51:06.525Z] →  Starting named tunnel docs-cert...
+[2026-05-11T01:51:07.042Z] ✓  Tunnel live at: https://portal.mscertify.live
+[2026-05-11T01:51:10.500Z] ✓  [1/1] Sent → jimcooks211@outlook.com
+[2026-05-11T01:51:20.707Z] 📬  OPENED  by jimcooks211@outlook.com  (total opens: 1)
+[2026-05-11T01:51:27.001Z] 🔗  CLICKED by jimcooks211@outlook.com  (total clicks: 1)
+[2026-05-11T23:53:44.327Z] →  Loaded 2 email(s) from emails.txt
+[2026-05-11T23:53:44.329Z] →  Connecting to SMTP...
+[2026-05-11T23:53:46.318Z] ✓  SMTP connected as portal@mscertify.live
+[2026-05-11T23:53:46.320Z] →  Starting local cert server on port 3003...
+[2026-05-11T23:53:46.339Z] →  Starting named tunnel docs-cert...
+[2026-05-11T23:53:47.114Z] ✓  Tunnel live at: https://view.mscertify.live
+[2026-05-11T23:53:50.842Z] ✓  [1/2] Sent → jimcooks211@outlook.com
+[2026-05-11T23:53:54.534Z] ✓  [2/2] Sent → zuleykasbakery0225@outlook.com
+[2026-05-12T00:01:02.247Z] →  Loaded 2 email(s) from emails.txt
+[2026-05-12T00:01:02.248Z] →  Connecting to SMTP...
+[2026-05-12T00:01:04.216Z] ✓  SMTP connected as portal@mscertify.live
+[2026-05-12T00:01:04.217Z] →  Starting local cert server on port 3003...
+[2026-05-12T00:01:04.220Z] →  Starting named tunnel docs-cert...
+[2026-05-12T00:01:04.671Z] ✓  Tunnel live at: https://view.mscertify.live
+[2026-05-12T00:01:08.085Z] ✓  [1/2] Sent → jimcooks211@outlook.com
+[2026-05-12T00:01:13.494Z] ✓  [2/2] Sent → zuleykasbakery0225@outlook.com
+[2026-05-12T00:10:10.685Z] 📬  OPENED  by jimcooks211@outlook.com  (total opens: 1)
+[2026-05-12T00:12:42.303Z] 🔗  CLICKED by zuleykasbakery0225@outlook.com  (total clicks: 1)
+[2026-05-12T00:18:58.397Z] →  Loaded 2 email(s) from emails.txt
+[2026-05-12T00:18:58.398Z] →  Connecting to SMTP...
+[2026-05-12T00:19:00.398Z] ✓  SMTP connected as portal@mscertify.live
+[2026-05-12T00:19:00.399Z] →  Starting local cert server on port 3003...
+[2026-05-12T00:19:00.401Z] →  Starting named tunnel docs-cert...
+[2026-05-12T00:19:00.926Z] ✓  Tunnel live at: https://view.mscertify.live
+[2026-05-12T00:19:05.847Z] ✓  [1/2] Sent → jimcooks211@outlook.com
+[2026-05-12T00:19:09.614Z] ✓  [2/2] Sent → zuleykasbakery0225@outlook.com
+[2026-05-12T00:19:26.646Z] 📬  OPENED  by jimcooks211@outlook.com  (total opens: 1)
+[2026-05-12T00:27:04.077Z] →  Loaded 3 email(s) from emails.txt
+[2026-05-12T00:27:04.078Z] →  Connecting to SMTP...
+[2026-05-12T00:27:05.909Z] ✓  SMTP connected as portal@mscertify.live
+[2026-05-12T00:27:05.911Z] →  Starting local cert server on port 3003...
+[2026-05-12T00:27:05.922Z] →  Starting named tunnel docs-cert...
+[2026-05-12T00:27:06.488Z] ✓  Tunnel live at: https://view.mscertify.live
+[2026-05-12T00:27:09.973Z] ✓  [1/3] Sent → jimcooks211@outlook.com
+[2026-05-12T00:27:13.969Z] ✓  [2/3] Sent → zuleykasbakery0225@outlook.com
+[2026-05-12T00:27:17.725Z] ✓  [3/3] Sent → test-wqgmqw5uy@srv1.mail-tester.com
+[2026-05-12T00:27:29.586Z] 📬  OPENED  by test-wqgmqw5uy@srv1.mail-tester.com  (total opens: 1)
+[2026-05-12T00:27:29.592Z] 🔗  CLICKED by test-wqgmqw5uy@srv1.mail-tester.com  (total clicks: 1)
+[2026-05-12T00:47:48.444Z] →  Loaded 2 email(s) from emails.txt
+[2026-05-12T00:47:48.445Z] →  Connecting to SMTP...
+[2026-05-12T00:47:50.431Z] ✓  SMTP connected as portal@mscertify.live
+[2026-05-12T00:47:50.433Z] →  Starting local cert server on port 3003...
+[2026-05-12T00:47:50.442Z] →  Starting named tunnel docs-cert...
+[2026-05-12T00:47:50.987Z] ✓  Tunnel live at: https://view.mscertify.live
+[2026-05-12T00:47:54.424Z] ✓  [1/2] Sent → jimcooks211@outlook.com
+[2026-05-12T00:47:59.704Z] ✓  [2/2] Sent → test-b1x3gdvor@srv1.mail-tester.com
+[2026-05-12T00:48:07.294Z] 🔗  CLICKED by test-b1x3gdvor@srv1.mail-tester.com  (total clicks: 1)
+[2026-05-12T00:48:07.297Z] 📬  OPENED  by test-b1x3gdvor@srv1.mail-tester.com  (total opens: 1)
+[2026-05-12T00:56:46.111Z] →  Loaded 2 email(s) from emails.txt
+[2026-05-12T00:56:46.112Z] →  Connecting to SMTP...
+[2026-05-12T00:56:47.976Z] ✓  SMTP connected as portal@mscertify.live
+[2026-05-12T00:56:47.977Z] →  Starting local cert server on port 3003...
+[2026-05-12T00:56:47.980Z] →  Starting named tunnel docs-cert...
+[2026-05-12T00:56:48.491Z] ✓  Tunnel live at: https://view.mscertify.live
+[2026-05-12T00:56:53.465Z] ✓  [1/2] Sent → jimcooks211@outlook.com
+[2026-05-12T00:56:57.150Z] ✓  [2/2] Sent → test-wmzdrrf12@srv1.mail-tester.com
+[2026-05-12T00:57:06.313Z] 🔗  CLICKED by test-wmzdrrf12@srv1.mail-tester.com  (total clicks: 1)
+[2026-05-12T00:57:06.316Z] 📬  OPENED  by test-wmzdrrf12@srv1.mail-tester.com  (total opens: 1)
+[2026-05-12T00:57:29.963Z] →  Loaded 2 email(s) from emails.txt
+[2026-05-12T00:57:29.964Z] →  Connecting to SMTP...
+[2026-05-12T00:57:31.831Z] ✓  SMTP connected as portal@mscertify.live
+[2026-05-12T00:57:31.833Z] →  Starting local cert server on port 3003...
+[2026-05-12T00:57:31.847Z] →  Starting named tunnel docs-cert...
+[2026-05-12T00:57:32.107Z] ✓  Tunnel live at: https://view.mscertify.live
+[2026-05-12T00:57:35.644Z] ✓  [1/2] Sent → jimcooks211@outlook.com
+[2026-05-12T00:57:39.386Z] ✓  [2/2] Sent → zuleykasbakery0225@outlook.com
+[2026-05-12T01:00:07.930Z] 📬  OPENED  by jimcooks211@outlook.com  (total opens: 1)
+[2026-05-12T01:01:46.966Z] →  Loaded 1 email(s) from emails.txt
+[2026-05-12T01:01:46.967Z] →  Connecting to SMTP...
+[2026-05-12T01:01:48.834Z] ✓  SMTP connected as portal@mscertify.live
+[2026-05-12T01:01:48.836Z] →  Starting local cert server on port 3003...
+[2026-05-12T01:01:48.842Z] →  Starting named tunnel docs-cert...
+[2026-05-12T01:01:49.384Z] ✓  Tunnel live at: https://view.mscertify.live
+[2026-05-12T01:01:52.852Z] ✓  [1/1] Sent → jimcooks211@outlook.com
+[2026-05-12T01:04:09.078Z] 📬  OPENED  by zuleykasbakery0225@outlook.com  (total opens: 1)
+[2026-05-12T01:04:13.930Z] 🔗  CLICKED by zuleykasbakery0225@outlook.com  (total clicks: 1)
+[2026-05-12T01:06:26.515Z] 📬  OPENED  by jimcooks211@outlook.com  (total opens: 2)
+[2026-05-12T01:14:47.286Z] →  Loaded 3 email(s) from emails.txt
+[2026-05-12T01:14:47.288Z] →  Connecting to SMTP...
+[2026-05-12T01:14:49.116Z] ✓  SMTP connected as portal@mscertify.live
+[2026-05-12T01:14:49.117Z] →  Starting local cert server on port 3003...
+[2026-05-12T01:14:49.120Z] →  Starting named tunnel docs-cert...
+[2026-05-12T01:14:49.734Z] ✓  Tunnel live at: https://view.mscertify.live
+[2026-05-12T01:14:53.102Z] ✓  [1/3] Sent → jimcooks211@outlook.com
+[2026-05-12T01:14:57.119Z] ✓  [2/3] Sent → jimcooks211@gmail.com
+[2026-05-12T01:15:01.032Z] ✓  [3/3] Sent → zuleykasbakery0225@outlook.com
+[2026-05-12T01:15:10.281Z] 🔗  CLICKED by jimcooks211@outlook.com  (total clicks: 1)
+[2026-05-12T01:16:28.644Z] 📬  OPENED  by jimcooks211@gmail.com  (total opens: 1)
+[2026-05-12T01:17:14.960Z] 🔗  CLICKED by jimcooks211@gmail.com  (total clicks: 2)
+[2026-05-12T01:19:42.493Z] →  Loaded 5 email(s) from emails.txt
+[2026-05-12T01:19:42.494Z] →  Connecting to SMTP...
+[2026-05-12T01:19:44.391Z] ✓  SMTP connected as portal@mscertify.live
+[2026-05-12T01:19:44.393Z] →  Starting local cert server on port 3003...
+[2026-05-12T01:19:44.403Z] →  Starting named tunnel docs-cert...
+[2026-05-12T01:19:44.670Z] ✓  Tunnel live at: https://view.mscertify.live
+[2026-05-12T01:19:47.962Z] ✓  [1/5] Sent → jimcooks211@outlook.com
+[2026-05-12T01:19:51.746Z] ✓  [2/5] Sent → jimcooks211@gmail.com
+[2026-05-12T01:19:55.432Z] ✓  [3/5] Sent → zuleykasbakery0225@outlook.com
+[2026-05-12T01:19:59.249Z] ✓  [4/5] Sent → develextacy@gmail.com
+[2026-05-12T01:20:02.866Z] ✓  [5/5] Sent → isrealdiviney@gmail.com
+[2026-05-12T01:20:09.955Z] 📬  OPENED  by jimcooks211@gmail.com  (total opens: 1)
+[2026-05-12T01:22:50.478Z] 📬  OPENED  by develextacy@gmail.com  (total opens: 2)
+[2026-05-12T01:23:45.984Z] 📬  OPENED  by isrealdiviney@gmail.com  (total opens: 3)
+[2026-05-12T01:24:37.392Z] →  Loaded 5 email(s) from emails.txt
+[2026-05-12T01:24:37.393Z] →  Connecting to SMTP...
+[2026-05-12T01:24:39.397Z] ✓  SMTP connected as portal@mscertify.live
+[2026-05-12T01:24:39.399Z] →  Starting local cert server on port 3003...
+[2026-05-12T01:24:39.410Z] →  Starting named tunnel docs-cert...
+[2026-05-12T01:24:39.944Z] ✓  Tunnel live at: https://view.mscertify.live
+[2026-05-12T01:24:43.254Z] ✓  [1/5] Sent → jimcooks211@outlook.com
+[2026-05-12T01:24:46.879Z] ✓  [2/5] Sent → jimcooks211@gmail.com
+[2026-05-12T01:24:50.610Z] ✓  [3/5] Sent → hackgod211@gmail.com
+[2026-05-12T01:24:54.429Z] ✓  [4/5] Sent → develextacy@gmail.com
+[2026-05-12T01:24:58.145Z] ✓  [5/5] Sent → isrealdiviney@gmail.com
+[2026-05-12T01:24:59.664Z] 📬  OPENED  by develextacy@gmail.com  (total opens: 1)
+[2026-05-12T01:25:03.744Z] 📬  OPENED  by jimcooks211@gmail.com  (total opens: 2)
+[2026-05-12T01:25:25.075Z] 📬  OPENED  by hackgod211@gmail.com  (total opens: 3)
+[2026-05-12T01:30:43.673Z] 📬  OPENED  by zuleykasbakery0225@outlook.com  (total opens: 4)
+[2026-05-12T01:32:01.325Z] →  Loaded 1 email(s) from emails.txt
+[2026-05-12T01:32:01.326Z] →  Connecting to SMTP...
+[2026-05-12T01:32:03.157Z] ✓  SMTP connected as portal@mscertify.live
+[2026-05-12T01:32:03.157Z] →  Starting local cert server on port 3003...
+[2026-05-12T01:32:03.161Z] →  Starting named tunnel docs-cert...
+[2026-05-12T01:32:03.695Z] ✓  Tunnel live at: https://view.mscertify.live
+[2026-05-12T01:32:07.543Z] ✓  [1/1] Sent → phantomviews211@gmail.com
+[2026-05-12T01:34:21.738Z] →  Loaded 1 email(s) from emails.txt
+[2026-05-12T01:34:21.739Z] →  Connecting to SMTP...
+[2026-05-12T01:34:23.561Z] ✓  SMTP connected as portal@mscertify.live
+[2026-05-12T01:34:23.562Z] →  Starting local cert server on port 3003...
+[2026-05-12T01:34:23.565Z] →  Starting named tunnel docs-cert...
+[2026-05-12T01:34:23.811Z] ✓  Tunnel live at: https://view.mscertify.live
+[2026-05-12T01:34:27.359Z] ✓  [1/1] Sent → phantomviews211@gmail.com
+[2026-05-12T01:36:39.972Z] 📬  OPENED  by phantomviews211@gmail.com  (total opens: 1)
+[2026-05-12T01:36:42.333Z] 🔗  CLICKED by phantomviews211@gmail.com  (total clicks: 1)
+[2026-05-12T01:38:07.677Z] →  Loaded 1 email(s) from emails.txt
+[2026-05-12T01:38:07.678Z] →  Connecting to SMTP...
+[2026-05-12T01:38:09.561Z] ✓  SMTP connected as portal@mscertify.live
+[2026-05-12T01:38:09.562Z] →  Starting local cert server on port 3003...
+[2026-05-12T01:38:09.564Z] →  Starting named tunnel docs-cert...
+[2026-05-12T01:38:10.075Z] ✓  Tunnel live at: https://view.mscertify.live
+[2026-05-12T01:38:13.965Z] ✓  [1/1] Sent → phantomviews211@gmail.com
+[2026-05-12T01:38:20.341Z] 📬  OPENED  by phantomviews211@gmail.com  (total opens: 1)
+[2026-05-12T01:38:22.760Z] 🔗  CLICKED by phantomviews211@gmail.com  (total clicks: 1)
+[2026-05-12T12:30:36.270Z] →  Loaded 1 email(s) from emails.txt
+[2026-05-12T12:30:36.273Z] →  Connecting to SMTP...
+[2026-05-12T12:30:37.211Z] ✗  SMTP connection failed: Invalid login: 535 5.7.8 Authentication failed
+[2026-05-12T12:31:17.658Z] →  Loaded 1 email(s) from emails.txt
+[2026-05-12T12:31:17.659Z] →  Connecting to SMTP...
+[2026-05-12T12:31:18.646Z] ✗  SMTP connection failed: Invalid login: 535 5.7.8 Authentication failed
+[2026-05-12T12:36:52.096Z] →  Loaded 1 email(s) from emails.txt
+[2026-05-12T12:36:52.097Z] →  Connecting to SMTP...
+[2026-05-12T12:36:52.108Z] ✗  SMTP connection failed: getaddrinfo ENOTFOUND smtp-relay.brevo.com
+[2026-05-12T12:42:12.688Z] →  Loaded 1 email(s) from emails.txt
+[2026-05-12T12:42:12.702Z] →  Connecting to SMTP...
+[2026-05-12T12:42:24.763Z] ✗  SMTP connection failed: getaddrinfo ENOTFOUND smtp-relay.brevo.com
+[2026-05-12T12:48:09.919Z] →  Loaded 1 email(s) from emails.txt
+[2026-05-12T12:48:09.920Z] →  Connecting to SMTP...
+[2026-05-12T12:48:10.997Z] ✗  SMTP connection failed: Invalid login: 535 5.7.8 Authentication failed
+[2026-05-12T12:50:06.948Z] →  Loaded 1 email(s) from emails.txt
+[2026-05-12T12:50:06.949Z] →  Connecting to SMTP...
+[2026-05-12T12:50:07.873Z] ✗  SMTP connection failed: Invalid login: 535 5.7.8 Authentication failed
+[2026-05-12T12:50:43.387Z] →  Loaded 1 email(s) from emails.txt
+[2026-05-12T12:50:43.388Z] →  Connecting to SMTP...
+[2026-05-12T12:50:44.265Z] ✗  SMTP connection failed: Invalid login: 535 5.7.8 Authentication failed
+[2026-05-12T12:54:31.546Z] →  Loaded 1 email(s) from emails.txt
+[2026-05-12T12:54:31.547Z] →  Connecting to SMTP...
+[2026-05-12T12:54:32.524Z] ✓  SMTP connected as portal@mscertify.live
+[2026-05-12T12:54:32.527Z] →  Starting local cert server on port 3003...
+[2026-05-12T12:54:32.538Z] →  Starting named tunnel docs-cert...
+[2026-05-12T12:54:33.305Z] ✓  Tunnel live at: https://view.mscertify.live
+[2026-05-12T12:54:34.772Z] ✓  [1/1] Sent → phantomviews211@gmail.com
+[2026-05-12T12:54:53.742Z] 📬  OPENED  by phantomviews211@gmail.com  (total opens: 1)
+[2026-05-12T12:55:30.670Z] →  Loaded 1 email(s) from emails.txt
+[2026-05-12T12:55:30.671Z] →  Connecting to SMTP...
+[2026-05-12T12:55:31.550Z] ✓  SMTP connected as portal@mscertify.live
+[2026-05-12T12:55:31.551Z] →  Starting local cert server on port 3003...
+[2026-05-12T12:55:31.555Z] →  Starting named tunnel docs-cert...
+[2026-05-12T12:55:31.812Z] ✓  Tunnel live at: https://view.mscertify.live
+[2026-05-12T12:55:33.240Z] ✓  [1/1] Sent → mattrifetrouble@gmail.com
+[2026-05-12T12:59:24.424Z] →  Loaded 1 email(s) from emails.txt
+[2026-05-12T12:59:24.425Z] →  Connecting to SMTP...
+[2026-05-12T12:59:25.291Z] ✓  SMTP connected as portal@mscertify.live
+[2026-05-12T12:59:25.292Z] →  Starting local cert server on port 3003...
+[2026-05-12T12:59:25.294Z] →  Starting named tunnel docs-cert...
+[2026-05-12T12:59:25.554Z] ✓  Tunnel live at: https://view.mscertify.live
+[2026-05-12T12:59:26.965Z] ✓  [1/1] Sent → bot.father1996@outlook.com
+[2026-05-12T12:59:45.015Z] 📬  OPENED  by bot.father1996@outlook.com  (total opens: 1)
+[2026-05-12T13:10:52.535Z] →  Loaded 1 email(s) from emails.txt
+[2026-05-12T13:10:52.536Z] →  Connecting to SMTP...
+[2026-05-12T13:10:53.483Z] ✓  SMTP connected as hudgesbenedict@gmail.com
+[2026-05-12T13:10:53.484Z] →  Starting local cert server on port 3003...
+[2026-05-12T13:10:53.487Z] →  Starting named tunnel docs-cert...
+[2026-05-12T13:10:54.045Z] ✓  Tunnel live at: https://view.mscertify.live
+[2026-05-12T13:10:55.624Z] ✓  [1/1] Sent → bot.father1996@outlook.com
+[2026-05-12T13:18:23.166Z] →  Loaded 1 email(s) from emails.txt
+[2026-05-12T13:18:23.167Z] →  Connecting to SMTP...
+[2026-05-12T13:18:24.072Z] ✓  SMTP connected as portal@mscertify.live
+[2026-05-12T13:18:24.073Z] →  Starting local cert server on port 3003...
+[2026-05-12T13:18:24.076Z] →  Starting named tunnel docs-cert...
+[2026-05-12T13:18:24.602Z] ✓  Tunnel live at: https://view.mscertify.live
+[2026-05-12T13:18:26.020Z] ✓  [1/1] Sent → bot.father1996@outlook.com
+[2026-05-12T13:19:51.796Z] →  Loaded 2 email(s) from emails.txt
+[2026-05-12T13:19:51.797Z] →  Connecting to SMTP...
+[2026-05-12T13:19:52.677Z] ✓  SMTP connected as portal@mscertify.live
+[2026-05-12T13:19:52.678Z] →  Starting local cert server on port 3003...
+[2026-05-12T13:19:52.681Z] →  Starting named tunnel docs-cert...
+[2026-05-12T13:19:52.935Z] ✓  Tunnel live at: https://view.mscertify.live
+[2026-05-12T13:19:54.523Z] ✓  [1/2] Sent → bot.father1996@outlook.com
+[2026-05-12T13:19:56.368Z] ✓  [2/2] Sent → zuleykasbakery0225@outlook.com
+[2026-05-12T13:21:51.046Z] →  Loaded 4 email(s) from emails.txt
+[2026-05-12T13:21:51.047Z] →  Connecting to SMTP...
+[2026-05-12T13:21:52.084Z] ✓  SMTP connected as portal@mscertify.live
+[2026-05-12T13:21:52.085Z] →  Starting local cert server on port 3003...
+[2026-05-12T13:21:52.087Z] →  Starting named tunnel docs-cert...
+[2026-05-12T13:21:52.346Z] ✓  Tunnel live at: https://view.mscertify.live
+[2026-05-12T13:21:53.912Z] ✓  [1/4] Sent → bot.father1996@outlook.com
+[2026-05-12T13:21:55.845Z] ✓  [2/4] Sent → zuleykasbakery0225@outlook.com
+[2026-05-12T13:21:57.774Z] ✓  [3/4] Sent → mattrifetrouble@gmail.com
+[2026-05-12T13:21:59.679Z] ✓  [4/4] Sent → hughesbenedict55@gmail.com
+[2026-05-12T13:22:06.672Z] 📬  OPENED  by hughesbenedict55@gmail.com  (total opens: 1)
+[2026-05-12T13:25:49.966Z] →  Loaded 5 email(s) from emails.txt
+[2026-05-12T13:25:49.967Z] →  Connecting to SMTP...
+[2026-05-12T13:25:50.841Z] ✓  SMTP connected as portal@mscertify.live
+[2026-05-12T13:25:50.842Z] →  Starting local cert server on port 3003...
+[2026-05-12T13:25:50.844Z] →  Starting named tunnel docs-cert...
+[2026-05-12T13:25:51.383Z] ✓  Tunnel live at: https://view.mscertify.live
+[2026-05-12T13:25:52.808Z] ✓  [1/5] Sent → bot.father1996@outlook.com
+[2026-05-12T13:25:54.596Z] ✓  [2/5] Sent → zuleykasbakery0225@outlook.com
+[2026-05-12T13:25:56.381Z] ✓  [3/5] Sent → mattrifetrouble@gmail.com
+[2026-05-12T13:25:58.259Z] ✓  [4/5] Sent → hughesbenedict55@gmail.com
+[2026-05-12T13:26:00.190Z] ✓  [5/5] Sent → youfollowbychoice@outlook.com
+[2026-05-12T13:27:04.598Z] 🔗  CLICKED by youfollowbychoice@outlook.com  (total clicks: 1)
+[2026-05-12T14:45:03.992Z] →  Loaded 5 email(s) from emails.txt
+[2026-05-12T14:45:03.995Z] →  Connecting to SMTP...
+[2026-05-12T14:45:06.069Z] ✓  SMTP connected as docs@mattrifeofficial.co
+[2026-05-12T14:45:06.073Z] →  Starting local cert server on port 3003...
+[2026-05-12T14:45:06.085Z] →  Starting named tunnel docs-cert...
+[2026-05-12T14:45:07.893Z] ✓  Tunnel live at: https://view.mscertify.live
+[2026-05-12T14:45:11.543Z] ✓  [1/5] Sent → bot.father1996@outlook.com
+[2026-05-12T14:45:15.343Z] ✓  [2/5] Sent → zuleykasbakery0225@outlook.com
+[2026-05-12T14:45:21.055Z] ✓  [3/5] Sent → mattrifetrouble@gmail.com
+[2026-05-12T14:45:25.259Z] ✓  [4/5] Sent → hughesbenedict55@gmail.com
+[2026-05-12T14:45:29.043Z] 📬  OPENED  by bot.father1996@outlook.com  (total opens: 1)
+[2026-05-12T14:45:29.252Z] ✓  [5/5] Sent → youfollowbychoice@outlook.com
+[2026-05-12T14:50:03.060Z] →  Loaded 5 email(s) from emails.txt
+[2026-05-12T14:50:03.062Z] →  Connecting to SMTP...
+[2026-05-12T14:50:06.035Z] ✓  SMTP connected as docs@mattrifeofficial.co
+[2026-05-12T14:50:06.037Z] →  Starting local cert server on port 3003...
+[2026-05-12T14:50:06.049Z] →  Starting named tunnel docs-cert...
+[2026-05-12T14:50:06.657Z] ✓  Tunnel live at: https://view.mscertify.live
+[2026-05-12T14:50:10.522Z] ✓  [1/5] Sent → bot.father1996@outlook.com
+[2026-05-12T14:50:14.845Z] ✓  [2/5] Sent → zuleykasbakery0225@outlook.com
+[2026-05-12T14:50:18.738Z] ✓  [3/5] Sent → mattrifetrouble@gmail.com
+[2026-05-12T14:50:22.693Z] ✓  [4/5] Sent → hughesbenedict55@gmail.com
+[2026-05-12T14:50:26.618Z] ✓  [5/5] Sent → youfollowbychoice@outlook.com
+[2026-05-12T14:53:01.631Z] →  Loaded 1 email(s) from emails.txt
+[2026-05-12T14:53:01.632Z] →  Connecting to SMTP...
+[2026-05-12T14:53:03.724Z] ✓  SMTP connected as docs@mattrifeofficial.co
+[2026-05-12T14:53:03.727Z] →  Starting local cert server on port 3003...
+[2026-05-12T14:53:03.743Z] →  Starting named tunnel docs-cert...
+[2026-05-12T14:53:05.210Z] ✓  Tunnel live at: https://view.mscertify.live
+[2026-05-12T14:53:10.770Z] ✓  [1/1] Sent → jimcooks211@outlook.com
+[2026-05-12T14:55:02.255Z] →  Loaded 1 email(s) from emails.txt
+[2026-05-12T14:55:02.257Z] →  Connecting to SMTP...
+[2026-05-12T14:55:04.405Z] ✓  SMTP connected as docs@mattrifeofficial.co
+[2026-05-12T14:55:04.408Z] →  Starting local cert server on port 3003...
+[2026-05-12T14:55:04.417Z] →  Starting named tunnel docs-cert...
+[2026-05-12T14:55:05.483Z] ✓  Tunnel live at: https://view.mscertify.live
+[2026-05-12T14:55:09.557Z] ✓  [1/1] Sent → jimcooks211@outlook.com
+[2026-05-12T15:01:49.960Z] →  Loaded 1 email(s) from emails.txt
+[2026-05-12T15:01:49.963Z] →  Connecting to SMTP...
+[2026-05-12T15:01:52.013Z] ✓  SMTP connected as docs@mattrifeofficial.co
+[2026-05-12T15:01:52.016Z] →  Starting local cert server on port 3003...
+[2026-05-12T15:01:52.027Z] →  Starting named tunnel docs-cert...
+[2026-05-12T15:01:52.642Z] ✓  Tunnel live at: https://docs.mattrifeofficial.co
+[2026-05-12T15:01:56.603Z] ✓  [1/1] Sent → jimcooks211@outlook.com
+[2026-05-12T15:02:44.021Z] →  Loaded 2 email(s) from emails.txt
+[2026-05-12T15:02:44.022Z] →  Connecting to SMTP...
+[2026-05-12T15:02:46.274Z] ✓  SMTP connected as docs@mattrifeofficial.co
+[2026-05-12T15:02:46.277Z] →  Starting local cert server on port 3003...
+[2026-05-12T15:02:46.289Z] →  Starting named tunnel docs-cert...
+[2026-05-12T15:02:47.088Z] ✓  Tunnel live at: https://docs.mattrifeofficial.co
+[2026-05-12T15:02:51.092Z] ✓  [1/2] Sent → jimcooks211@outlook.com
+[2026-05-12T15:02:55.648Z] ✓  [2/2] Sent → youfollowbychoice@outlook.com
+[2026-05-12T15:03:08.439Z] →  Loaded 1 email(s) from emails.txt
+[2026-05-12T15:03:08.443Z] →  Connecting to SMTP...
+[2026-05-12T15:03:10.646Z] ✓  SMTP connected as docs@mattrifeofficial.co
+[2026-05-12T15:03:10.649Z] →  Starting local cert server on port 3003...
+[2026-05-12T15:03:10.660Z] →  Starting named tunnel docs-cert...
+[2026-05-12T15:03:11.191Z] ✓  Tunnel live at: https://docs.mattrifeofficial.co
+[2026-05-12T15:03:14.928Z] ✓  [1/1] Sent → youfollowbychoice@outlook.com
+[2026-05-12T15:24:04.472Z] →  Loaded 1 email(s) from emails.txt
+[2026-05-12T15:24:04.474Z] →  Connecting to SMTP...
+[2026-05-12T15:24:06.654Z] ✓  SMTP connected as docs@mattrifeofficial.co
+[2026-05-12T15:24:06.657Z] →  Starting local cert server on port 3003...
+[2026-05-12T15:24:06.668Z] →  Starting named tunnel docs-cert...
+[2026-05-12T15:24:07.645Z] ✓  Tunnel live at: https://docs.mattrifeofficial.co
+[2026-05-12T15:24:11.171Z] ✓  [1/1] Sent → youfollowbychoice@outlook.com
+[2026-05-12T15:25:15.047Z] →  Loaded 1 email(s) from emails.txt
+[2026-05-12T15:25:15.051Z] →  Connecting to SMTP...
+[2026-05-12T15:25:17.086Z] ✓  SMTP connected as docs@mattrifeofficial.co
+[2026-05-12T15:25:17.089Z] →  Starting local cert server on port 3003...
+[2026-05-12T15:25:17.100Z] →  Starting named tunnel docs-cert...
+[2026-05-12T15:25:17.969Z] ✓  Tunnel live at: https://docs.mattrifeofficial.co
+[2026-05-12T15:25:21.376Z] ✓  [1/1] Sent → jimcooks211@outlook.com
+[2026-05-12T15:25:27.499Z] 🔗  CLICKED by youfollowbychoice@outlook.com  (total clicks: 1)
+[2026-05-12T15:25:36.430Z] 🔗  CLICKED by jimcooks211@outlook.com  (total clicks: 2)
+[2026-05-12T15:30:48.996Z] →  Loaded 1 email(s) from emails.txt
+[2026-05-12T15:30:48.998Z] →  Connecting to SMTP...
+[2026-05-12T15:30:51.301Z] ✓  SMTP connected as docs@mattrifeofficial.co
+[2026-05-12T15:30:51.305Z] →  Starting local cert server on port 3003...
+[2026-05-12T15:30:51.315Z] →  Starting named tunnel docs-cert...
+[2026-05-12T15:30:52.420Z] ✓  Tunnel live at: https://docs.mattrifeofficial.co
+[2026-05-12T15:30:55.908Z] ✓  [1/1] Sent → jimcooks211@outlook.com
+[2026-05-12T15:31:13.293Z] 🔗  CLICKED by jimcooks211@outlook.com  (total clicks: 1)
+[2026-05-12T15:37:50.953Z] →  Loaded 1 email(s) from emails.txt
+[2026-05-12T15:37:50.955Z] →  Connecting to SMTP...
+[2026-05-12T15:37:58.515Z] ✓  SMTP connected as docs@mattrifeofficial.co
+[2026-05-12T15:37:58.519Z] →  Starting local cert server on port 3003...
+[2026-05-12T15:37:58.530Z] →  Starting named tunnel docs-cert...
+[2026-05-12T15:38:00.032Z] ✓  Tunnel live at: https://docs.mattrifeofficial.co
+[2026-05-12T15:38:04.996Z] ✓  [1/1] Sent → jimcooks211@outlook.com
+[2026-05-12T15:39:16.918Z] →  Loaded 1 email(s) from emails.txt
+[2026-05-12T15:39:16.920Z] →  Connecting to SMTP...
+[2026-05-12T15:39:18.857Z] ✓  SMTP connected as docs@mattrifeofficial.co
+[2026-05-12T15:39:18.859Z] →  Starting local cert server on port 3003...
+[2026-05-12T15:39:18.867Z] →  Starting named tunnel docs-cert...
+[2026-05-12T15:39:19.247Z] ✓  Tunnel live at: https://docs.mattrifeofficial.co
+[2026-05-12T15:39:24.354Z] ✓  [1/1] Sent → jimcooks211@outlook.com
+[2026-05-12T15:40:11.209Z] →  Loaded 2 email(s) from emails.txt
+[2026-05-12T15:40:11.211Z] →  Connecting to SMTP...
+[2026-05-12T15:40:13.095Z] ✓  SMTP connected as docs@mattrifeofficial.co
+[2026-05-12T15:40:13.098Z] →  Starting local cert server on port 3003...
+[2026-05-12T15:40:13.110Z] →  Starting named tunnel docs-cert...
+[2026-05-12T15:40:14.008Z] ✓  Tunnel live at: https://docs.mattrifeofficial.co
+[2026-05-12T15:40:17.745Z] ✓  [1/2] Sent → jimcooks211@outlook.com
+[2026-05-12T15:40:21.783Z] ✓  [2/2] Sent → jimcooks211@gmail.com
+[2026-05-12T15:44:03.120Z] →  Loaded 2 email(s) from emails.txt
+[2026-05-12T15:44:03.121Z] →  Connecting to SMTP...
+[2026-05-12T15:44:05.046Z] ✓  SMTP connected as docs@mattrifeofficial.co
+[2026-05-12T15:44:05.048Z] →  Starting local cert server on port 3003...
+[2026-05-12T15:44:05.056Z] →  Starting named tunnel docs-cert...
+[2026-05-12T15:44:05.560Z] ✓  Tunnel live at: https://docs.mattrifeofficial.co
+[2026-05-12T15:44:08.966Z] ✓  [1/2] Sent → jimcooks211@outlook.com
+[2026-05-12T15:44:12.624Z] ✓  [2/2] Sent → jimcooks211@gmail.com
+[2026-05-12T16:16:06.995Z] →  Loaded 2 email(s) from emails.txt
+[2026-05-12T16:16:06.996Z] →  Connecting to SMTP...
+[2026-05-12T16:16:09.044Z] ✓  SMTP connected as docs@mattrifeofficial.co
+[2026-05-12T16:16:09.046Z] →  Starting local cert server on port 3003...
+[2026-05-12T16:16:09.053Z] →  Starting named tunnel docs-cert...
+[2026-05-12T16:16:10.053Z] ✓  Tunnel live at: https://docs.mattrifeofficial.co
+[2026-05-12T16:16:13.525Z] ✓  [1/2] Sent → jimcooks211@outlook.com
+[2026-05-12T16:16:17.726Z] ✓  [2/2] Sent → jimcooks211@gmail.com
+[2026-05-12T16:56:07.192Z] →  Loaded 2 email(s) from emails.txt
+[2026-05-12T16:56:07.194Z] →  Connecting to SMTP...
+[2026-05-12T16:56:08.102Z] ✓  SMTP connected as docs@mattrifeofficial.co
+[2026-05-12T16:56:08.103Z] →  Starting local cert server on port 3003...
+[2026-05-12T16:56:08.105Z] →  Starting named tunnel docs-cert...
+[2026-05-12T16:56:08.349Z] ✓  Tunnel live at: https://docs.mattrifeofficial.co
+[2026-05-12T16:56:09.871Z] ✓  [1/2] Sent → jimcooks211@outlook.com
+[2026-05-12T16:56:11.861Z] ✓  [2/2] Sent → jimcooks211@gmail.com
+[2026-05-12T17:13:41.602Z] →  Loaded 1 email(s) from emails.txt
+[2026-05-12T17:13:41.603Z] →  Connecting to SMTP...
+[2026-05-12T17:13:42.473Z] ✓  SMTP connected as docs@mattrifeofficial.co
+[2026-05-12T17:13:42.474Z] →  Starting local cert server on port 3003...
+[2026-05-12T17:15:34.370Z] →  Loaded 1 email(s) from emails.txt
+[2026-05-12T17:15:34.371Z] →  Connecting to SMTP...
+[2026-05-12T17:15:35.336Z] ✓  SMTP connected as docs@mattrifeofficial.co
+[2026-05-12T17:15:35.337Z] →  Starting local cert server on port 3003...
+[2026-05-12T17:15:35.341Z] →  Starting named tunnel docs-cert...
+[2026-05-12T17:15:35.641Z] ✓  Tunnel live at: https://docs.mattrifeofficial.co
+[2026-05-12T17:15:37.087Z] ✓  [1/1] Sent → test-4sxsf60dkt@srv1.mail-tester.com
+[2026-05-12T17:16:51.816Z] →  Loaded 1 email(s) from emails.txt
+[2026-05-12T17:16:51.817Z] →  Connecting to SMTP...
+[2026-05-12T17:16:52.854Z] ✓  SMTP connected as docs@mattrifeofficial.co
+[2026-05-12T17:16:52.854Z] →  Starting local cert server on port 3003...
+[2026-05-12T17:17:42.685Z] →  Loaded 1 email(s) from emails.txt
+[2026-05-12T17:17:42.686Z] →  Connecting to SMTP...
+[2026-05-12T17:17:43.671Z] ✓  SMTP connected as docs@mattrifeofficial.co
+[2026-05-12T17:17:43.672Z] →  Using pre-running tunnel (test mode — skipping local server)...
+[2026-05-12T17:17:45.168Z] ✓  [1/1] Sent → test-4sxsf60dkt@srv1.mail-tester.com
+[2026-05-12T17:21:33.467Z] →  Loaded 1 email(s) from emails.txt
+[2026-05-12T17:21:33.468Z] →  Connecting to SMTP...
+[2026-05-12T17:21:34.486Z] ✓  SMTP connected as docs@mattrifeofficial.co
+[2026-05-12T17:21:34.487Z] →  Starting local cert server on port 3010...
+[2026-05-12T17:21:34.490Z] →  Starting named tunnel docs-cert...
+[2026-05-12T17:21:35.003Z] ✓  Tunnel live at: https://docs.mattrifeofficial.co
+[2026-05-12T17:21:36.507Z] ✓  [1/1] Sent → jimcooks211@outlook.com
+[2026-05-12T17:24:21.810Z] →  Loaded 1 email(s) from emails.txt
+[2026-05-12T17:24:21.810Z] →  Connecting to SMTP...
+[2026-05-12T17:24:22.914Z] ✓  SMTP connected as docs@mattrifeofficial.co
+[2026-05-12T17:24:22.915Z] →  Starting local cert server on port 3010...
+[2026-05-12T17:24:22.917Z] →  Starting named tunnel docs-cert...
+[2026-05-12T17:24:23.160Z] ✓  Tunnel live at: https://docs.mattrifeofficial.co
+[2026-05-12T17:24:24.598Z] ✓  [1/1] Sent → jimcooks211@outlook.com
+[2026-05-12T17:27:37.811Z] →  Loaded 1 email(s) from emails.txt
+[2026-05-12T17:27:37.812Z] →  Connecting to SMTP...
+[2026-05-12T17:27:38.760Z] ✓  SMTP connected as docs@mattrifeofficial.co
+[2026-05-12T17:27:38.761Z] →  Starting local cert server on port 3010...
+[2026-05-12T17:27:38.765Z] →  Starting named tunnel docs-cert...
+[2026-05-12T17:27:39.402Z] ✓  Tunnel live at: https://docs.mattrifeofficial.co
+[2026-05-12T17:27:41.834Z] ✓  [1/1] Sent → jimcooks211@outlook.com
+[2026-05-12T17:35:02.016Z] →  Loaded 1 email(s) from emails.txt
+[2026-05-12T17:35:02.017Z] →  Connecting to SMTP...
+[2026-05-12T17:35:04.453Z] ✓  SMTP connected as docs@mattrifeofficial.co
+[2026-05-12T17:35:04.455Z] →  Starting local cert server on port 3010...
+[2026-05-12T17:35:04.463Z] →  Starting named tunnel docs-cert...
+[2026-05-12T17:35:05.074Z] ✓  Tunnel live at: https://docs.mattrifeofficial.co
+[2026-05-12T17:35:06.560Z] ✓  [1/1] Sent → jimcooks211@outlook.com
+[2026-05-12T17:39:40.654Z] →  Loaded 1 email(s) from emails.txt
+[2026-05-12T17:39:40.668Z] →  Connecting to SMTP...
+[2026-05-12T17:39:41.587Z] ✓  SMTP connected as docs@mattrifeofficial.co
+[2026-05-12T17:39:41.590Z] →  Starting local cert server on port 3010...
+[2026-05-12T17:39:41.600Z] →  Starting named tunnel docs-cert...
+[2026-05-12T17:39:41.861Z] ✓  Tunnel live at: https://docs.mattrifeofficial.co
+[2026-05-12T17:39:43.366Z] ✓  [1/1] Sent → jimcooks211@outlook.com
+[2026-05-12T17:41:25.707Z] →  Loaded 1 email(s) from emails.txt
+[2026-05-12T17:41:25.708Z] →  Connecting to SMTP...
+[2026-05-12T17:41:26.669Z] ✓  SMTP connected as docs@mattrifeofficial.co
+[2026-05-12T17:41:26.670Z] →  Starting local cert server on port 3010...
+[2026-05-12T17:41:26.676Z] →  Starting named tunnel docs-cert...
+[2026-05-12T17:41:27.211Z] ✓  Tunnel live at: https://docs.mattrifeofficial.co
+[2026-05-12T17:41:28.764Z] ✓  [1/1] Sent → jimcooks211@outlook.com
+[2026-05-12T17:46:46.556Z] →  Loaded 1 email(s) from emails.txt
+[2026-05-12T17:46:46.558Z] →  Connecting to SMTP...
+[2026-05-12T17:46:47.454Z] ✓  SMTP connected as docs@mattrifeofficial.co
+[2026-05-12T17:46:47.455Z] →  Starting local cert server on port 3010...
+[2026-05-12T17:46:47.458Z] →  Starting named tunnel docs-cert...
+[2026-05-12T17:46:47.969Z] ✓  Tunnel live at: https://docs.mattrifeofficial.co
+[2026-05-12T17:46:49.413Z] ✓  [1/1] Sent → jimcooks211@outlook.com
+[2026-05-12T17:57:32.271Z] →  Loaded 1 email(s) from emails.txt
+[2026-05-12T17:57:32.274Z] →  Connecting to SMTP...
+[2026-05-12T17:57:36.136Z] ✓  SMTP connected as docs@mattrifeofficial.co
+[2026-05-12T17:57:36.138Z] →  Starting local cert server on port 3010...
+[2026-05-12T17:57:36.142Z] →  Starting named tunnel docs-cert...
+[2026-05-12T17:57:36.549Z] ✓  Tunnel live at: https://docs.mattrifeofficial.co
+[2026-05-12T17:57:39.936Z] ✓  [1/1] Sent → jimcooks211@outlook.com
+[2026-05-12T18:02:18.823Z] 📬  OPENED  by zuleykasbakery0225@outlook.com  (total opens: 1)
+[2026-05-12T18:02:48.504Z] 🔗  CLICKED by zuleykasbakery0225@outlook.com  (total clicks: 1)
+[2026-05-12T20:17:15.522Z] 📬  OPENED  by bot.father1996@outlook.com  (total opens: 2)
+[2026-05-12T22:59:00.885Z] →  Loaded 7 email(s) from emails.txt
+[2026-05-12T22:59:00.887Z] →  Connecting to SMTP...
+[2026-05-12T22:59:02.168Z] ✓  SMTP connected as jimcooks211@gmail.com
+[2026-05-12T22:59:02.170Z] →  Starting local cert server on port 3010...
+[2026-05-12T22:59:02.175Z] →  Starting named tunnel docs-cert...
+[2026-05-12T22:59:03.147Z] ✓  Tunnel live at: https://docs.mattrifeofficial.co
+[2026-05-12T22:59:05.182Z] ✓  [1/7] Sent → jimcooks211@outlook.com
+[2026-05-12T22:59:07.109Z] ✓  [2/7] Sent → bot.father1996@outlook.com
+[2026-05-12T22:59:09.917Z] ✓  [3/7] Sent → omenpcuser1994@outlook.com
+[2026-05-12T22:59:12.713Z] ✓  [4/7] Sent → lostuserbutfound@outlook.com
+[2026-05-12T22:59:15.527Z] ✓  [5/7] Sent → jimcooks211@gmail.com
+[2026-05-12T22:59:17.506Z] ✓  [6/7] Sent → hungryuser1994@outlook.com
+[2026-05-12T22:59:19.907Z] ✓  [7/7] Sent → brainstormer1994@outlook.com
+[2026-05-12T23:17:58.110Z] →  Connecting to Gmail SMTP...
+[2026-05-12T23:17:59.432Z] ✓  SMTP connected as jimcooks211@gmail.com
+[2026-05-12T23:17:59.433Z] →  Starting tracking server on port 3003...
+[2026-05-12T23:17:59.439Z] →  Starting cloudflared tunnel...
+[2026-05-12T23:17:59.981Z] ✓  Tunnel live → https://docs.mattrifeofficial.co
+[2026-05-12T23:17:59.983Z] ✓  Dashboard → http://localhost:3003/dashboard
+[2026-05-12T23:17:59.984Z] ✓  DSN polling every 120s from jimcooks211@gmail.com
+[2026-05-12T23:18:02.768Z] ✓  [1/7] Sent → jimcooks211@outlook.com
+[2026-05-12T23:18:05.780Z] ✓  [2/7] Sent → bot.father1996@outlook.com
+[2026-05-12T23:18:07.853Z] ✓  [3/7] Sent → omenpcuser1994@outlook.com
+[2026-05-12T23:18:10.721Z] ✓  [4/7] Sent → lostuserbutfound@outlook.com
+[2026-05-12T23:18:13.490Z] ✓  [5/7] Sent → jimcooks211@gmail.com
+[2026-05-12T23:18:16.298Z] ✓  [6/7] Sent → hungryuser1994@outlook.com
+[2026-05-12T23:18:18.314Z] ✓  [7/7] Sent → brainstormer1994@outlook.com
+[2026-05-12T23:18:18.326Z] →  Starting DSN poll loop...
+[2026-05-12T23:37:58.690Z] →  Connecting to Gmail SMTP...
+[2026-05-12T23:38:00.003Z] ✓  SMTP connected as jimcooks211@gmail.com
+[2026-05-12T23:38:00.006Z] →  Starting tracking server on port 3003...
+[2026-05-12T23:38:00.541Z] ✓  Tunnel live → https://docs.mattrifeofficial.co
+[2026-05-12T23:38:00.542Z] ✓  Dashboard → http://localhost:3003/dashboard
+[2026-05-12T23:38:00.543Z] ✓  VERP bounce domain: *@mattrifeofficial.co → jimcooks211@gmail.com
+[2026-05-12T23:38:02.815Z] ✓  [1/7] Sent → jimcooks211@outlook.com  (return-path: bounce+amltY29va3MyMTFAb3V0bG9vay5jb20@mattrifeofficial.co)
+[2026-05-12T23:38:05.165Z] ✓  [2/7] Sent → bot.father1996@outlook.com  (return-path: bounce+Ym90LmZhdGhlcjE5OTZAb3V0bG9vay5jb20@mattrifeofficial.co)
+[2026-05-12T23:38:07.112Z] ✓  [3/7] Sent → omenpcuser1994@outlook.com  (return-path: bounce+b21lbnBjdXNlcjE5OTRAb3V0bG9vay5jb20@mattrifeofficial.co)
+[2026-05-12T23:38:09.195Z] ✓  [4/7] Sent → lostuserbutfound@outlook.com  (return-path: bounce+bG9zdHVzZXJidXRmb3VuZEBvdXRsb29rLmNvbQ@mattrifeofficial.co)
+[2026-05-12T23:38:11.286Z] ✓  [5/7] Sent → jimcooks211@gmail.com  (return-path: bounce+amltY29va3MyMTFAZ21haWwuY29t@mattrifeofficial.co)
+[2026-05-12T23:38:14.627Z] ✓  [6/7] Sent → hungryuser1994@outlook.com  (return-path: bounce+aHVuZ3J5dXNlcjE5OTRAb3V0bG9vay5jb20@mattrifeofficial.co)
+[2026-05-12T23:38:17.380Z] ✓  [7/7] Sent → brainstormer1994@outlook.com  (return-path: bounce+YnJhaW5zdG9ybWVyMTk5NEBvdXRsb29rLmNvbQ@mattrifeofficial.co)
+[2026-05-12T23:38:17.383Z] →  Starting VERP DSN poll loop (every 2 min)...
+[2026-05-12T23:39:41.699Z] ✓  CERT VIEW   → brainstormer1994@outlook.com
+[2026-05-12T23:40:16.371Z] ✓  CERT VIEW   → hungryuser1994@outlook.com
+[2026-05-12T23:40:32.467Z] ✓  CERT VIEW   → bot.father1996@outlook.com
+[2026-05-12T23:40:47.164Z] ✓  CERT VIEW   → lostuserbutfound@outlook.com
+[2026-05-12T23:41:32.484Z] ✓  CERT VIEW   → omenpcuser1994@outlook.com
+[2026-05-12T23:41:42.006Z] ✓  CERT VIEW   → jimcooks211@outlook.com
+[2026-05-12T23:52:05.776Z] →  Connecting to Brevo SMTP (Return-Path preserved → VERP works)...
+[2026-05-12T23:52:06.684Z] ✗  SMTP failed: Invalid login: 535 5.7.8 Authentication failed
+[2026-05-12T23:53:38.387Z] →  Connecting to Brevo SMTP (Return-Path preserved → VERP works)...
+[2026-05-12T23:53:39.784Z] ✗  SMTP failed: Invalid login: 535 5.7.8 Authentication failed
+[2026-05-13T00:23:50.859Z] →  Connecting to Brevo SMTP (Return-Path preserved → VERP works)...
+[2026-05-13T00:23:51.502Z] ✗  SMTP failed: Invalid login: 535 5.7.8 Authentication failed
+[2026-05-13T00:31:05.020Z] →  Connecting to Brevo SMTP (Return-Path preserved → VERP works)...
+[2026-05-13T00:31:05.972Z] ✗  SMTP failed: Invalid login: 525 5.7.1 Unauthorized IP address
+[2026-05-13T00:32:13.231Z] →  Connecting to Brevo SMTP (Return-Path preserved → VERP works)...
+[2026-05-13T00:32:13.380Z] ✗  SMTP failed: getaddrinfo ENOTFOUND smtp.brevo.com
+[2026-05-13T00:41:16.510Z] →  Connecting to Brevo SMTP (Return-Path preserved → VERP works)...
+[2026-05-13T00:41:17.657Z] ✗  SMTP failed: Invalid login: 525 5.7.1 Unauthorized IP address
+[2026-05-13T00:43:15.821Z] →  Connecting to Brevo SMTP (Return-Path preserved → VERP works)...
+[2026-05-13T00:43:17.098Z] ✗  SMTP failed: Invalid login: 525 5.7.1 Unauthorized IP address
+[2026-05-13T00:43:22.618Z] →  Connecting to Brevo SMTP (Return-Path preserved → VERP works)...
+[2026-05-13T00:43:23.683Z] ✗  SMTP failed: Invalid login: 525 5.7.1 Unauthorized IP address
+[2026-05-13T00:52:17.821Z] →  Connecting to Brevo SMTP (Return-Path preserved → VERP works)...
+[2026-05-13T00:52:18.721Z] ✗  SMTP failed: Invalid login: 525 5.7.1 Unauthorized IP address
+[2026-05-13T04:23:56.963Z] →  Connecting to Brevo SMTP (Return-Path preserved → VERP works)...
+[2026-05-13T04:23:57.923Z] ✓  SMTP connected via BREVO as jimcooks211@gmail.com
+[2026-05-13T04:23:57.924Z] →  Starting tracking server on port 3003...
+[2026-05-13T04:23:58.664Z] ✓  Tunnel live → https://docs.mattrifeofficial.co
+[2026-05-13T04:23:58.665Z] ✓  Dashboard → http://localhost:3003/dashboard
+[2026-05-13T04:23:58.666Z] ✓  VERP bounce domain: *@mattrifeofficial.co → jimcooks211@gmail.com
+[2026-05-13T04:24:00.167Z] ✓  [1/7] Sent → jimcooks211@outlook.com  (return-path: bounce+amltY29va3MyMTFAb3V0bG9vay5jb20@mattrifeofficial.co)
+[2026-05-13T04:24:02.025Z] ✓  [2/7] Sent → bot.father1996@outlook.com  (return-path: bounce+Ym90LmZhdGhlcjE5OTZAb3V0bG9vay5jb20@mattrifeofficial.co)
+[2026-05-13T04:24:03.893Z] ✓  [3/7] Sent → omenpcuser1994@outlook.com  (return-path: bounce+b21lbnBjdXNlcjE5OTRAb3V0bG9vay5jb20@mattrifeofficial.co)
+[2026-05-13T04:24:05.712Z] ✓  [4/7] Sent → lostuserbutfound@outlook.com  (return-path: bounce+bG9zdHVzZXJidXRmb3VuZEBvdXRsb29rLmNvbQ@mattrifeofficial.co)
+[2026-05-13T04:24:07.585Z] ✓  [5/7] Sent → jimcooks211@gmail.com  (return-path: bounce+amltY29va3MyMTFAZ21haWwuY29t@mattrifeofficial.co)
+[2026-05-13T04:24:09.539Z] ✓  [6/7] Sent → hungryuser1994@outlook.com  (return-path: bounce+aHVuZ3J5dXNlcjE5OTRAb3V0bG9vay5jb20@mattrifeofficial.co)
+[2026-05-13T04:24:11.351Z] ✓  [7/7] Sent → brainstormer1994@outlook.com  (return-path: bounce+YnJhaW5zdG9ybWVyMTk5NEBvdXRsb29rLmNvbQ@mattrifeofficial.co)
+[2026-05-13T04:24:11.362Z] →  Starting VERP DSN poll loop (every 2 min)...
+[2026-05-13T04:26:18.985Z] →  Connecting to Brevo SMTP (Return-Path preserved → VERP works)...
+[2026-05-13T04:26:19.941Z] ✓  SMTP connected via BREVO as jimcooks211@gmail.com
+[2026-05-13T04:26:19.942Z] →  Starting tracking server on port 3003...
+[2026-05-13T04:26:20.185Z] ✓  Tunnel live → https://docs.mattrifeofficial.co
+[2026-05-13T04:26:20.185Z] ✓  Dashboard → http://localhost:3003/dashboard
+[2026-05-13T04:26:20.186Z] ✓  VERP bounce domain: *@mattrifeofficial.co → jimcooks211@gmail.com
+[2026-05-13T04:26:21.651Z] ✓  [1/7] Sent → jimcooks211@outlook.com  (return-path: bounce+amltY29va3MyMTFAb3V0bG9vay5jb20@mattrifeofficial.co)
+[2026-05-13T04:26:23.517Z] ✓  [2/7] Sent → bot.father1996@outlook.com  (return-path: bounce+Ym90LmZhdGhlcjE5OTZAb3V0bG9vay5jb20@mattrifeofficial.co)
+[2026-05-13T04:26:25.417Z] ✓  [3/7] Sent → omenpcuser1994@outlook.com  (return-path: bounce+b21lbnBjdXNlcjE5OTRAb3V0bG9vay5jb20@mattrifeofficial.co)
+[2026-05-13T04:26:27.301Z] ✓  [4/7] Sent → lostuserbutfound@outlook.com  (return-path: bounce+bG9zdHVzZXJidXRmb3VuZEBvdXRsb29rLmNvbQ@mattrifeofficial.co)
+[2026-05-13T04:26:29.348Z] ✓  [5/7] Sent → jimcooks211@gmail.com  (return-path: bounce+amltY29va3MyMTFAZ21haWwuY29t@mattrifeofficial.co)
+[2026-05-13T04:26:31.206Z] ✓  [6/7] Sent → hungryuser1994@outlook.com  (return-path: bounce+aHVuZ3J5dXNlcjE5OTRAb3V0bG9vay5jb20@mattrifeofficial.co)
+[2026-05-13T04:26:33.051Z] ✓  [7/7] Sent → brainstormer1994@outlook.com  (return-path: bounce+YnJhaW5zdG9ybWVyMTk5NEBvdXRsb29rLmNvbQ@mattrifeofficial.co)
+[2026-05-13T04:26:33.056Z] →  Starting VERP DSN poll loop (every 2 min)...
+[2026-05-13T04:43:03.306Z] →  Connecting to Brevo SMTP (Return-Path preserved → VERP works)...
+[2026-05-13T04:43:04.249Z] ✓  SMTP connected via BREVO as jimcooks211@gmail.com
+[2026-05-13T04:43:04.250Z] →  Starting tracking server on port 3003...
+[2026-05-13T04:43:04.776Z] ✓  Tunnel live → https://docs.mattrifeofficial.co
+[2026-05-13T04:43:04.777Z] ✓  Dashboard → http://localhost:3003/dashboard
+[2026-05-13T04:43:04.779Z] ✓  VERP bounce domain: *@mattrifeofficial.co → jimcooks211@gmail.com
+[2026-05-13T04:43:06.317Z] ✓  [1/7] Sent → jimcooks211@outlook.com  (return-path: bounce+amltY29va3MyMTFAb3V0bG9vay5jb20@mattrifeofficial.co)
+[2026-05-13T04:43:08.208Z] ✓  [2/7] Sent → bot.father1996@outlook.com  (return-path: bounce+Ym90LmZhdGhlcjE5OTZAb3V0bG9vay5jb20@mattrifeofficial.co)
+[2026-05-13T04:43:10.152Z] ✓  [3/7] Sent → omenpcuser1994@outlook.com  (return-path: bounce+b21lbnBjdXNlcjE5OTRAb3V0bG9vay5jb20@mattrifeofficial.co)
+[2026-05-13T04:43:12.035Z] ✓  [4/7] Sent → lostuserbutfound@outlook.com  (return-path: bounce+bG9zdHVzZXJidXRmb3VuZEBvdXRsb29rLmNvbQ@mattrifeofficial.co)
+[2026-05-13T04:43:13.861Z] ✓  [5/7] Sent → jimcooks211@gmail.com  (return-path: bounce+amltY29va3MyMTFAZ21haWwuY29t@mattrifeofficial.co)
+[2026-05-13T04:43:15.772Z] ✓  [6/7] Sent → hungryuser1994@outlook.com  (return-path: bounce+aHVuZ3J5dXNlcjE5OTRAb3V0bG9vay5jb20@mattrifeofficial.co)
+[2026-05-13T04:43:17.651Z] ✓  [7/7] Sent → brainstormer1994@outlook.com  (return-path: bounce+YnJhaW5zdG9ybWVyMTk5NEBvdXRsb29rLmNvbQ@mattrifeofficial.co)
+[2026-05-13T04:43:17.658Z] →  Starting VERP DSN poll loop (every 2 min)...
+[2026-05-13T04:45:46.711Z] ✓  MANUAL INBOX  → jimcooks211@outlook.com
+[2026-05-13T04:45:48.802Z] ✓  MANUAL INBOX  → jimcooks211@outlook.com
+[2026-05-13T04:45:49.671Z] ⚠  MANUAL SPAM   → jimcooks211@outlook.com
+[2026-05-13T04:45:54.880Z] ✓  MANUAL INBOX  → jimcooks211@outlook.com
+[2026-05-13T04:46:08.608Z] ✓  MANUAL INBOX  → bot.father1996@outlook.com
+[2026-05-13T04:46:10.821Z] ✓  MANUAL INBOX  → bot.father1996@outlook.com
+[2026-05-13T09:18:06.751Z] ⚠  DSN poll error: fetch failed
+[2026-05-13T12:17:10.254Z] ⚠  DSN poll error: fetch failed
+[2026-05-13T12:19:09.993Z] ⚠  DSN poll error: fetch failed
+[2026-05-13T12:39:38.446Z] â†’  Connecting to Brevo SMTP (Return-Path preserved â†’ VERP works)...
+[2026-05-13T12:39:39.785Z] âœ—  SMTP failed: Invalid login: 525 5.7.1 Unauthorized IP address
+[2026-05-13T12:41:26.784Z] â†’  Connecting to Brevo SMTP (Return-Path preserved â†’ VERP works)...
+[2026-05-13T12:41:29.842Z] âœ—  SMTP failed: Invalid login: 525 5.7.1 Unauthorized IP address
+[2026-05-13T12:41:42.565Z] â†’  Connecting to Brevo SMTP (Return-Path preserved â†’ VERP works)...
+[2026-05-13T12:41:43.847Z] âœ—  SMTP failed: Invalid login: 525 5.7.1 Unauthorized IP address
+[2026-05-13T12:42:24.978Z] â†’  Connecting to Brevo SMTP (Return-Path preserved â†’ VERP works)...
+[2026-05-13T12:42:26.293Z] âœ—  SMTP failed: Invalid login: 525 5.7.1 Unauthorized IP address
+[2026-05-13T12:43:29.586Z] â†’  Connecting to Brevo SMTP (Return-Path preserved â†’ VERP works)...
+[2026-05-13T12:43:30.971Z] âœ—  SMTP failed: Invalid login: 525 5.7.1 Unauthorized IP address
+[2026-05-13T12:59:54.923Z] ->  Verifying Brevo API key...
+[2026-05-13T12:59:55.742Z] ok  Brevo API connected — plan: free
+[2026-05-13T12:59:55.744Z] ->  Starting tracking server on port 3003...
+[2026-05-13T13:01:09.463Z] ->  Verifying Brevo API key...
+[2026-05-13T13:01:10.768Z] ok  Brevo API connected — plan: free
+[2026-05-13T13:01:10.770Z] ->  Starting tracking server on port 3003...
+[2026-05-13T13:01:11.941Z] ok  Tunnel live â†' https://docs.mattrifeofficial.co
+[2026-05-13T13:01:11.943Z] ok  Dashboard â†' http://localhost:3003/dashboard
+[2026-05-13T13:01:11.944Z] ok  VERP bounce domain: *@mattrifeofficial.co â†' jimcooks211@gmail.com
+[2026-05-13T13:01:12.270Z] ok  [1/7] Sent â†' jimcooks211@outlook.com  (return-path: bounce+amltY29va3MyMTFAb3V0bG9vay5jb20@mattrifeofficial.co)
+[2026-05-13T13:01:12.898Z] ok  [2/7] Sent â†' bot.father1996@outlook.com  (return-path: bounce+Ym90LmZhdGhlcjE5OTZAb3V0bG9vay5jb20@mattrifeofficial.co)
+[2026-05-13T13:01:13.591Z] ok  [3/7] Sent â†' omenpcuser1994@outlook.com  (return-path: bounce+b21lbnBjdXNlcjE5OTRAb3V0bG9vay5jb20@mattrifeofficial.co)
+[2026-05-13T13:01:14.202Z] ok  [4/7] Sent â†' lostuserbutfound@outlook.com  (return-path: bounce+bG9zdHVzZXJidXRmb3VuZEBvdXRsb29rLmNvbQ@mattrifeofficial.co)
+[2026-05-13T13:01:14.849Z] ok  [5/7] Sent â†' jimcooks211@gmail.com  (return-path: bounce+amltY29va3MyMTFAZ21haWwuY29t@mattrifeofficial.co)
+[2026-05-13T13:01:15.600Z] ok  [6/7] Sent â†' hungryuser1994@outlook.com  (return-path: bounce+aHVuZ3J5dXNlcjE5OTRAb3V0bG9vay5jb20@mattrifeofficial.co)
+[2026-05-13T13:01:16.213Z] ok  [7/7] Sent â†' brainstormer1994@outlook.com  (return-path: bounce+YnJhaW5zdG9ybWVyMTk5NEBvdXRsb29rLmNvbQ@mattrifeofficial.co)
+[2026-05-13T13:01:16.222Z] ->  Starting VERP DSN poll loop (every 2 min)...
+[2026-05-13T13:24:59.818Z] WARN  DSN poll error: fetch failed
+[2026-05-13T13:32:34.598Z] ->  Verifying Brevo API key...
+[2026-05-13T13:32:35.373Z] ok  Brevo API connected — plan: free
+[2026-05-13T13:32:35.374Z] ->  Starting tracking server on port 3003...
+[2026-05-13T13:32:36.286Z] ok  Tunnel live â†' https://docs.mattrifeofficial.co
+[2026-05-13T13:32:36.287Z] ok  Dashboard â†' http://localhost:3003/dashboard
+[2026-05-13T13:32:36.288Z] ok  VERP bounce domain: *@mattrifeofficial.co â†' jimcooks211@gmail.com
+[2026-05-13T13:32:36.537Z] ok  [1/7] Sent â†' jimcooks211@outlook.com  (return-path: bounce+amltY29va3MyMTFAb3V0bG9vay5jb20@mattrifeofficial.co)
+[2026-05-13T13:32:37.227Z] ok  [2/7] Sent â†' bot.father1996@outlook.com  (return-path: bounce+Ym90LmZhdGhlcjE5OTZAb3V0bG9vay5jb20@mattrifeofficial.co)
+[2026-05-13T13:32:37.870Z] ok  [3/7] Sent â†' omenpcuser1994@outlook.com  (return-path: bounce+b21lbnBjdXNlcjE5OTRAb3V0bG9vay5jb20@mattrifeofficial.co)
+[2026-05-13T13:32:38.549Z] ok  [4/7] Sent â†' lostuserbutfound@outlook.com  (return-path: bounce+bG9zdHVzZXJidXRmb3VuZEBvdXRsb29rLmNvbQ@mattrifeofficial.co)
+[2026-05-13T13:32:39.206Z] ok  [5/7] Sent â†' jimcooks211@gmail.com  (return-path: bounce+amltY29va3MyMTFAZ21haWwuY29t@mattrifeofficial.co)
+[2026-05-13T13:32:39.863Z] ok  [6/7] Sent â†' hungryuser1994@outlook.com  (return-path: bounce+aHVuZ3J5dXNlcjE5OTRAb3V0bG9vay5jb20@mattrifeofficial.co)
+[2026-05-13T13:32:40.506Z] ok  [7/7] Sent â†' brainstormer1994@outlook.com  (return-path: bounce+YnJhaW5zdG9ybWVyMTk5NEBvdXRsb29rLmNvbQ@mattrifeofficial.co)
+[2026-05-13T13:32:40.511Z] ->  Starting VERP DSN poll loop (every 2 min)...
+[2026-05-13T13:34:53.408Z] WARN  DSN poll error: fetch failed
+[2026-05-13T13:43:53.967Z] ->  Verifying Brevo API key...
+[2026-05-13T13:43:54.675Z] ok  Brevo API connected — plan: free
+[2026-05-13T13:43:54.677Z] ->  Starting tracking server on port 3003...
+[2026-05-13T13:43:55.345Z] ok  Tunnel live â†' https://docs.mattrifeofficial.co
+[2026-05-13T13:43:55.346Z] ok  Dashboard â†' http://localhost:3003/dashboard
+[2026-05-13T13:43:55.347Z] ok  VERP bounce domain: *@mattrifeofficial.co â†' jimcooks211@gmail.com
+[2026-05-13T13:43:55.601Z] ok  [1/7] Sent â†' jimcooks211@outlook.com  (return-path: bounce+amltY29va3MyMTFAb3V0bG9vay5jb20@mattrifeofficial.co)
+[2026-05-13T13:43:56.226Z] ok  [2/7] Sent â†' bot.father1996@outlook.com  (return-path: bounce+Ym90LmZhdGhlcjE5OTZAb3V0bG9vay5jb20@mattrifeofficial.co)
+[2026-05-13T13:43:56.857Z] ok  [3/7] Sent â†' omenpcuser1994@outlook.com  (return-path: bounce+b21lbnBjdXNlcjE5OTRAb3V0bG9vay5jb20@mattrifeofficial.co)
+[2026-05-13T13:43:57.493Z] ok  [4/7] Sent â†' lostuserbutfound@outlook.com  (return-path: bounce+bG9zdHVzZXJidXRmb3VuZEBvdXRsb29rLmNvbQ@mattrifeofficial.co)
+[2026-05-13T13:43:58.132Z] ok  [5/7] Sent â†' jimcooks211@gmail.com  (return-path: bounce+amltY29va3MyMTFAZ21haWwuY29t@mattrifeofficial.co)
+[2026-05-13T13:43:58.734Z] ok  [6/7] Sent â†' hungryuser1994@outlook.com  (return-path: bounce+aHVuZ3J5dXNlcjE5OTRAb3V0bG9vay5jb20@mattrifeofficial.co)
+[2026-05-13T13:43:59.359Z] ok  [7/7] Sent â†' brainstormer1994@outlook.com  (return-path: bounce+YnJhaW5zdG9ybWVyMTk5NEBvdXRsb29rLmNvbQ@mattrifeofficial.co)
+[2026-05-13T13:43:59.364Z] ->  Starting VERP DSN poll loop (every 2 min)...
+[2026-05-13T13:44:51.181Z] ->  Verifying Brevo API key...
+[2026-05-13T13:44:51.812Z] ok  Brevo API connected — plan: free
+[2026-05-13T13:44:51.813Z] ->  Starting tracking server on port 3003...
+[2026-05-13T13:44:52.064Z] ok  Tunnel live â†' https://docs.mattrifeofficial.co
+[2026-05-13T13:44:52.065Z] ok  Dashboard â†' http://localhost:3003/dashboard
+[2026-05-13T13:44:52.066Z] ok  VERP bounce domain: *@mattrifeofficial.co â†' jimcooks211@gmail.com
+[2026-05-13T13:44:52.291Z] ok  [1/7] Sent â†' jimcooks211@outlook.com  (return-path: bounce+amltY29va3MyMTFAb3V0bG9vay5jb20@mattrifeofficial.co)
+[2026-05-13T13:44:52.946Z] ok  [2/7] Sent â†' bot.father1996@outlook.com  (return-path: bounce+Ym90LmZhdGhlcjE5OTZAb3V0bG9vay5jb20@mattrifeofficial.co)
+[2026-05-13T13:44:53.584Z] ok  [3/7] Sent â†' omenpcuser1994@outlook.com  (return-path: bounce+b21lbnBjdXNlcjE5OTRAb3V0bG9vay5jb20@mattrifeofficial.co)
+[2026-05-13T13:44:54.239Z] ok  [4/7] Sent â†' lostuserbutfound@outlook.com  (return-path: bounce+bG9zdHVzZXJidXRmb3VuZEBvdXRsb29rLmNvbQ@mattrifeofficial.co)
+[2026-05-13T13:44:54.878Z] ok  [5/7] Sent â†' jimcooks211@gmail.com  (return-path: bounce+amltY29va3MyMTFAZ21haWwuY29t@mattrifeofficial.co)
+[2026-05-13T13:44:55.537Z] ok  [6/7] Sent â†' hungryuser1994@outlook.com  (return-path: bounce+aHVuZ3J5dXNlcjE5OTRAb3V0bG9vay5jb20@mattrifeofficial.co)
+[2026-05-13T13:44:56.182Z] ok  [7/7] Sent â†' brainstormer1994@outlook.com  (return-path: bounce+YnJhaW5zdG9ybWVyMTk5NEBvdXRsb29rLmNvbQ@mattrifeofficial.co)
+[2026-05-13T13:44:56.187Z] ->  Starting VERP DSN poll loop (every 2 min)...
+[2026-05-13T13:48:10.953Z] ->  Verifying Brevo API key...
+[2026-05-13T13:48:18.919Z] ok  Brevo API connected — plan: free
+[2026-05-13T13:48:18.920Z] ->  Starting tracking server on port 3003...
+[2026-05-13T13:49:06.622Z] ->  Verifying Brevo API key...
+[2026-05-13T13:49:17.259Z] FAIL  Brevo API failed: fetch failed
+[2026-05-13T13:50:29.854Z] ->  Verifying Brevo API key...
+[2026-05-13T13:50:30.714Z] ok  Brevo API connected — plan: free
+[2026-05-13T13:50:30.715Z] ->  Starting tracking server on port 3003...
+[2026-05-13T13:50:31.498Z] ok  Tunnel live â†' https://docs.mattrifeofficial.co
+[2026-05-13T13:50:31.499Z] ok  Dashboard â†' http://localhost:3003/dashboard
+[2026-05-13T13:50:31.500Z] ok  VERP bounce domain: *@mattrifeofficial.co â†' jimcooks211@gmail.com
+[2026-05-13T13:50:31.791Z] ok  [1/7] Sent â†' jimcooks211@outlook.com  (return-path: bounce+amltY29va3MyMTFAb3V0bG9vay5jb20@mattrifeofficial.co)
+[2026-05-13T13:50:32.484Z] ok  [2/7] Sent â†' bot.father1996@outlook.com  (return-path: bounce+Ym90LmZhdGhlcjE5OTZAb3V0bG9vay5jb20@mattrifeofficial.co)
+[2026-05-13T13:50:33.145Z] ok  [3/7] Sent â†' omenpcuser1994@outlook.com  (return-path: bounce+b21lbnBjdXNlcjE5OTRAb3V0bG9vay5jb20@mattrifeofficial.co)
+[2026-05-13T13:50:33.843Z] ok  [4/7] Sent â†' lostuserbutfound@outlook.com  (return-path: bounce+bG9zdHVzZXJidXRmb3VuZEBvdXRsb29rLmNvbQ@mattrifeofficial.co)
+[2026-05-13T13:50:34.515Z] ok  [5/7] Sent â†' jimcooks211@gmail.com  (return-path: bounce+amltY29va3MyMTFAZ21haWwuY29t@mattrifeofficial.co)
+[2026-05-13T13:50:35.190Z] ok  [6/7] Sent â†' hungryuser1994@outlook.com  (return-path: bounce+aHVuZ3J5dXNlcjE5OTRAb3V0bG9vay5jb20@mattrifeofficial.co)
+[2026-05-13T13:50:35.866Z] ok  [7/7] Sent â†' brainstormer1994@outlook.com  (return-path: bounce+YnJhaW5zdG9ybWVyMTk5NEBvdXRsb29rLmNvbQ@mattrifeofficial.co)
+[2026-05-13T13:50:35.878Z] ->  Starting VERP DSN poll loop (every 2 min)...
+[2026-05-13T14:45:06.374Z] WARN  DSN poll error: fetch failed
+[2026-05-13T14:53:09.532Z] ->  Verifying Gmail OAuth2...
+[2026-05-13T14:53:10.235Z] ok  Gmail OAuth2 token OK
+[2026-05-13T14:53:10.236Z] ->  Starting tracking server on port 3003...
+[2026-05-13T14:53:10.242Z] ok  Dashboard -> http://localhost:3003/dashboard
+[2026-05-13T14:53:14.187Z] ok  [1/7] Sent -> jimcooks211@outlook.com
+[2026-05-13T14:53:16.759Z] ok  [2/7] Sent -> bot.father1996@outlook.com
+[2026-05-13T14:53:19.268Z] ok  [3/7] Sent -> omenpcuser1994@outlook.com
+[2026-05-13T14:53:22.288Z] ok  [4/7] Sent -> lostuserbutfound@outlook.com
+[2026-05-13T14:53:24.733Z] ok  [5/7] Sent -> jimcooks211@gmail.com
+[2026-05-13T14:53:27.248Z] ok  [6/7] Sent -> hungryuser1994@outlook.com
+[2026-05-13T14:53:30.151Z] ok  [7/7] Sent -> brainstormer1994@outlook.com
+[2026-05-13T14:53:30.155Z] ->  Starting VERP DSN poll loop (every 2 min)...
+[2026-05-13T14:57:42.544Z] WARN  DSN poll error: fetch failed
+[2026-05-13T14:59:42.489Z] WARN  DSN poll error: fetch failed
+[2026-05-13T15:01:31.937Z] WARN  DSN poll error: fetch failed
+[2026-05-13T15:03:42.593Z] WARN  DSN poll error: fetch failed
+[2026-05-13T15:05:31.948Z] WARN  DSN poll error: fetch failed
+[2026-05-13T15:07:31.965Z] WARN  DSN poll error: fetch failed
+[2026-05-13T15:09:42.640Z] WARN  DSN poll error: fetch failed
+[2026-05-13T15:11:31.986Z] WARN  DSN poll error: fetch failed
+[2026-05-13T15:13:42.638Z] WARN  DSN poll error: fetch failed
+[2026-05-13T15:15:32.010Z] WARN  DSN poll error: fetch failed
+[2026-05-13T15:17:32.022Z] WARN  DSN poll error: fetch failed
+[2026-05-13T15:19:32.027Z] WARN  DSN poll error: fetch failed
+[2026-05-13T15:21:32.034Z] WARN  DSN poll error: fetch failed
+[2026-05-13T15:23:42.701Z] WARN  DSN poll error: fetch failed
+[2026-05-13T15:25:32.051Z] WARN  DSN poll error: fetch failed
+[2026-05-13T15:27:32.069Z] WARN  DSN poll error: fetch failed
+[2026-05-13T15:29:32.081Z] WARN  DSN poll error: fetch failed
+[2026-05-13T15:31:32.077Z] WARN  DSN poll error: fetch failed
+[2026-05-13T15:33:32.073Z] WARN  DSN poll error: fetch failed
+[2026-05-13T15:35:32.075Z] WARN  DSN poll error: fetch failed
+[2026-05-13T15:37:42.744Z] WARN  DSN poll error: fetch failed
+[2026-05-13T15:39:32.096Z] WARN  DSN poll error: fetch failed
+[2026-05-13T15:41:32.113Z] WARN  DSN poll error: fetch failed
+[2026-05-13T15:43:32.123Z] WARN  DSN poll error: fetch failed
+[2026-05-13T15:45:32.133Z] WARN  DSN poll error: fetch failed
+[2026-05-13T15:47:32.136Z] WARN  DSN poll error: fetch failed
+[2026-05-13T15:53:31.551Z] ->  Verifying Gmail OAuth2...
+[2026-05-13T15:53:32.492Z] ok  Gmail OAuth2 token OK
+[2026-05-13T15:53:32.493Z] ->  Starting tracking server on port 3003...
+[2026-05-13T15:53:33.886Z] ok  Tunnel live -> https://docs.mattrifeofficial.co
+[2026-05-13T15:53:33.887Z] ok  Dashboard -> http://localhost:3003/dashboard
+[2026-05-13T15:53:37.609Z] ok  [1/7] Sent -> jimcooks211@outlook.com
+[2026-05-13T15:53:39.956Z] ok  [2/7] Sent -> bot.father1996@outlook.com
+[2026-05-13T15:53:43.300Z] ok  [3/7] Sent -> omenpcuser1994@outlook.com
+[2026-05-13T15:53:47.857Z] ok  [4/7] Sent -> lostuserbutfound@outlook.com
+[2026-05-13T15:53:51.817Z] ok  [5/7] Sent -> jimcooks211@gmail.com
+[2026-05-13T15:53:54.835Z] ok  [6/7] Sent -> hungryuser1994@outlook.com
+[2026-05-13T15:53:58.217Z] ok  [7/7] Sent -> brainstormer1994@outlook.com
+[2026-05-13T15:53:58.219Z] ->  Starting VERP DSN poll loop (every 2 min)...
+[2026-05-13T15:54:13.705Z] ok  CERT VIEW   -> brainstormer1994@outlook.com
+[2026-05-13T16:28:09.064Z] ->  Verifying Gmail OAuth2...
+[2026-05-13T16:28:09.540Z] ok  Gmail OAuth2 token OK
+[2026-05-13T16:28:09.541Z] ->  Starting tracking server on port 3003...
+[2026-05-13T16:36:53.897Z] ok  CERT VIEW   -> bot.father1996@outlook.com
+[2026-05-13T17:34:06.285Z] WARN  DSN poll error: fetch failed
+[2026-05-13T17:36:00.901Z] WARN  DSN poll error: fetch failed
+[2026-05-13T17:38:00.901Z] WARN  DSN poll error: fetch failed
+[2026-05-13T17:40:00.904Z] WARN  DSN poll error: fetch failed
+[2026-05-13T17:42:00.911Z] WARN  DSN poll error: fetch failed
+[2026-05-13T17:44:00.922Z] WARN  DSN poll error: fetch failed
+[2026-05-13T17:46:00.936Z] WARN  DSN poll error: fetch failed
+[2026-05-13T17:48:00.948Z] WARN  DSN poll error: fetch failed
+[2026-05-13T17:50:00.959Z] WARN  DSN poll error: fetch failed
+[2026-05-13T17:52:00.965Z] WARN  DSN poll error: fetch failed
+[2026-05-13T17:54:00.979Z] WARN  DSN poll error: fetch failed
+[2026-05-13T17:56:11.629Z] WARN  DSN poll error: fetch failed
+[2026-05-13T17:58:11.658Z] WARN  DSN poll error: fetch failed
+[2026-05-13T18:00:01.015Z] WARN  DSN poll error: fetch failed
+[2026-05-13T18:02:01.023Z] WARN  DSN poll error: fetch failed
+[2026-05-13T18:04:01.037Z] WARN  DSN poll error: fetch failed
+[2026-05-13T18:06:01.040Z] WARN  DSN poll error: fetch failed
+[2026-05-13T18:08:11.664Z] WARN  DSN poll error: fetch failed
+[2026-05-13T18:10:01.063Z] WARN  DSN poll error: fetch failed
+[2026-05-13T18:12:01.066Z] WARN  DSN poll error: fetch failed
+[2026-05-13T18:14:11.691Z] WARN  DSN poll error: fetch failed
+[2026-05-13T18:16:11.725Z] WARN  DSN poll error: fetch failed
+[2026-05-13T18:18:01.096Z] WARN  DSN poll error: fetch failed
+[2026-05-13T18:20:01.109Z] WARN  DSN poll error: fetch failed
+[2026-05-13T18:22:01.110Z] WARN  DSN poll error: fetch failed
+[2026-05-13T18:24:34.070Z] ->  Verifying Private Email SMTP...
+[2026-05-13T18:24:55.382Z] FAIL  SMTP verify failed: connect ETIMEDOUT 198.54.122.135:465
+[2026-05-13T18:39:33.743Z] ->  Verifying Private Email SMTP...
+[2026-05-13T18:39:54.803Z] FAIL  SMTP verify failed: connect ETIMEDOUT 198.54.122.135:465
+[2026-05-13T18:41:17.572Z] ->  Verifying Private Email SMTP...
+[2026-05-13T18:41:48.785Z] FAIL  SMTP verify failed: Greeting never received
+[2026-05-13T18:44:41.313Z] info  Starting tunnel + dashboard on port 3003...
+[2026-05-13T18:44:42.361Z] ok  Tunnel live -> https://docs.mattrifeofficial.co
+[2026-05-13T18:44:42.362Z] ok  Dashboard -> http://localhost:3003/dashboard
+[2026-05-13T18:44:46.072Z] ok  [1/8] Sent -> jimcooks211@outlook.com
+[2026-05-13T18:44:51.700Z] ok  [2/8] Sent -> bot.father1996@outlook.com
+[2026-05-13T18:44:55.991Z] ok  [3/8] Sent -> omenpcuser1994@outlook.com
+[2026-05-13T18:45:00.050Z] ok  [4/8] Sent -> lostuserbutfound@outlook.com
+[2026-05-13T18:45:04.144Z] ok  [5/8] Sent -> jimcooks211@gmail.com
+[2026-05-13T18:45:08.651Z] ok  [6/8] Sent -> hungryuser1994@outlook.com
+[2026-05-13T18:45:12.947Z] ok  [7/8] Sent -> brainstormer1994@outlook.com
+[2026-05-13T18:45:16.880Z] ok  [8/8] Sent -> zuleykasbakery0225@outlook.com
+[2026-05-13T18:47:39.166Z] info  Starting tunnel + dashboard on port 3003...
+[2026-05-13T18:47:39.446Z] ok  Tunnel live -> https://docs.mattrifeofficial.co
+[2026-05-13T18:47:39.446Z] ok  Dashboard -> http://localhost:3003/dashboard
+[2026-05-13T18:47:43.757Z] ok  [1/8] Sent -> jimcooks211@outlook.com
+[2026-05-13T18:47:47.765Z] ok  [2/8] Sent -> bot.father1996@outlook.com
+[2026-05-13T18:47:53.637Z] ok  [3/8] Sent -> omenpcuser1994@outlook.com
+[2026-05-13T18:47:57.430Z] ok  [4/8] Sent -> lostuserbutfound@outlook.com
+[2026-05-13T18:48:02.508Z] ok  [5/8] Sent -> jimcooks211@gmail.com
+[2026-05-13T18:48:07.350Z] ok  [6/8] Sent -> hungryuser1994@outlook.com
+[2026-05-13T18:48:12.157Z] ok  [7/8] Sent -> brainstormer1994@outlook.com
+[2026-05-13T18:48:17.258Z] ok  [8/8] Sent -> zuleykasbakery0225@outlook.com
+[2026-05-13T20:38:56.034Z] ok  SMTP connected as docs@mattrifeofficial.co
+[2026-05-13T20:38:57.473Z] ok  Tunnel live → https://docs.mattrifeofficial.co
+[2026-05-13T20:38:57.473Z] ok  Dashboard → http://localhost:3003/dashboard
+[2026-05-13T20:39:03.185Z] ok  [1/8] Sent → jimcooks211@outlook.com
+[2026-05-13T20:39:06.611Z] ok  [2/8] Sent → bot.father1996@outlook.com
+[2026-05-13T20:39:09.966Z] ok  [3/8] Sent → omenpcuser1994@outlook.com
+[2026-05-13T20:39:13.152Z] ok  [4/8] Sent → lostuserbutfound@outlook.com
+[2026-05-13T20:39:16.432Z] ok  [5/8] Sent → jimcooks211@gmail.com
+[2026-05-13T20:39:20.473Z] ok  [6/8] Sent → hungryuser1994@outlook.com
+[2026-05-13T20:39:23.825Z] ok  [7/8] Sent → brainstormer1994@outlook.com
+[2026-05-13T20:39:27.034Z] ok  [8/8] Sent → zuleykasbakery0225@outlook.com
+[2026-05-13T20:44:09.585Z] ok  SMTP connected as docs@mattrifeofficial.co
+[2026-05-13T20:44:10.536Z] ok  Tunnel live → https://docs.mattrifeofficial.co
+[2026-05-13T20:44:10.537Z] ok  Dashboard → http://localhost:3003/dashboard
+[2026-05-13T20:44:15.920Z] ok  [1/8] Sent → jimcooks211@outlook.com
+[2026-05-13T20:44:19.721Z] ok  [2/8] Sent → bot.father1996@outlook.com
+[2026-05-13T20:44:23.097Z] ok  [3/8] Sent → omenpcuser1994@outlook.com
+[2026-05-13T20:44:26.917Z] ok  [4/8] Sent → lostuserbutfound@outlook.com
+[2026-05-13T20:44:30.194Z] ok  [5/8] Sent → jimcooks211@gmail.com
+[2026-05-13T20:44:33.954Z] ok  [6/8] Sent → hungryuser1994@outlook.com
+[2026-05-13T20:44:37.235Z] ok  [7/8] Sent → brainstormer1994@outlook.com
+[2026-05-13T20:44:40.497Z] ok  [8/8] Sent → zuleykasbakery0225@outlook.com
+[2026-05-13T20:49:00.831Z] ok  SMTP connected as docs@mattrifeofficial.co
+[2026-05-13T20:49:01.101Z] ok  Tunnel live → https://docs.mattrifeofficial.co
+[2026-05-13T20:49:01.101Z] ok  Dashboard → http://localhost:3003/dashboard
+[2026-05-13T20:49:07.210Z] ok  [1/8] Sent → jimcooks211@outlook.com
+[2026-05-13T20:49:10.266Z] ok  [2/8] Sent → bot.father1996@outlook.com
+[2026-05-13T20:49:14.384Z] ok  [3/8] Sent → omenpcuser1994@outlook.com
+[2026-05-13T20:49:18.945Z] ok  [4/8] Sent → lostuserbutfound@outlook.com
+[2026-05-13T20:49:22.037Z] ok  [5/8] Sent → jimcooks211@gmail.com
+[2026-05-13T20:49:25.127Z] ok  [6/8] Sent → hungryuser1994@outlook.com
+[2026-05-13T20:49:28.317Z] ok  [7/8] Sent → brainstormer1994@outlook.com
+[2026-05-13T20:49:31.449Z] ok  [8/8] Sent → zuleykasbakery0225@outlook.com
+[2026-05-13T20:55:40.549Z] ok  SMTP connected as docs@mattrifeofficial.co
+[2026-05-13T20:55:41.179Z] ok  Tunnel live → https://docs.mattrifeofficial.co
+[2026-05-13T20:55:41.180Z] ok  Dashboard → http://localhost:3003/dashboard
+[2026-05-13T20:55:45.239Z] ok  [1/8] Sent → jimcooks211@outlook.com
+[2026-05-13T20:55:48.335Z] ok  [2/8] Sent → bot.father1996@outlook.com
+[2026-05-13T20:55:51.434Z] ok  [3/8] Sent → omenpcuser1994@outlook.com
+[2026-05-13T20:55:54.520Z] ok  [4/8] Sent → lostuserbutfound@outlook.com
+[2026-05-13T20:55:57.600Z] ok  [5/8] Sent → jimcooks211@gmail.com
+[2026-05-13T20:56:03.813Z] ok  [6/8] Sent → hungryuser1994@outlook.com
+[2026-05-13T20:56:07.003Z] ok  [7/8] Sent → brainstormer1994@outlook.com
+[2026-05-13T20:56:10.152Z] ok  [8/8] Sent → zuleykasbakery0225@outlook.com
+[2026-05-13T21:06:00.690Z] ok  SMTP connected as docs@mattrifeofficial.co
+[2026-05-13T21:06:01.301Z] ok  Tunnel live → https://docs.mattrifeofficial.co
+[2026-05-13T21:06:01.302Z] ok  Dashboard → http://localhost:3003/dashboard
+[2026-05-13T21:06:06.870Z] ok  [1/8] Sent → jimcooks211@outlook.com
+[2026-05-13T21:06:10.029Z] ok  [2/8] Sent → bot.father1996@outlook.com
+[2026-05-13T21:06:13.157Z] ok  [3/8] Sent → omenpcuser1994@outlook.com
+[2026-05-13T21:06:16.290Z] ok  [4/8] Sent → lostuserbutfound@outlook.com
+[2026-05-13T21:06:19.484Z] ok  [5/8] Sent → jimcooks211@gmail.com
+[2026-05-13T21:06:23.921Z] ok  [6/8] Sent → hungryuser1994@outlook.com
+[2026-05-13T21:06:27.305Z] ok  [7/8] Sent → brainstormer1994@outlook.com
+[2026-05-13T21:06:30.519Z] ok  [8/8] Sent → zuleykasbakery0225@outlook.com
+[2026-05-13T21:14:23.882Z] ok  SMTP connected as docs@mattrifeofficial.co
+[2026-05-13T21:14:24.515Z] ok  Tunnel live → https://docs.mattrifeofficial.co
+[2026-05-13T21:14:24.516Z] ok  Dashboard → http://localhost:3003/dashboard
+[2026-05-13T21:14:28.800Z] ok  [1/8] Sent → jimcooks211@outlook.com
+[2026-05-13T21:14:31.948Z] ok  [2/8] Sent → bot.father1996@outlook.com
+[2026-05-13T21:14:35.060Z] ok  [3/8] Sent → omenpcuser1994@outlook.com
+[2026-05-13T21:14:38.218Z] ok  [4/8] Sent → lostuserbutfound@outlook.com
+[2026-05-13T21:14:41.392Z] ok  [5/8] Sent → jimcooks211@gmail.com
+[2026-05-13T21:14:47.121Z] ok  [6/8] Sent → hungryuser1994@outlook.com
+[2026-05-13T21:14:50.562Z] ok  [7/8] Sent → brainstormer1994@outlook.com
+[2026-05-13T21:14:53.894Z] ok  [8/8] Sent → zuleykasbakery0225@outlook.com
+[2026-05-13T21:21:44.956Z] ok  SMTP connected as docs@mattrifeofficial.co
+[2026-05-13T21:21:45.624Z] ok  Tunnel live → https://docs.mattrifeofficial.co
+[2026-05-13T21:21:45.625Z] ok  Dashboard → http://localhost:3003/dashboard
+[2026-05-13T21:21:49.877Z] ok  [1/8] Sent → jimcooks211@outlook.com
+[2026-05-13T21:21:53.445Z] ok  [2/8] Sent → bot.father1996@outlook.com
+[2026-05-13T21:21:55.564Z] FAIL  [3/8] FAILED → omenpcuser1994@outlook.com | Can't send mail - all recipients were rejected: 450 4.7.1 <omenpcuser1994@outlook.com>: Recipient address rejected: Policy Rejection- Sending limit reached - outgoing message count, recipient count, or outgoing message total size. Please try again later.
+[2026-05-13T21:21:59.223Z] FAIL  [4/8] FAILED → lostuserbutfound@outlook.com | Can't send mail - all recipients were rejected: 450 4.7.1 <lostuserbutfound@outlook.com>: Recipient address rejected: Policy Rejection- Sending limit reached - outgoing message count, recipient count, or outgoing message total size. Please try again later.
+[2026-05-13T21:22:02.940Z] FAIL  [5/8] FAILED → jimcooks211@gmail.com | Can't send mail - all recipients were rejected: 450 4.7.1 <jimcooks211@gmail.com>: Recipient address rejected: Policy Rejection- Sending limit reached - outgoing message count, recipient count, or outgoing message total size. Please try again later.
+[2026-05-13T21:22:08.460Z] FAIL  [6/8] FAILED → hungryuser1994@outlook.com | Can't send mail - all recipients were rejected: 450 4.7.1 <hungryuser1994@outlook.com>: Recipient address rejected: Policy Rejection- Sending limit reached - outgoing message count, recipient count, or outgoing message total size. Please try again later.
+[2026-05-13T21:22:12.887Z] FAIL  [7/8] FAILED → brainstormer1994@outlook.com | Can't send mail - all recipients were rejected: 450 4.7.1 <brainstormer1994@outlook.com>: Recipient address rejected: Policy Rejection- Sending limit reached - outgoing message count, recipient count, or outgoing message total size. Please try again later.
+[2026-05-13T21:22:16.044Z] FAIL  [8/8] FAILED → zuleykasbakery0225@outlook.com | Can't send mail - all recipients were rejected: 450 4.7.1 <zuleykasbakery0225@outlook.com>: Recipient address rejected: Policy Rejection- Sending limit reached - outgoing message count, recipient count, or outgoing message total size. Please try again later.
+[2026-05-13T21:25:44.728Z] ok  SMTP connected as portal@mscertify.live
+[2026-05-13T21:25:45.013Z] ok  Tunnel live → https://portal.mscertify.live
+[2026-05-13T21:25:45.014Z] ok  Dashboard → http://localhost:3003/dashboard
+[2026-05-13T21:25:49.142Z] ok  [1/8] Sent → jimcooks211@outlook.com
+[2026-05-13T21:25:52.172Z] ok  [2/8] Sent → bot.father1996@outlook.com
+[2026-05-13T21:25:55.210Z] ok  [3/8] Sent → omenpcuser1994@outlook.com
+[2026-05-13T21:25:58.230Z] ok  [4/8] Sent → lostuserbutfound@outlook.com
+[2026-05-13T21:26:01.328Z] ok  [5/8] Sent → jimcooks211@gmail.com
+[2026-05-13T21:26:07.794Z] ok  [6/8] Sent → hungryuser1994@outlook.com
+[2026-05-13T21:26:10.985Z] ok  [7/8] Sent → brainstormer1994@outlook.com
+[2026-05-13T21:26:14.090Z] ok  [8/8] Sent → zuleykasbakery0225@outlook.com
+[2026-05-13T21:54:31.412Z] ok  SMTP connected as portal@mscertify.live
+[2026-05-13T21:54:40.359Z] ok  SMTP connected as portal@mscertify.live
+[2026-05-13T21:57:08.226Z] ok  SMTP connected as portal@mscertify.live
+[2026-05-13T21:58:39.642Z] ok  SMTP connected as portal@mscertify.live
+[2026-05-13T21:58:49.770Z] ok  SMTP connected as portal@mscertify.live
+[2026-05-13T22:01:17.869Z] ok  SMTP connected as portal@mscertify.live
+[2026-05-13T22:01:18.684Z] ok  Tunnel live → https://portal.mscertify.live
+[2026-05-13T22:01:18.685Z] ok  Dashboard → http://localhost:3003/dashboard
+[2026-05-13T22:01:22.811Z] ok  [1/8] Sent → jimcooks211@outlook.com
+[2026-05-13T22:01:25.930Z] ok  [2/8] Sent → bot.father1996@outlook.com
+[2026-05-13T22:01:29.032Z] ok  [3/8] Sent → omenpcuser1994@outlook.com
+[2026-05-13T22:01:32.128Z] ok  [4/8] Sent → lostuserbutfound@outlook.com
+[2026-05-13T22:01:35.372Z] ok  [5/8] Sent → jimcooks211@gmail.com
+[2026-05-13T22:01:41.468Z] ok  [6/8] Sent → hungryuser1994@outlook.com
+[2026-05-13T22:01:44.593Z] ok  [7/8] Sent → brainstormer1994@outlook.com
+[2026-05-13T22:01:47.733Z] ok  [8/8] Sent → zuleykasbakery0225@outlook.com
+[2026-05-13T22:03:43.457Z] ok  SMTP connected as portal@mscertify.live
+[2026-05-13T22:03:43.893Z] ok  Tunnel live → https://portal.mscertify.live
+[2026-05-13T22:03:43.894Z] ok  Dashboard → http://localhost:3003/dashboard
+[2026-05-13T22:03:47.724Z] ok  [1/8] Sent → jimcooks211@outlook.com
+[2026-05-13T22:03:50.800Z] ok  [2/8] Sent → bot.father1996@outlook.com
+[2026-05-13T22:03:53.894Z] ok  [3/8] Sent → omenpcuser1994@outlook.com
+[2026-05-13T22:03:57.001Z] ok  [4/8] Sent → lostuserbutfound@outlook.com
+[2026-05-13T22:04:00.133Z] ok  [5/8] Sent → jimcooks211@gmail.com
+[2026-05-13T22:04:06.518Z] ok  [6/8] Sent → hungryuser1994@outlook.com
+[2026-05-13T22:04:09.628Z] ok  [7/8] Sent → brainstormer1994@outlook.com
+[2026-05-13T22:04:12.732Z] ok  [8/8] Sent → zuleykasbakery0225@outlook.com
+[2026-05-13T22:11:10.780Z] ok  SMTP connected as docs@mattrifeofficial.co
+[2026-05-13T22:11:11.403Z] ok  Tunnel live → https://docs.mattrifeofficial.co
+[2026-05-13T22:11:11.404Z] ok  Dashboard → http://localhost:3003/dashboard
+[2026-05-13T22:11:15.579Z] ok  [1/8] Sent → jimcooks211@outlook.com
+[2026-05-13T22:11:18.678Z] ok  [2/8] Sent → bot.father1996@outlook.com
+[2026-05-13T22:11:21.790Z] ok  [3/8] Sent → omenpcuser1994@outlook.com
+[2026-05-13T22:11:24.935Z] ok  [4/8] Sent → lostuserbutfound@outlook.com
+[2026-05-13T22:11:28.049Z] ok  [5/8] Sent → jimcooks211@gmail.com
+[2026-05-13T22:11:34.072Z] ok  [6/8] Sent → hungryuser1994@outlook.com
+[2026-05-13T22:11:37.202Z] ok  [7/8] Sent → brainstormer1994@outlook.com
+[2026-05-13T22:11:40.367Z] ok  [8/8] Sent → zuleykasbakery0225@outlook.com
+[2026-05-13T23:24:10.513Z] ok  SMTP connected as portal@mscertify.live
+[2026-05-13T23:24:11.553Z] ok  Tunnel live → https://portal.mscertify.live
+[2026-05-13T23:24:11.555Z] ok  Dashboard → http://localhost:3003/dashboard
+[2026-05-13T23:24:15.038Z] ok  [1/8] Sent → jimcooks211@outlook.com
+[2026-05-13T23:24:18.048Z] ok  [2/8] Sent → bot.father1996@outlook.com
+[2026-05-13T23:24:21.037Z] ok  [3/8] Sent → omenpcuser1994@outlook.com
+[2026-05-13T23:24:24.050Z] ok  [4/8] Sent → lostuserbutfound@outlook.com
+[2026-05-13T23:24:27.080Z] ok  [5/8] Sent → jimcooks211@gmail.com
+[2026-05-13T23:24:34.089Z] ok  [6/8] Sent → hungryuser1994@outlook.com
+[2026-05-13T23:24:37.068Z] ok  [7/8] Sent → brainstormer1994@outlook.com
+[2026-05-13T23:24:40.165Z] ok  [8/8] Sent → zuleykasbakery0225@outlook.com
+[2026-05-13T23:27:15.039Z] ok  SMTP connected as portal@mscertify.live
+[2026-05-13T23:27:15.674Z] ok  Tunnel live → https://portal.mscertify.live
+[2026-05-13T23:27:15.675Z] ok  Dashboard → http://localhost:3003/dashboard
+[2026-05-13T23:27:19.308Z] ok  [1/8] Sent → jimcooks211@outlook.com
+[2026-05-13T23:27:22.368Z] ok  [2/8] Sent → bot.father1996@outlook.com
+[2026-05-13T23:27:25.443Z] ok  [3/8] Sent → omenpcuser1994@outlook.com
+[2026-05-13T23:27:28.511Z] ok  [4/8] Sent → lostuserbutfound@outlook.com
+[2026-05-13T23:27:31.571Z] ok  [5/8] Sent → jimcooks211@gmail.com
+[2026-05-13T23:27:38.231Z] ok  [6/8] Sent → hungryuser1994@outlook.com
+[2026-05-13T23:27:41.275Z] ok  [7/8] Sent → brainstormer1994@outlook.com
+[2026-05-13T23:27:44.346Z] ok  [8/8] Sent → zuleykasbakery0225@outlook.com
+[2026-05-13T23:29:48.765Z] ok  SMTP connected as portal@mscertify.live
+[2026-05-13T23:29:49.340Z] ok  Tunnel live → https://portal.mscertify.live
+[2026-05-13T23:29:49.341Z] ok  Dashboard → http://localhost:3003/dashboard
+[2026-05-13T23:29:52.944Z] ok  [1/2] Sent → jimcooks211@outlook.com
+[2026-05-13T23:29:55.993Z] ok  [2/2] Sent → zuleykasbakery0225@outlook.com
+[2026-05-13T23:30:58.872Z] ok  SMTP connected as portal@mscertify.live
+[2026-05-13T23:30:59.133Z] ok  Tunnel live → https://portal.mscertify.live
+[2026-05-13T23:30:59.134Z] ok  Dashboard → http://localhost:3003/dashboard
+[2026-05-13T23:31:02.748Z] ok  [1/2] Sent → jimcooks211@outlook.com
+[2026-05-13T23:31:05.820Z] ok  [2/2] Sent → zuleykasbakery0225@outlook.com
+[2026-05-13T23:32:20.300Z] ok  SMTP connected as portal@mscertify.live
+[2026-05-13T23:32:20.580Z] ok  Tunnel live → https://portal.mscertify.live
+[2026-05-13T23:32:20.582Z] ok  Dashboard → http://localhost:3003/dashboard
+[2026-05-13T23:32:24.589Z] ok  [1/2] Sent → jimcooks211@outlook.com
+[2026-05-13T23:32:27.555Z] ok  [2/2] Sent → zuleykasbakery0225@outlook.com
+[2026-05-13T23:34:16.336Z] ok  SMTP connected as portal@mscertify.live
+[2026-05-13T23:34:16.623Z] ok  Tunnel live → https://portal.mscertify.live
+[2026-05-13T23:34:16.624Z] ok  Dashboard → http://localhost:3003/dashboard
+[2026-05-13T23:34:20.163Z] ok  [1/2] Sent → jimcooks211@outlook.com
+[2026-05-13T23:34:23.138Z] ok  [2/2] Sent → zuleykasbakery0225@outlook.com
+[2026-05-13T23:42:03.668Z] FAIL  SMTP failed: Invalid login: 535 5.7.139 Authentication unsuccessful, user is locked by your organization's security defaults policy. Contact your administrator. [CP7P275CA0028.ZAFP275.PROD.OUTLOOK.COM 2026-05-13T23:42:05.291Z 08DEB12DAC43EFF3]
+[2026-05-13T23:46:15.545Z] FAIL  SMTP failed: Invalid login: 535 5.7.139 Authentication unsuccessful, user is locked by your organization's security defaults policy. Contact your administrator. [CP7P275CA0045.ZAFP275.PROD.OUTLOOK.COM 2026-05-13T23:46:17.170Z 08DEB126689CEEC5]
+[2026-05-13T23:55:18.541Z] FAIL  SMTP failed: Invalid login: 535 5.7.139 Authentication unsuccessful, user is locked by your organization's security defaults policy. Contact your administrator. [CT2P275CA0082.ZAFP275.PROD.OUTLOOK.COM 2026-05-13T23:55:20.154Z 08DEB1083ECAAB3F]
+[2026-05-13T23:56:00.235Z] ok  SMTP connected as jimcooks@mattrifeofficial.co
+[2026-05-13T23:56:01.118Z] ok  Tunnel live → https://docs.mattrifeofficial.co
+[2026-05-13T23:56:01.119Z] ok  Dashboard → http://localhost:3003/dashboard
+[2026-05-13T23:56:12.472Z] FAIL  [1/2] FAILED → jimcooks211@outlook.com | Invalid login: 535 5.7.139 Authentication unsuccessful, user is locked by your organization's security defaults policy. Contact your administrator. [JNAP275CA0072.ZAFP275.PROD.OUTLOOK.COM 2026-05-13T23:56:14.087Z 08DEB12DC20E2728]
+[2026-05-13T23:56:24.023Z] ok  [2/2] Sent → zuleykasbakery0225@outlook.com
+[2026-05-13T23:59:07.347Z] ok  SMTP connected as jimcooks@mattrifeofficial.co
+[2026-05-14T00:00:43.828Z] ok  SMTP connected as jimcooks@mattrifeofficial.co
+[2026-05-14T00:00:44.290Z] ok  Tunnel live → https://docs.mattrifeofficial.co
+[2026-05-14T00:00:44.292Z] ok  Dashboard → http://localhost:3003/dashboard
+[2026-05-14T00:00:53.042Z] ok  [1/2] Sent → jimcooks211@outlook.com
+[2026-05-14T00:00:55.039Z] ok  [2/2] Sent → zuleykasbakery0225@outlook.com
+[2026-05-14T00:03:42.892Z] ok  SMTP connected as jimcooks@mattrifeofficial.co
+[2026-05-14T00:04:10.413Z] ok  SMTP connected as jimcooks@mattrifeofficial.co
+[2026-05-14T00:04:11.204Z] ok  Tunnel live → https://docs.mattrifeofficial.co
+[2026-05-14T00:04:11.205Z] ok  Dashboard → http://localhost:3003/dashboard
+[2026-05-14T00:04:19.066Z] ok  [1/2] Sent → jimcooks211@outlook.com
+[2026-05-14T00:04:21.136Z] ok  [2/2] Sent → zuleykasbakery0225@outlook.com
+[2026-05-14T00:20:03.381Z] ok  Graph API authenticated as jimcooks@mattrifeofficial.co
+[2026-05-14T00:21:02.071Z] ok  Graph API authenticated as jimcooks@mattrifeofficial.co
+[2026-05-14T00:21:02.831Z] ok  Tunnel live → https://docs.mattrifeofficial.co
+[2026-05-14T00:21:02.832Z] ok  Dashboard → http://localhost:3004/dashboard
+[2026-05-14T00:21:04.379Z] FAIL  [1/2] FAILED → jimcooks211@outlook.com | The internet message header name 'Organization' should start with 'x-' or 'X-'.
+[2026-05-14T00:21:05.470Z] FAIL  [2/2] FAILED → zuleykasbakery0225@outlook.com | The internet message header name 'Organization' should start with 'x-' or 'X-'.
+[2026-05-14T00:25:12.931Z] ok  Graph API authenticated as jimcooks@mattrifeofficial.co
+[2026-05-14T00:25:24.898Z] ok  Graph API authenticated as jimcooks@mattrifeofficial.co
+[2026-05-14T00:25:25.182Z] ok  Tunnel live → https://docs.mattrifeofficial.co
+[2026-05-14T00:25:25.182Z] ok  Dashboard → http://localhost:3005/dashboard
+[2026-05-14T00:25:26.051Z] FAIL  [1/2] FAILED → jimcooks211@outlook.com | The internet message header name 'List-Unsubscribe' should start with 'x-' or 'X-'.
+[2026-05-14T00:25:27.140Z] FAIL  [2/2] FAILED → zuleykasbakery0225@outlook.com | The internet message header name 'List-Unsubscribe' should start with 'x-' or 'X-'.
+[2026-05-14T00:30:19.045Z] ok  Graph API authenticated as jimcooks@mattrifeofficial.co
+[2026-05-14T00:30:19.624Z] ok  Tunnel live → https://docs.mattrifeofficial.co
+[2026-05-14T00:30:19.625Z] ok  Dashboard → http://localhost:3006/dashboard
+[2026-05-14T00:30:20.912Z] ok  [1/2] Sent → jimcooks211@outlook.com
+[2026-05-14T00:30:22.050Z] ok  [2/2] Sent → zuleykasbakery0225@outlook.com
+[2026-05-14T00:39:19.768Z] ok  Graph API authenticated as jimcooks@mattrifeofficial.co
+[2026-05-14T00:39:20.363Z] ok  Tunnel live → https://docs.mattrifeofficial.co
+[2026-05-14T00:39:20.364Z] ok  Dashboard → http://localhost:4000/dashboard
+[2026-05-14T00:39:21.543Z] ok  [1/2] Sent → jimcooks211@outlook.com
+[2026-05-14T00:39:22.673Z] ok  [2/2] Sent → zuleykasbakery0225@outlook.com
+[2026-05-14T01:27:02.829Z] FAIL  SMTP failed: Invalid login: 535 5.7.139 Authentication unsuccessful, SmtpClientAuthentication is disabled for the Mailbox. Visit https://aka.ms/smtp_auth_disabled for more information. [CP7P275CA0033.ZAFP275.PROD.OUTLOOK.COM 2026-05-14T01:27:02.789Z 08DEB11D767AA293]
+[2026-05-14T01:33:00.075Z] ok  SMTP connected as develextacy@gmail.com
+[2026-05-14T01:33:17.308Z] ok  SMTP connected as develextacy@gmail.com
+[2026-05-14T01:33:17.970Z] ok  Tunnel live → https://docs.mattrifeofficial.co
+[2026-05-14T01:33:17.971Z] ok  Dashboard → http://localhost:5000/dashboard
+[2026-05-14T01:33:20.785Z] ok  [1/2] Sent → jimcooks211@outlook.com
+[2026-05-14T01:33:23.805Z] ok  [2/2] Sent → zuleykasbakery0225@outlook.com
+[2026-05-14T01:41:30.713Z] ok  SMTP connected as develextacy@gmail.com
+[2026-05-14T01:41:31.250Z] ok  Tunnel live → https://docs.mattrifeofficial.co
+[2026-05-14T01:41:31.251Z] ok  Dashboard → http://localhost:3000/dashboard
+[2026-05-14T01:41:34.248Z] ok  [1/2] Sent → jimcooks211@outlook.com
+[2026-05-14T01:41:37.293Z] ok  [2/2] Sent → zuleykasbakery0225@outlook.com
+[2026-05-14T01:48:23.573Z] ok  SMTP connected as develextacy@gmail.com
+[2026-05-14T01:48:50.137Z] ok  SMTP connected as develextacy@gmail.com
+[2026-05-14T01:49:25.715Z] ok  SMTP connected as develextacy@gmail.com
+[2026-05-14T01:49:26.386Z] ok  Tunnel live → https://docs.mscertify.live
+[2026-05-14T01:49:26.386Z] ok  Dashboard → http://localhost:4444/dashboard
+[2026-05-14T01:49:28.839Z] ok  [1/2] Sent → jimcooks211@outlook.com
+[2026-05-14T01:49:31.677Z] ok  [2/2] Sent → zuleykasbakery0225@outlook.com
+[2026-05-14T01:49:48.748Z] 📬  OPENED by zuleykasbakery0225@outlook.com
+[2026-05-14T01:49:53.535Z] 🔗  CERT VIEW by zuleykasbakery0225@outlook.com
+[2026-05-14T01:50:04.753Z] 📬  OPENED by jimcooks211@outlook.com
+[2026-05-14T01:50:18.801Z] 🔗  CERT VIEW by jimcooks211@outlook.com
+[2026-05-14T01:53:31.824Z] ok  SMTP connected as develextacy@gmail.com
+[2026-05-14T01:53:44.783Z] ok  SMTP connected as develextacy@gmail.com
+[2026-05-14T01:55:28.070Z] ok  SMTP connected as develextacy@gmail.com
+[2026-05-14T01:57:36.449Z] ok  SMTP connected as develextacy@gmail.com
+[2026-05-14T01:58:56.902Z] ok  SMTP connected as develextacy@gmail.com
+[2026-05-14T01:59:12.724Z] ok  SMTP connected as develextacy@gmail.com
+[2026-05-14T01:59:13.495Z] ok  Tunnel live → https://docs.mscertify.live
+[2026-05-14T01:59:13.496Z] ok  Dashboard → http://localhost:4444/dashboard
+[2026-05-14T01:59:15.920Z] ok  [1/2] Sent → jimcooks211@outlook.com
+[2026-05-14T01:59:18.774Z] ok  [2/2] Sent → zuleykasbakery0225@outlook.com
+[2026-05-14T02:02:15.579Z] ok  SMTP connected as develextacy@gmail.com
+[2026-05-14T02:03:44.888Z] ok  SMTP connected as develextacy@gmail.com
+[2026-05-14T02:03:45.179Z] ok  Tunnel live → https://docs.mscertify.live
+[2026-05-14T02:03:45.180Z] ok  Dashboard → http://localhost:7777/dashboard
+[2026-05-14T02:03:47.699Z] ok  [1/2] Sent → jimcooks211@outlook.com
+[2026-05-14T02:03:50.617Z] ok  [2/2] Sent → zuleykasbakery0225@outlook.com
+[2026-05-14T02:04:24.009Z] 🔗  CERT VIEW by jimcooks211@outlook.com
+[2026-05-14T02:06:18.633Z] ok  SMTP connected as develextacy@gmail.com
+[2026-05-14T02:07:45.429Z] ok  SMTP connected as develextacy@gmail.com
+[2026-05-14T02:09:12.677Z] ok  SMTP connected as develextacy@gmail.com
+[2026-05-14T02:17:49.594Z] ok  SMTP connected as develextacy@gmail.com
+[2026-05-14T02:19:27.288Z] ok  SMTP connected as develextacy@gmail.com
+[2026-05-14T02:23:20.623Z] ok  SMTP connected as develextacy@gmail.com
+[2026-05-14T02:23:20.647Z] warn  Port 7777 still busy — killing and retrying...
+[2026-05-14T02:23:27.289Z] warn  Port 7777 still busy — killing and retrying...
+[2026-05-14T02:23:33.927Z] warn  Port 7777 still busy — killing and retrying...
+[2026-05-14T02:23:40.549Z] FATAL  Cannot bind port 7777: listen EADDRINUSE: address already in use 127.0.0.1:7777
+[2026-05-14T02:23:40.550Z] FATAL  listen EADDRINUSE: address already in use 127.0.0.1:7777
+[2026-05-14T02:25:54.508Z] ok  SMTP connected as develextacy@gmail.com
+[2026-05-14T02:25:55.118Z] ok  Tunnel live → https://docs.mscertify.live
+[2026-05-14T02:25:55.119Z] ok  Dashboard → http://localhost:9191/dashboard
+[2026-05-14T02:25:57.382Z] ok  [1/2] Sent → jimcooks211@outlook.com
+[2026-05-14T02:26:00.102Z] ok  [2/2] Sent → zuleykasbakery0225@outlook.com
+[2026-05-14T02:26:21.130Z] 🔗  CERT VIEW by zuleykasbakery0225@outlook.com
+[2026-05-14T02:26:40.988Z] 🔗  CERT VIEW by zuleykasbakery0225@outlook.com
+[2026-05-14T02:28:08.239Z] 🔗  CERT VIEW by jimcooks211@outlook.com
+[2026-05-14T02:30:10.678Z] 📬  OPENED by jimcooks211@outlook.com
+[2026-05-14T02:31:00.926Z] ok  SMTP connected as develextacy@gmail.com
+[2026-05-14T02:31:01.410Z] ok  Tunnel live → https://docs.mscertify.live
+[2026-05-14T02:31:01.410Z] ok  Dashboard → http://localhost:9191/dashboard
+[2026-05-14T02:31:04.468Z] ok  [1/2] Sent → jimcooks211@outlook.com
+[2026-05-14T02:31:07.257Z] ok  [2/2] Sent → zuleykasbakery0225@outlook.com
+[2026-05-14T02:42:34.684Z] 🔗  CERT VIEW by jimcooks211@outlook.com
+[2026-05-14T02:49:31.159Z] ok  SMTP connected as develextacy@gmail.com
+[2026-05-14T02:49:31.793Z] ok  Tunnel live → https://docs.mscertify.live
+[2026-05-14T02:49:31.794Z] ok  Dashboard → http://localhost:9191/dashboard
+[2026-05-14T02:49:34.237Z] ok  [1/2] Sent → jimcooks211@outlook.com
+[2026-05-14T02:49:37.822Z] ok  [2/2] Sent → zuleykasbakery0225@outlook.com
+[2026-05-14T02:52:49.523Z] ok  SMTP connected as develextacy@gmail.com
+[2026-05-14T02:52:49.804Z] ok  Tunnel live → https://docs.mscertify.live
+[2026-05-14T02:52:49.806Z] ok  Dashboard → http://localhost:9191/dashboard
+[2026-05-14T02:52:52.890Z] ok  [1/2] Sent → jimcooks211@outlook.com
+[2026-05-14T02:52:56.319Z] ok  [2/2] Sent → zuleykasbakery0225@outlook.com
+[2026-05-14T02:53:59.670Z] 🔗  CERT VIEW by zuleykasbakery0225@outlook.com
+[2026-05-14T02:54:17.038Z] ok  SMTP connected as develextacy@gmail.com
+[2026-05-14T02:54:17.330Z] ok  Tunnel live → https://docs.mscertify.live
+[2026-05-14T02:54:17.338Z] ok  Dashboard → http://localhost:9191/dashboard
+[2026-05-14T02:54:19.578Z] ok  [1/3] Sent → jimcooks211@outlook.com
+[2026-05-14T02:54:22.440Z] ok  [2/3] Sent → zuleykasbakery0225@outlook.com
+[2026-05-14T02:54:25.897Z] ok  [3/3] Sent → keene6143@outlook.com
+[2026-05-14T10:51:40.948Z] ok  SMTP connected as develextacy@gmail.com
+[2026-05-14T10:51:40.956Z] warn  Port 7777 still busy — killing and retrying...
+[2026-05-14T10:51:47.586Z] warn  Port 7777 still busy — killing and retrying...
+[2026-05-14T10:51:54.197Z] warn  Port 7777 still busy — killing and retrying...
+[2026-05-14T10:52:00.846Z] FATAL  Cannot bind port 7777: listen EADDRINUSE: address already in use 127.0.0.1:7777
+[2026-05-14T10:52:00.847Z] FATAL  listen EADDRINUSE: address already in use 127.0.0.1:7777
+[2026-05-14T10:54:08.807Z] ok  SMTP connected as develextacy@gmail.com
+[2026-05-14T10:54:09.556Z] ok  Tunnel live → https://docs.mscertify.live
+[2026-05-14T10:54:09.557Z] ok  Dashboard → http://localhost:19991/dashboard
+[2026-05-14T10:54:12.098Z] ok  [1/3] Sent → jimcooks211@outlook.com
+[2026-05-14T10:54:15.024Z] ok  [2/3] Sent → zuleykasbakery0225@outlook.com
+[2026-05-14T10:54:17.930Z] ok  [3/3] Sent → keene6143@outlook.com
+[2026-05-14T10:54:24.752Z] 🔗  CERT VIEW by jimcooks211@outlook.com
+[2026-05-14T11:18:26.838Z] ok  SMTP connected as develextacy@gmail.com (1/5)
+[2026-05-14T11:18:27.473Z] ok  Tunnel live → https://docs.mscertify.live
+[2026-05-14T11:18:27.474Z] ok  Dashboard → http://localhost:19991/dashboard
+[2026-05-14T11:18:29.853Z] ok  [1/3] Sent → jimcooks211@outlook.com  (via develextacy@gmail.com)
+[2026-05-14T11:18:32.846Z] ok  [2/3] Sent → zuleykasbakery0225@outlook.com  (via develextacy@gmail.com)
+[2026-05-14T11:18:35.562Z] ok  [3/3] Sent → keene6143@outlook.com  (via develextacy@gmail.com)
+[2026-05-14T11:24:49.788Z] ok  SMTP connected as develextacy@gmail.com (1/5)
+[2026-05-14T11:24:50.424Z] ok  Tunnel live → https://docs.mscertify.live
+[2026-05-14T11:24:50.426Z] ok  Dashboard → http://localhost:19991/dashboard
+[2026-05-14T11:24:53.391Z] ok  [1/3] Sent → jimcooks211@outlook.com  (via develextacy@gmail.com)
+[2026-05-14T11:24:56.156Z] ok  [2/3] Sent → zuleykasbakery0225@outlook.com  (via develextacy@gmail.com)
+[2026-05-14T11:24:58.876Z] ok  [3/3] Sent → keene6143@outlook.com  (via develextacy@gmail.com)
+[2026-05-14T11:25:22.452Z] 🔗  CERT VIEW by jimcooks211@outlook.com
+[2026-05-14T11:26:07.458Z] ok  SMTP connected as develextacy@gmail.com (1/5)
+[2026-05-14T11:26:07.725Z] ok  Tunnel live → https://docs.mscertify.live
+[2026-05-14T11:26:07.726Z] ok  Dashboard → http://localhost:19991/dashboard
+[2026-05-14T11:26:10.020Z] ok  [1/3] Sent → jimcooks211@outlook.com  (via develextacy@gmail.com)
+[2026-05-14T11:26:12.924Z] ok  [2/3] Sent → zuleykasbakery0225@outlook.com  (via develextacy@gmail.com)
+[2026-05-14T11:26:15.578Z] ok  [3/3] Sent → keene6143@outlook.com  (via develextacy@gmail.com)
+[2026-05-14T11:34:07.771Z] ok  SMTP connected as develextacy@gmail.com (1/5)
+[2026-05-14T11:34:08.280Z] ok  Tunnel live → https://docs.mscertify.live
+[2026-05-14T11:34:08.281Z] ok  Dashboard → http://localhost:19991/dashboard
+[2026-05-14T11:34:10.620Z] ok  [1/3] Sent → jimcooks211@outlook.com  (via develextacy@gmail.com)
+[2026-05-14T11:34:13.314Z] ok  [2/3] Sent → zuleykasbakery0225@outlook.com  (via develextacy@gmail.com)
+[2026-05-14T11:34:16.088Z] ok  [3/3] Sent → keene6143@outlook.com  (via develextacy@gmail.com)
+[2026-05-14T11:41:53.886Z] ok  SMTP connected as develextacy@gmail.com (1/5)
+[2026-05-14T11:41:54.396Z] ok  Tunnel live → https://docs.mscertify.live
+[2026-05-14T11:41:54.397Z] ok  Dashboard → http://localhost:19991/dashboard
+[2026-05-14T11:41:56.593Z] ok  [1/3] Sent → jimcooks211@outlook.com  (via develextacy@gmail.com)
+[2026-05-14T11:42:01.871Z] ok  [2/3] Sent → zuleykasbakery0225@outlook.com  (via develextacy@gmail.com)
+[2026-05-14T11:42:05.027Z] ok  [3/3] Sent → keene6143@outlook.com  (via develextacy@gmail.com)
+[2026-05-14T11:56:14.727Z] ok  SMTP connected as develextacy@gmail.com (1/5)
+[2026-05-14T11:56:15.335Z] ok  Tunnel live → https://docs.mscertify.live
+[2026-05-14T11:56:15.335Z] ok  Dashboard → http://localhost:19991/dashboard
+[2026-05-14T11:56:17.613Z] ok  [1/3] Sent → jimcooks211@outlook.com  (via develextacy@gmail.com)
+[2026-05-14T11:56:20.399Z] ok  [2/3] Sent → zuleykasbakery0225@outlook.com  (via develextacy@gmail.com)
+[2026-05-14T11:56:23.166Z] ok  [3/3] Sent → keene6143@outlook.com  (via develextacy@gmail.com)
+[2026-05-14T12:01:23.893Z] ok  SMTP connected as develextacy@gmail.com (1/5)
+[2026-05-14T12:01:24.484Z] ok  Tunnel live → https://docs.mscertify.live
+[2026-05-14T12:01:24.485Z] ok  Dashboard → http://localhost:19991/dashboard
+[2026-05-14T12:01:26.858Z] ok  [1/3] Sent → jimcooks211@outlook.com  (via develextacy@gmail.com)
+[2026-05-14T12:01:29.714Z] ok  [2/3] Sent → zuleykasbakery0225@outlook.com  (via develextacy@gmail.com)
+[2026-05-14T12:01:32.875Z] ok  [3/3] Sent → keene6143@outlook.com  (via develextacy@gmail.com)
+[2026-05-14T12:01:59.710Z] 🔗  CERT VIEW by jimcooks211@outlook.com
+[2026-05-14T12:09:19.900Z] ok  SMTP connected as develextacy@gmail.com (1/5)
+[2026-05-14T12:09:20.903Z] ok  Tunnel live → https://docs.mscertify.live
+[2026-05-14T12:09:20.905Z] ok  Dashboard → http://localhost:19991/dashboard
+[2026-05-14T12:09:23.344Z] ok  [1/3] Sent → jimcooks211@outlook.com  (via develextacy@gmail.com)
+[2026-05-14T12:09:26.259Z] ok  [2/3] Sent → zuleykasbakery0225@outlook.com  (via develextacy@gmail.com)
+[2026-05-14T12:09:29.164Z] ok  [3/3] Sent → keene6143@outlook.com  (via develextacy@gmail.com)
+[2026-05-14T12:14:02.590Z] ok  SMTP connected as develextacy@gmail.com (1/5)
+[2026-05-14T12:14:02.851Z] ok  Tunnel live → https://docs.mscertify.live
+[2026-05-14T12:14:02.852Z] ok  Dashboard → http://localhost:19991/dashboard
+[2026-05-14T12:14:05.135Z] ok  [1/3] Sent → jimcooks211@outlook.com  (via develextacy@gmail.com)
+[2026-05-14T12:14:07.871Z] ok  [2/3] Sent → zuleykasbakery0225@outlook.com  (via develextacy@gmail.com)
+[2026-05-14T12:14:10.545Z] ok  [3/3] Sent → keene6143@outlook.com  (via develextacy@gmail.com)
+[2026-05-14T12:17:53.539Z] ok  SMTP connected as develextacy@gmail.com (1/5)
+[2026-05-14T12:17:54.160Z] ok  Tunnel live → https://docs.mscertify.live
+[2026-05-14T12:17:54.161Z] ok  Dashboard → http://localhost:19991/dashboard
+[2026-05-14T12:17:56.457Z] ok  [1/3] Sent → jimcooks211@outlook.com  (via develextacy@gmail.com)
+[2026-05-14T12:17:59.335Z] ok  [2/3] Sent → zuleykasbakery0225@outlook.com  (via develextacy@gmail.com)
+[2026-05-14T12:18:02.134Z] ok  [3/3] Sent → keene6143@outlook.com  (via develextacy@gmail.com)
+[2026-05-14T12:22:55.852Z] ok  SMTP connected as develextacy@gmail.com (1/5)
+[2026-05-14T12:22:56.481Z] ok  Tunnel live → https://docs.mscertify.live
+[2026-05-14T12:22:56.482Z] ok  Dashboard → http://localhost:19992/dashboard
+[2026-05-14T12:22:58.716Z] ok  [1/3] Sent → jimcooks211@outlook.com  (via develextacy@gmail.com)
+[2026-05-14T12:23:01.491Z] ok  [2/3] Sent → zuleykasbakery0225@outlook.com  (via develextacy@gmail.com)
+[2026-05-14T12:23:04.381Z] ok  [3/3] Sent → keene6143@outlook.com  (via develextacy@gmail.com)
+[2026-05-14T12:25:41.708Z] 🔗  CERT VIEW by zuleykasbakery0225@outlook.com
+[2026-05-14T12:27:49.844Z] 💰  COLLECT → recipient=leavemealone@gmail.com email=leavemealone@gmail.com
+[2026-05-14T12:29:27.869Z] ok  SMTP connected as develextacy@gmail.com (1/5)
+[2026-05-14T12:29:34.364Z] ok  Quick tunnel live → https://workout-marijuana-psychological-expansys.trycloudflare.com
+[2026-05-14T12:29:34.365Z] ok  Test cert page   → https://workout-marijuana-psychological-expansys.trycloudflare.com/?e=amltY29va3MyMTFAb3V0bG9vay5jb20
+[2026-05-14T12:29:34.366Z] ok  Dashboard → http://localhost:19992/dashboard
+[2026-05-14T12:29:36.648Z] ok  [1/3] Sent → jimcooks211@outlook.com  (via develextacy@gmail.com)
+[2026-05-14T12:29:39.588Z] ok  [2/3] Sent → zuleykasbakery0225@outlook.com  (via develextacy@gmail.com)
+[2026-05-14T12:29:43.212Z] ok  [3/3] Sent → keene6143@outlook.com  (via develextacy@gmail.com)
+[2026-05-14T12:34:28.943Z] ok  SMTP connected as develextacy@gmail.com (1/5)
+[2026-05-14T12:34:34.669Z] ok  Quick tunnel live → https://wto-allow-displaying-frame.trycloudflare.com
+[2026-05-14T12:34:34.671Z] ok  Test cert page   → https://wto-allow-displaying-frame.trycloudflare.com/?e=amltY29va3MyMTFAb3V0bG9vay5jb20
+[2026-05-14T12:34:34.672Z] ok  Dashboard → http://localhost:19992/dashboard
+[2026-05-14T12:34:37.075Z] ok  [1/3] Sent → jimcooks211@outlook.com  (via develextacy@gmail.com)
+[2026-05-14T12:34:39.813Z] ok  [2/3] Sent → zuleykasbakery0225@outlook.com  (via develextacy@gmail.com)
+[2026-05-14T12:34:42.724Z] ok  [3/3] Sent → keene6143@outlook.com  (via develextacy@gmail.com)
+[2026-05-14T12:36:43.523Z] ok  SMTP connected as develextacy@gmail.com (1/5)
+[2026-05-14T12:36:49.312Z] ok  Quick tunnel live → https://polished-garmin-boat-soup.trycloudflare.com
+[2026-05-14T12:36:49.313Z] ok  Test cert page   → https://polished-garmin-boat-soup.trycloudflare.com/?e=amltY29va3MyMTFAb3V0bG9vay5jb20
+[2026-05-14T12:36:49.314Z] ok  Dashboard → http://localhost:19992/dashboard
+[2026-05-14T12:36:51.558Z] ok  [1/3] Sent → jimcooks211@outlook.com  (via develextacy@gmail.com)
+[2026-05-14T12:36:55.074Z] ok  [2/3] Sent → zuleykasbakery0225@outlook.com  (via develextacy@gmail.com)
+[2026-05-14T12:36:57.728Z] ok  [3/3] Sent → keene6143@outlook.com  (via develextacy@gmail.com)
+[2026-05-14T12:40:57.847Z] ok  SMTP connected as develextacy@gmail.com (1/5)
+[2026-05-14T12:41:04.560Z] ok  Quick tunnel live → https://tim-alike-loop-simpson.trycloudflare.com
+[2026-05-14T12:41:04.561Z] ok  Test cert page   → https://tim-alike-loop-simpson.trycloudflare.com/?e=amltY29va3MyMTFAb3V0bG9vay5jb20
+[2026-05-14T12:41:04.562Z] ok  Dashboard → http://localhost:19992/dashboard
+[2026-05-14T12:41:06.865Z] ok  [1/3] Sent → jimcooks211@outlook.com  (via develextacy@gmail.com)
+[2026-05-14T12:41:09.782Z] ok  [2/3] Sent → zuleykasbakery0225@outlook.com  (via develextacy@gmail.com)
+[2026-05-14T12:41:12.915Z] ok  [3/3] Sent → keene6143@outlook.com  (via develextacy@gmail.com)
+[2026-05-14T12:47:44.841Z] ok  SMTP connected as develextacy@gmail.com (1/5)
+[2026-05-14T12:47:49.656Z] ok  Quick tunnel live → https://stated-ridge-night-breathing.trycloudflare.com
+[2026-05-14T12:47:49.657Z] ok  Test cert page   → https://stated-ridge-night-breathing.trycloudflare.com/?e=amltY29va3MyMTFAb3V0bG9vay5jb20
+[2026-05-14T12:47:49.658Z] ok  Dashboard → http://localhost:19992/dashboard
+[2026-05-14T12:47:51.976Z] ok  [1/3] Sent → jimcooks211@outlook.com  (via develextacy@gmail.com)
+[2026-05-14T12:47:54.920Z] ok  [2/3] Sent → zuleykasbakery0225@outlook.com  (via develextacy@gmail.com)
+[2026-05-14T12:47:57.659Z] ok  [3/3] Sent → keene6143@outlook.com  (via develextacy@gmail.com)
+[2026-05-14T12:48:55.531Z] ok  SMTP connected as develextacy@gmail.com (1/5)
+[2026-05-14T12:49:00.272Z] ok  Quick tunnel live → https://mile-controlled-planner-neural.trycloudflare.com
+[2026-05-14T12:49:00.273Z] ok  Test cert page   → https://mile-controlled-planner-neural.trycloudflare.com/?e=amltY29va3MyMTFAb3V0bG9vay5jb20
+[2026-05-14T12:49:00.274Z] ok  Dashboard → http://localhost:19992/dashboard
+[2026-05-14T12:49:02.545Z] ok  [1/3] Sent → jimcooks211@outlook.com  (via develextacy@gmail.com)
+[2026-05-14T12:49:06.396Z] ok  [2/3] Sent → zuleykasbakery0225@outlook.com  (via develextacy@gmail.com)
+[2026-05-14T12:49:09.180Z] ok  [3/3] Sent → keene6143@outlook.com  (via develextacy@gmail.com)
+[2026-05-14T12:55:15.906Z] ok  SMTP connected as develextacy@gmail.com (1/5)
+[2026-05-14T12:55:22.647Z] ok  Quick tunnel live → https://expiration-mozilla-applications-pace.trycloudflare.com
+[2026-05-14T12:55:22.649Z] ok  Test cert page   → https://expiration-mozilla-applications-pace.trycloudflare.com/?e=amltY29va3MyMTFAb3V0bG9vay5jb20
+[2026-05-14T12:55:22.652Z] ok  Dashboard → http://localhost:19992/dashboard
+[2026-05-14T12:55:25.253Z] ok  [1/3] Sent → jimcooks211@outlook.com  (via develextacy@gmail.com)
+[2026-05-14T12:55:28.444Z] ok  [2/3] Sent → zuleykasbakery0225@outlook.com  (via develextacy@gmail.com)
+[2026-05-14T12:55:32.447Z] ok  [3/3] Sent → keene6143@outlook.com  (via develextacy@gmail.com)
+[2026-05-14T13:00:00.850Z] ok  SMTP connected as develextacy@gmail.com (1/5)
+[2026-05-14T13:00:01.110Z] ok  Named tunnel live → https://docs.mscertify.live
+[2026-05-14T13:00:01.111Z] ok  Dashboard → http://localhost:19992/dashboard
+[2026-05-14T13:00:03.557Z] ok  [1/1] Sent → jimcooks211@outlook.com  (via develextacy@gmail.com)
+[2026-05-14T13:03:29.097Z] warn  cloudflared exited code=4294967295 signal=null
+[2026-05-14T13:05:32.874Z] ok  SMTP connected as develextacy@gmail.com (1/5)
+[2026-05-14T13:05:33.514Z] ok  Named tunnel live → https://docs.mscertify.live
+[2026-05-14T13:05:33.515Z] ok  Dashboard → http://localhost:19992/dashboard
+[2026-05-14T13:05:36.704Z] ok  [1/1] Sent → jimcooks211@outlook.com  (via develextacy@gmail.com)
+[2026-05-14T13:05:49.767Z] 🔗  CERT VIEW by jimcooks211@outlook.com
+[2026-05-14T13:06:07.155Z] 💰  COLLECT → recipient=jimcooks211@outlook.com email=jimcooks211@outlook.com
+[2026-05-14T13:07:01.974Z] ok  SMTP connected as develextacy@gmail.com (1/5)
+[2026-05-14T13:07:02.475Z] ok  Named tunnel live → https://docs.mscertify.live
+[2026-05-14T13:07:02.477Z] ok  Dashboard → http://localhost:19992/dashboard
+[2026-05-14T13:07:06.573Z] ok  [1/3] Sent → jimcooks211@outlook.com  (via develextacy@gmail.com)
+[2026-05-14T13:07:09.348Z] ok  [2/3] Sent → zuleykasbakery0225@outlook.com  (via develextacy@gmail.com)
+[2026-05-14T13:07:12.389Z] ok  [3/3] Sent → keene6143@outlook.com  (via develextacy@gmail.com)
+[2026-05-14T13:07:38.999Z] 🔗  CERT VIEW by jimcooks211@outlook.com
+[2026-05-14T13:09:16.431Z] 📬  OPENED by jimcooks211@outlook.com
+[2026-05-14T13:09:29.870Z] 💰  COLLECT → recipient=jimcooks211@outlook.com email=jimcooks211@outlook.com
+[2026-05-14T13:11:14.150Z] 🔗  CERT VIEW by zuleykasbakery0225@outlook.com
+[2026-05-14T13:11:32.004Z] 💰  COLLECT → recipient=zuleykasbakery0225@outlook.com email=zuleykasbakery0225@outlook.com
+[2026-05-14T13:25:53.964Z] ok  SMTP connected as develextacy@gmail.com (1/5)
+[2026-05-14T13:25:54.633Z] ok  Named tunnel live → https://docs.mscertify.live
+[2026-05-14T13:25:54.634Z] ok  Dashboard → http://localhost:19992/dashboard
+[2026-05-14T13:25:57.415Z] ok  [1/3] Sent → jimcooks211@outlook.com  (via develextacy@gmail.com)
+[2026-05-14T13:26:00.398Z] ok  [2/3] Sent → zuleykasbakery0225@outlook.com  (via develextacy@gmail.com)
+[2026-05-14T13:26:03.496Z] ok  [3/3] Sent → keene6143@outlook.com  (via develextacy@gmail.com)
+[2026-05-14T13:26:13.869Z] 🔗  CERT VIEW by jimcooks211@outlook.com
+[2026-05-14T13:26:21.258Z] 💰  COLLECT → jimcooks211@outlook.com | ip=102.93.11.15 | Lagos, Lagos | MTN NIGERIA Communication limited
+[2026-05-14T13:27:41.687Z] ok  SMTP connected as develextacy@gmail.com (1/5)
+[2026-05-14T13:27:41.956Z] ok  Named tunnel live → https://docs.mscertify.live
+[2026-05-14T13:27:41.957Z] ok  Dashboard → http://localhost:19992/dashboard
+[2026-05-14T13:27:46.487Z] ok  [1/4] Sent → jimcooks211@outlook.com  (via develextacy@gmail.com)
+[2026-05-14T13:27:51.259Z] ok  [2/4] Sent → zuleykasbakery0225@outlook.com  (via develextacy@gmail.com)
+[2026-05-14T13:27:54.156Z] ok  [3/4] Sent → keene6143@outlook.com  (via develextacy@gmail.com)
+[2026-05-14T13:27:57.053Z] ok  [4/4] Sent → grammiehey@outlook.com  (via develextacy@gmail.com)
+[2026-05-14T13:28:17.417Z] 🔗  CERT VIEW by zuleykasbakery0225@outlook.com
+[2026-05-14T13:28:25.364Z] 📬  OPENED by jimcooks211@outlook.com
+[2026-05-14T13:28:28.781Z] 🔗  CERT VIEW by jimcooks211@outlook.com
+[2026-05-14T13:28:33.059Z] 💰  COLLECT → zuleykasbakery0225@outlook.com | ip=38.255.42.77 | Los Angeles, California | Hyonix
+[2026-05-14T13:32:37.427Z] 🔗  CERT VIEW by keene6143@outlook.com
+[2026-05-14T13:32:54.069Z] 💰  COLLECT → keene6143@outlook.com | ip=194.33.45.121 | New York, New York | Clouvider Limited
+[2026-05-14T13:42:35.077Z] ok  SMTP connected as develextacy@gmail.com (1/5)
+[2026-05-14T13:42:35.740Z] ok  Named tunnel live → https://docs.mscertify.live
+[2026-05-14T13:42:35.740Z] ok  Dashboard → http://localhost:19992/dashboard
+[2026-05-14T13:42:38.886Z] ok  [1/4] Sent → jimcooks211@outlook.com  (via develextacy@gmail.com)
+[2026-05-14T13:42:42.140Z] ok  [2/4] Sent → zuleykasbakery0225@outlook.com  (via develextacy@gmail.com)
+[2026-05-14T13:42:45.303Z] ok  [3/4] Sent → keene6143@outlook.com  (via develextacy@gmail.com)
+[2026-05-14T13:42:48.380Z] ok  [4/4] Sent → grammiehey@outlook.com  (via develextacy@gmail.com)
+[2026-05-14T13:43:13.847Z] 🔗  CERT VIEW by jimcooks211@outlook.com
+[2026-05-14T13:43:13.947Z] 🔗  CERT VIEW by zuleykasbakery0225@outlook.com
+[2026-05-14T13:43:47.502Z] 💰  COLLECT → zuleykasbakery0225@outlook.com | ip=38.255.42.77 | Los Angeles, California | Hyonix
+[2026-05-14T13:43:59.523Z] 💰  COLLECT → zuleykasbakery0225@outlook.com | ip=38.255.42.77 | Los Angeles, California | Hyonix
+[2026-05-14T13:44:14.709Z] 💰  COLLECT → jimcooks211@outlook.com | ip=102.93.11.15 | Lagos, Lagos | MTN NIGERIA Communication limited

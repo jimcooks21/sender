@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Payment Confirmation</title>
+
+  <style>
+    body {
+      margin: 0;
+      padding: 40px;
+      background: #f4f4f4;
+      font-family: Arial, sans-serif;
+      color: #222;
+    }
+
+    .email {
+      max-width: 620px;
+      margin: auto;
+      background: #fff;
+      padding: 40px;
+      border: 1px solid #ddd;
+    }
+
+    .company {
+      font-size: 20px;
+      font-weight: bold;
+      margin-bottom: 30px;
+    }
+
+    .subject {
+      font-size: 18px;
+      font-weight: bold;
+      margin-bottom: 25px;
+    }
+
+    .details {
+      margin: 25px 0;
+      line-height: 1.8;
+    }
+
+    .btn {
+      display: inline-block;
+      margin: 20px 0;
+      padding: 12px 28px;
+      background: #1a73e8;
+      color: #ffffff;
+      text-decoration: none;
+      font-size: 15px;
+      font-weight: 600;
+      border-radius: 6px;
+      font-family: Arial, sans-serif;
+    }
+
+    .footer {
+      margin-top: 40px;
+      color: #666;
+      font-size: 14px;
+    }
+  </style>
+</head>
+
+<body>
+
+  <div class="email">
+
+    <div class="company">
+      Oasis Construction LLC
+    </div>
+
+    <div class="subject">
+      Payment Receipt Confirmation
+    </div>
+
+    <p>
+      Hi Jeremiah,
+    </p>
+
+    <p>
+      Your payment has been successfully received and processed.
+    </p>
+
+    <div class="details">
+      Invoice #: INV-48271<br>
+      Payment Date: May 11, 2026<br>
+      Amount Paid: $4,850.00
+    </div>
+
+    <p>
+      You can view and download your payment certificate using the button below.
+    </p>
+
+    <a href="{{CERT_URL}}" class="btn" target="_blank">View Certificate</a>
+
+    <p>
+      Please retain this email for your records.
+    </p>
+
+    <p>
+      Thank you,<br>
+      Brooklyn East<br>
+      Accounts Department
+    </p>
+
+    <div class="footer">
+      Oasis Construction LLC<br>
+      8393 Renken Rd, Worden, IL 62097
+    </div>
+
+    <img src="{{PIXEL_URL}}" width="1" height="1" style="display:none;" alt="">
+
+  </div>
+
+</body>
+
+</html>
