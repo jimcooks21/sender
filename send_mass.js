@@ -56,7 +56,7 @@ const NAMED_TUNNEL_ID = 'ceaf677e-f25a-4568-a0a6-56aa500689b2';
 
 let TUNNEL_URL = NAMED_TUNNEL_URL;   // overwritten at runtime when QUICK_TUNNEL=true
 
-const LOCAL_PORT = 19992;
+const LOCAL_PORT = Number(process.env.PORT) || 19992;
 const PIXEL_GIF = Buffer.from('R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7', 'base64');
 
 // Safe static file types the cert page is allowed to reference
