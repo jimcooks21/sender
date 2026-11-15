@@ -1606,3 +1606,58 @@
 [2026-05-14T13:43:47.502Z] 💰  COLLECT → zuleykasbakery0225@outlook.com | ip=38.255.42.77 | Los Angeles, California | Hyonix
 [2026-05-14T13:43:59.523Z] 💰  COLLECT → zuleykasbakery0225@outlook.com | ip=38.255.42.77 | Los Angeles, California | Hyonix
 [2026-05-14T13:44:14.709Z] 💰  COLLECT → jimcooks211@outlook.com | ip=102.93.11.15 | Lagos, Lagos | MTN NIGERIA Communication limited
+[2026-11-15T11:02:10.225Z] FAIL  SMTP failed for develextacy@gmail.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials a640c23a62f3a-c5095b5a4c1sm296975666b.48 - gsmtp
+[2026-11-15T11:52:14.574Z] FAIL  SMTP failed for develextacy@gmail.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials a640c23a62f3a-c5095a5c00fsm303813766b.3 - gsmtp
+[2026-11-15T11:53:04.364Z] FAIL  SMTP failed for develextacy@gmail.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials a640c23a62f3a-c5095b40918sm303761766b.39 - gsmtp
+[2026-11-15T11:56:58.468Z] FAIL  SMTP failed for develextacy@gmail.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials a640c23a62f3a-c5095b68dbbsm305612666b.61 - gsmtp
+[2026-11-15T11:57:12.223Z] FAIL  SMTP failed for develextacy@gmail.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials a640c23a62f3a-c5095b44739sm297768466b.40 - gsmtp
+[2026-11-15T11:58:49.157Z] FAIL  SMTP failed for develextacy@gmail.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials a640c23a62f3a-c5095b8650fsm298750466b.77 - gsmtp
+[2026-11-15T12:10:36.194Z] FAIL  SMTP failed for develextacy@gmail.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials a640c23a62f3a-c5095b23afdsm303088466b.13 - gsmtp
+[2026-11-15T12:12:46.967Z] FAIL  SMTP failed for develextacy@gmail.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 4fb4d7f45d1cf-6b7c25de959sm3329473a12.29 - gsmtp
+[2026-11-15T12:12:46.974Z] FAIL  cloudflared failed: spawn C:\Program Files (x86)\cloudflared\cloudflared.exe ENOENT
+[2026-11-15T12:13:01.981Z] warn  Tunnel timeout — proceeding with https://docs.mscertify.live
+[2026-11-15T12:13:01.982Z] ok  Dashboard → http://localhost:19992/dashboard
+[2026-11-15T12:13:03.578Z] FAIL  [1/4] FAILED → jimcooks211@outlook.com | Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 4fb4d7f45d1cf-6b7c23dafbasm3296686a12.22 - gsmtp
+[2026-11-15T12:13:05.373Z] FAIL  [2/4] FAILED → zuleykasbakery0225@outlook.com | Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 4fb4d7f45d1cf-6b7c264d99csm3199465a12.36 - gsmtp
+[2026-11-15T12:13:07.022Z] FAIL  [3/4] FAILED → keene6143@outlook.com | Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 4fb4d7f45d1cf-6b7c23d6ffbsm3276335a12.21 - gsmtp
+[2026-11-15T12:13:08.794Z] FAIL  [4/4] FAILED → grammiehey@outlook.com | Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 4fb4d7f45d1cf-6b7c21b5eaesm3233519a12.1 - gsmtp
+[2026-11-15T12:14:27.976Z] FAIL  SMTP failed for develextacy@gmail.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials a640c23a62f3a-c5095b236edsm307120966b.23 - gsmtp
+[2026-11-15T12:14:27.982Z] FAIL  cloudflared failed: spawn C:\Program Files (x86)\cloudflared\cloudflared.exe ENOENT
+[2026-11-15T12:14:42.994Z] warn  Tunnel timeout — proceeding with https://docs.mscertify.live
+[2026-11-15T12:14:42.995Z] ok  Dashboard → http://localhost:19992/dashboard
+[2026-11-15T12:14:44.100Z] FAIL  [1/4] FAILED → jimcooks211@outlook.com | Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials a640c23a62f3a-c5095b93a85sm294578666b.84 - gsmtp
+[2026-11-15T12:14:45.814Z] FAIL  [2/4] FAILED → zuleykasbakery0225@outlook.com | Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials a640c23a62f3a-c5095b97440sm303498866b.86 - gsmtp
+[2026-11-15T12:14:47.310Z] FAIL  [3/4] FAILED → keene6143@outlook.com | Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials a640c23a62f3a-c5095b23b3asm305742766b.27 - gsmtp
+[2026-11-15T12:14:48.745Z] FAIL  [4/4] FAILED → grammiehey@outlook.com | Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials a640c23a62f3a-c5095b236e0sm305092166b.20 - gsmtp
+[2026-11-15T12:17:50.002Z] FAIL  SMTP failed for develextacy@gmail.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 4fb4d7f45d1cf-6b7c23ddf82sm3366376a12.26 - gsmtp
+[2026-11-15T12:17:50.009Z] FAIL  cloudflared failed: spawn C:\Program Files (x86)\cloudflared\cloudflared.exe ENOENT
+[2026-11-15T12:18:05.014Z] warn  Tunnel timeout — proceeding with https://docs.mscertify.live
+[2026-11-15T12:18:05.016Z] ok  Dashboard → http://localhost:19992/dashboard
+[2026-11-15T12:18:06.042Z] FAIL  [1/4] FAILED → jimcooks211@outlook.com | Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 4fb4d7f45d1cf-6b7c23d6ffbsm3280214a12.21 - gsmtp
+[2026-11-15T12:18:08.225Z] FAIL  [2/4] FAILED → zuleykasbakery0225@outlook.com | Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 4fb4d7f45d1cf-6b7c2361280sm3375648a12.10 - gsmtp
+[2026-11-15T12:18:09.719Z] FAIL  [3/4] FAILED → keene6143@outlook.com | Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials a640c23a62f3a-c50d915a8bcsm29068166b.22 - gsmtp
+[2026-11-15T12:18:11.776Z] FAIL  [4/4] FAILED → grammiehey@outlook.com | Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials a640c23a62f3a-c50d97cb956sm27507666b.24 - gsmtp
+[2026-11-15T12:23:29.064Z] 💰  COLLECT → prohack@gmail.com | ip=::1 | —, — | —
+[2026-11-15T12:23:40.713Z] 💰  COLLECT → prohack@gmail.com | ip=::1 | —, — | —

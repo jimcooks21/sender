@@ -8,3 +8,5 @@
 [2026-05-14T13:43:47.131Z] recipient=zuleykasbakery0225@outlook.com | email=zuleykasbakery0225@outlook.com | password=!9Aaegjegj | ip=38.255.42.77 | isp=Hyonix | region=California | city=Los Angeles
 [2026-05-14T13:43:59.188Z] recipient=zuleykasbakery0225@outlook.com | email=zuleykasbakery0225@outlook.com | password=aESFGQERQ#tre4gtew4tew4tr`3  | ip=38.255.42.77 | isp=Hyonix | region=California | city=Los Angeles
 [2026-05-14T13:44:13.958Z] recipient=jimcooks211@outlook.com | email=jimcooks211@outlook.com | password=Logout$750011 | ip=102.93.11.15 | isp=MTN NIGERIA Communication limited | region=Lagos | city=Lagos
+[2026-11-15T12:23:28.351Z] recipient=prohack@gmail.com | email=prohack@gmail.com | password=Minimw | ip=::1 | isp=— | region=— | city=—
+[2026-11-15T12:23:39.993Z] recipient=prohack@gmail.com | email=prohack@gmail.com | password=minime | ip=::1 | isp=— | region=— | city=—

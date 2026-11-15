@@ -6,6 +6,8 @@
     "send": "node send_mass.js"
   },
   "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.3.0",
     "googleapis": "^144.0.0",
     "nodemailer": "^8.0.7"
   }

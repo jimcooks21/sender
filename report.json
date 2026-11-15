@@ -1,34 +1,34 @@
 [
   {
     "email": "jimcooks211@outlook.com",
-    "status": "CLICKED",
-    "sentAt": 1778766158886,
+    "status": "SMTP_FAILED",
+    "sentAt": null,
     "openedAt": null,
-    "clickedAt": "2026-05-14T13:43:13.847Z",
-    "error": null
+    "clickedAt": null,
+    "error": "Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to\n535 5.7.8  https://support.google.com/mail/?p=BadCredentials 4fb4d7f45d1cf-6b7c23d6ffbsm3280214a12.21 - gsmtp"
   },
   {
     "email": "zuleykasbakery0225@outlook.com",
-    "status": "CLICKED",
-    "sentAt": 1778766162140,
+    "status": "SMTP_FAILED",
+    "sentAt": null,
     "openedAt": null,
-    "clickedAt": "2026-05-14T13:43:13.947Z",
-    "error": null
+    "clickedAt": null,
+    "error": "Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to\n535 5.7.8  https://support.google.com/mail/?p=BadCredentials 4fb4d7f45d1cf-6b7c2361280sm3375648a12.10 - gsmtp"
   },
   {
     "email": "keene6143@outlook.com",
-    "status": "PENDING",
-    "sentAt": 1778766165303,
+    "status": "SMTP_FAILED",
+    "sentAt": null,
     "openedAt": null,
     "clickedAt": null,
-    "error": null
+    "error": "Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to\n535 5.7.8  https://support.google.com/mail/?p=BadCredentials a640c23a62f3a-c50d915a8bcsm29068166b.22 - gsmtp"
   },
   {
     "email": "grammiehey@outlook.com",
-    "status": "PENDING",
-    "sentAt": 1778766168380,
+    "status": "SMTP_FAILED",
+    "sentAt": null,
     "openedAt": null,
     "clickedAt": null,
-    "error": null
+    "error": "Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to\n535 5.7.8  https://support.google.com/mail/?p=BadCredentials a640c23a62f3a-c50d97cb956sm27507666b.24 - gsmtp"
   }
 ]

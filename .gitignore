@@ -1,3 +1,4 @@
 node_modules
-/electron-app/node_module
+electron-app/node_module
 dkim_private.pemelectron-app/dist/
+electron-app/

